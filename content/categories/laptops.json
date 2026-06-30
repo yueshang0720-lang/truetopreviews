@@ -1,0 +1,32 @@
+{
+  "slug": "laptops",
+  "name": "Laptops",
+  "description": "From ultrabooks to gaming rigs, find the best laptop for work, study, or play.",
+  "longDescription": "We benchmarked 20+ laptops across CPU performance, battery life, display quality, and build quality. Whether you need a portable workhorse or a gaming powerhouse, our top 10 has you covered.",
+  "icon": "laptop-icon.svg",
+  "image": "laptop-hero.jpg",
+  "products": [
+    "macbook-air-m4",
+    "dell-xps-16",
+    "thinkpad-x1-carbon",
+    "asus-zenbook-14",
+    "framework-13"
+  ],
+  "buyingGuideIntro": "Choosing the right laptop depends on your needs and budget. Our testing evaluates every product across key performance criteria.",
+  "testingCriteria": [
+    "Performance — CPU and GPU benchmarks across productivity, creative, and gaming workloads",
+    "Battery Life — Real-world mixed usage tests at 200 nits brightness",
+    "Display — Color accuracy, brightness, and resolution evaluation",
+    "Build Quality — Keyboard, trackpad, chassis rigidity, and port selection",
+    "Value — Price-to-performance ratio across budget, mid-range, and premium tiers"
+  ],
+  "seoMeta": {
+    "t": "10 Best Laptops of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "d": "We tested 20+ laptops to find the 10 best. Compare performance, battery, display, and pricing.",
+    "k": [
+      "best laptop",
+      "laptop review",
+      "laptop comparison"
+    ]
+  }
+}

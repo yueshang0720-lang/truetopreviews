@@ -1,0 +1,113 @@
+{
+  "slug": "godaddy",
+  "name": "GoDaddy",
+  "category": "web-hosting",
+  "tagline": "Largest hosting provider with all-in-one business solutions",
+  "description": "GoDaddy is the world's largest domain registrar and hosting provider, offering integrated solutions for businesses that need domains, hosting, email, and marketing tools.",
+  "longDescription": "GoDaddy is the 800-pound gorilla of web hosting — the largest provider in the world with over 20 million customers. The sheer scale brings advantages: 24/7 phone support, a massive knowledge base, and integrated services that cover everything from domain registration to email marketing. The hosting performance is adequate with 99.90% uptime and 1.7-second average loads. Where GoDaddy excels is the ecosystem: buy a domain, set up hosting, create email addresses, and launch marketing campaigns from a single account. The main drawback is aggressive upselling — nearly every interaction surfaces a paid upgrade. For users who want everything in one place and value convenience over peak performance, GoDaddy is a reasonable choice.",
+  "logo": "godaddy-logo.png",
+  "image": "godaddy-hero.jpg",
+  "website": "https://www.godaddy.com",
+  "pricing": {
+    "startingPrice": 5.99,
+    "priceUnit": "/mo",
+    "displayPrice": "$5.99/mo (first year, renews at $9.99/mo)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 9.99
+  },
+  "ratings": {
+    "overall": 8,
+    "features": 8.3,
+    "easeOfUse": 8.5,
+    "pricing": 7,
+    "support": 8,
+    "reliability": 7.8
+  },
+  "pros": [
+    "Largest provider — 20M+ customers",
+    "Integrated domain + hosting + email",
+    "24/7 phone and chat support",
+    "Global data centers",
+    "Free business email for first year"
+  ],
+  "cons": [
+    "Aggressive upselling everywhere",
+    "Higher prices than competitors",
+    "Average performance",
+    "Backups and SSL cost extra on basic plan"
+  ],
+  "keyFeatures": [
+    {
+      "name": "All-in-One Dashboard",
+      "description": "Single interface for managing domains, hosting, email, and marketing. Seamless integration between services simplifies management.",
+      "icon": "layout"
+    },
+    {
+      "name": "Microsoft 365 Integration",
+      "description": "Professional business email powered by Microsoft 365 available as add-on. Integrates with Outlook, Teams, and Office applications.",
+      "icon": "mail"
+    },
+    {
+      "name": "Website Builder",
+      "description": "AI-powered website builder with industry-specific templates. GoDaddy Studio for creating logos and graphics. Suitable for complete beginners.",
+      "icon": "wand"
+    },
+    {
+      "name": "Global Data Centers",
+      "description": "Data centers in North America, Europe, and Asia. Automatic geographic routing for optimal performance based on visitor location.",
+      "icon": "globe"
+    }
+  ],
+  "specs": {
+    "Uptime": "99.90%",
+    "Page Load Time": "1.7s avg",
+    "Storage": "30GB - 100GB",
+    "Free SSL": "No (paid add-on)",
+    "Free Domain": "Yes (1 year)",
+    "Free CDN": "No",
+    "Data Centers": "Global (3 continents)",
+    "Money-back": "30 days"
+  },
+  "verdict": "GoDaddy is a reasonable choice for users who want a single provider for domains, hosting, and email. The integrated ecosystem is convenient, and the 24/7 phone support is reliable. However, the high prices and aggressive upselling mean better value exists elsewhere. We recommend it primarily for users already using GoDaddy for domains who want the convenience of consolidated services.",
+  "faqs": [
+    {
+      "question": "Should I host where I buy my domain?",
+      "answer": "Not necessarily. While keeping domains and hosting with the same provider is convenient, it can make switching hosts more complex. We recommend separating domain registration (e.g., Namecheap) from hosting (e.g., SiteGround) to maintain flexibility and avoid vendor lock-in."
+    },
+    {
+      "question": "Does GoDaddy include free SSL?",
+      "answer": "Not on the basic plan. SSL certificates are a paid add-on on GoDaddy's Economy plan, which is unusual — most competitors include free SSL via Let's Encrypt. The Deluxe plan and above include SSL for the first year, after which it is billed annually."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-06-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested web hosting services for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.godaddy.com",
+  "comparisonData": {
+    "uptime": "99.90%",
+    "speed": "1.7s",
+    "storage": "30GB",
+    "freeSSL": false,
+    "freeDomain": true,
+    "cdn": false,
+    "backups": false,
+    "staging": false
+  },
+  "seoMeta": {
+    "title": "GoDaddy Review 2026: 8.0/10 Rating | TrueTopReviews",
+    "description": "In-depth GoDaddy review covering integrated services, domains, and pricing. Rated 8.0/10.",
+    "keywords": [
+      "GoDaddy review",
+      "web hosting",
+      "domain hosting"
+    ]
+  }
+}

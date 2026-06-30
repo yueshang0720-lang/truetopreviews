@@ -1,0 +1,118 @@
+{
+  "slug": "kaspersky",
+  "name": "Kaspersky",
+  "category": "antivirus",
+  "tagline": "Excellent protection engine with industry-leading threat intelligence",
+  "description": "Kaspersky offers one of the most technically accomplished antivirus engines available, backed by one of the world's largest threat intelligence networks.",
+  "longDescription": "Kaspersky's antivirus engine is among the most technically sophisticated available. The company operates one of the world's largest threat intelligence networks, analyzing over 360,000 new malware samples daily. This gives Kaspersky an edge in detecting emerging threats before they become widespread. In independent lab tests, Kaspersky consistently achieves 99%+ detection rates with reasonable system impact. However, the company's Russian origins have led to government bans in several countries. Kaspersky has since relocated much of its infrastructure to Switzerland and opened Transparency Centers for independent code reviews.",
+  "logo": "kaspersky-logo.png",
+  "image": "kaspersky-hero.jpg",
+  "website": "https://www.kaspersky.com",
+  "pricing": {
+    "startingPrice": 34.99,
+    "priceUnit": "/yr",
+    "displayPrice": "$34.99/yr (first year, 5 devices)",
+    "hasFreeTrial": true,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 79.99
+  },
+  "ratings": {
+    "overall": 8.4,
+    "features": 8.7,
+    "easeOfUse": 8.3,
+    "pricing": 8.1,
+    "support": 8.2,
+    "reliability": 8.5
+  },
+  "pros": [
+    "Industry-leading threat intelligence",
+    "Excellent malware detection rates",
+    "Password Manager included",
+    "Good parental controls",
+    "File encryption tools included"
+  ],
+  "cons": [
+    "Geopolitical concerns about Russian origins",
+    "Banned from US government systems",
+    "No free version available",
+    "VPN has low data cap (300MB/day)"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Security Cloud Network",
+      "description": "Global threat intelligence network processing 360,000+ new samples daily. Enables real-time protection against emerging threats.",
+      "icon": "cloud"
+    },
+    {
+      "name": "Safe Money",
+      "description": "Browser hardening for online banking and shopping. Creates a secure, isolated environment with protected browser and virtual keyboard.",
+      "icon": "lock"
+    },
+    {
+      "name": "Application Control",
+      "description": "Dynamic allowlisting that categorizes applications by trust level. Automatically restricts untrusted programs based on behavior.",
+      "icon": "settings"
+    },
+    {
+      "name": "File Protection",
+      "description": "Multi-layered scanning engine combining signature, heuristic, and cloud-based detection. Can scan encrypted connections (HTTPS) for hidden threats.",
+      "icon": "shield"
+    }
+  ],
+  "specs": {
+    "Malware Detection": "99.1%",
+    "Devices Covered": "Up to 10",
+    "Platforms": "Windows, Mac, Android, iOS",
+    "VPN Included": "Yes (300MB/day)",
+    "Password Manager": "Yes",
+    "Parental Controls": "Yes",
+    "Customer Support": "Phone + live chat",
+    "Free Version": "No"
+  },
+  "verdict": "Kaspersky offers technically excellent antivirus protection backed by unparalleled threat intelligence. The malware detection engine is among the best in the world. However, the geopolitical controversy surrounding the company's Russian origins is a legitimate concern that users should consider.",
+  "faqs": [
+    {
+      "question": "Is Kaspersky banned in the US?",
+      "answer": "Yes, Kaspersky software is banned from US federal government systems. Private citizens can still purchase and use Kaspersky products, but the US government recommends against it."
+    },
+    {
+      "question": "Is Kaspersky VPN any good?",
+      "answer": "Kaspersky's included VPN (Secure Connection) is quite limited with only 300MB of daily data on standard plans. It is adequate for occasional secure browsing but not suitable for streaming or heavy use."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best Detection Engine",
+      "description": "Industry-leading threat intelligence"
+    }
+  ],
+  "lastUpdated": "2026-06-22T00:00:00Z",
+  "reviewDate": "2025-04-10T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has been evaluating cybersecurity products for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.kaspersky.com",
+  "comparisonData": {
+    "noLogsPolicy": true,
+    "auditedNoLogs": true,
+    "killSwitch": true,
+    "liveChat": true,
+    "freeVersion": false,
+    "moneyBackDays": "30",
+    "startingPrice": "$34.99/yr"
+  },
+  "seoMeta": {
+    "title": "Kaspersky Review 2026: 8.4/10 Rating | TrueTopReviews",
+    "description": "In-depth Kaspersky review covering malware detection, threat intelligence, and pricing. Rated 8.4/10.",
+    "keywords": [
+      "Kaspersky review",
+      "antivirus review",
+      "threat detection"
+    ]
+  }
+}

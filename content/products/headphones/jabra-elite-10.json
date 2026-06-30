@@ -1,0 +1,102 @@
+{
+  "slug": "jabra-elite-10",
+  "name": "Jabra Elite 10",
+  "category": "headphones",
+  "tagline": "Best for call quality and work-from-home use",
+  "description": "Jabra Elite 10 offers the best microphone and call quality of any wireless earbud, with excellent comfort for all-day professional use.",
+  "longDescription": "Jabra brings its enterprise headset expertise to the consumer market. The standout feature is call quality — a 6-microphone array with bone conduction sensors delivers clearer voice pickup than any competitor. The semi-open design with oval ear tips provides exceptional comfort without the plugged-ear feeling. ANC is effective though not matching Sony or Bose. For professionals who spend hours on calls, the Elite 10 is the best choice available.",
+  "logo": "jabra-elite-10-logo.png",
+  "image": "jabra-elite-10-hero.jpg",
+  "website": "https://www.jabra.com",
+  "pricing": {
+    "startingPrice": 249,
+    "priceUnit": "",
+    "displayPrice": "$$249",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 299
+  },
+  "ratings": {
+    "overall": 8.8,
+    "features": 8.7,
+    "easeOfUse": 9,
+    "pricing": 8.5,
+    "support": 8.8,
+    "reliability": 8.6
+  },
+  "pros": [
+    "Best-in-class call quality",
+    "Extremely comfortable semi-open fit",
+    "Excellent multipoint Bluetooth",
+    "IP57 dust and water resistance",
+    "Good ANC with HearThrough"
+  ],
+  "cons": [
+    "ANC not as strong as Sony/Bose",
+    "Sound quality good not exceptional",
+    "No hi-res codec support",
+    "Jabra exiting consumer market"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Best for call quality and work-from-home use",
+      "icon": "music"
+    }
+  ],
+  "specs": {
+    "Driver": "10mm Jabra dynamic",
+    "ANC": "Yes Adaptive",
+    "Transparency": "Yes HearThrough",
+    "Battery": "6h 27h case",
+    "Charging": "USB-C Qi wireless",
+    "Water Resistance": "IP57",
+    "Codecs": "AAC SBC LC3",
+    "Weight": "5.7g"
+  },
+  "verdict": "Jabra Elite 10 is the best wireless earbud for professionals who prioritize call quality. Microphone performance is unmatched and the comfortable semi-open design is ideal for all-day wear.",
+  "faqs": [
+    {
+      "question": "Are Jabra Elite 10 good for Zoom calls?",
+      "answer": "Yes, they are the best wireless earbuds for video calls we have tested. The 6-microphone array captures voices clearly while suppressing keyboard clicks and room echo."
+    },
+    {
+      "question": "Is Jabra leaving the consumer market?",
+      "answer": "Yes, Jabra's parent company GN announced it would wind down consumer products. Existing products continue to be supported, but future consumer models are unlikely."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best Call Quality",
+      "description": "Unmatched microphone performance"
+    }
+  ],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-09-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested over 100 audio products across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.jabra.com",
+  "comparisonData": {
+    "anc": true,
+    "transparency": true,
+    "wirelessCharging": false,
+    "waterResistance": "IPX4",
+    "batteryLife": "6h",
+    "spatialAudio": true,
+    "hiResAudio": false
+  },
+  "seoMeta": {
+    "title": "Jabra Elite 10 Review 2026: 8.8/10 | TrueTopReviews",
+    "description": "In-depth Jabra Elite 10 review covering sound quality, ANC, and features. Rated 8.8/10.",
+    "keywords": [
+      "Jabra Elite 10 review",
+      "wireless earbuds"
+    ]
+  }
+}

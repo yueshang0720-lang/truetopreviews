@@ -1,0 +1,86 @@
+{
+  "slug": "framework-13",
+  "name": "Framework Laptop 13",
+  "category": "laptops",
+  "tagline": "Best repairable and upgradeable laptop",
+  "description": "Framework 13 is the only fully modular, user-repairable laptop. Upgrade CPU, RAM, ports, and battery yourself.",
+  "longDescription": "Framework Laptop 13 is our best repairable and upgradeable laptop. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "framework-13-logo.png",
+  "image": "framework-13-hero.jpg",
+  "website": "https://frame.work",
+  "pricing": {
+    "startingPrice": 1049,
+    "priceUnit": "",
+    "displayPrice": "$1,049 (DIY from $849)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 1049
+  },
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.8,
+    "easeOfUse": 8,
+    "pricing": 8.5,
+    "support": 8,
+    "reliability": 8.3
+  },
+  "pros": [
+    "Fully user-repairable and upgradeable",
+    "Customizable expansion ports",
+    "Good performance with latest Intel/AMD",
+    "Strong community and parts availability",
+    "Environmentally responsible"
+  ],
+  "cons": [
+    "Slightly thicker than competitors",
+    "Battery life is average",
+    "Limited retail availability",
+    "Build quality not premium-tier"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best repairable and upgradeable laptop",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Framework Laptop 13 is a solid choice for repairable and upgradeable laptop. Fully user-repairable and upgradeable. Slightly thicker than competitors.",
+  "faqs": [
+    {
+      "question": "Who is the Framework Laptop 13 best for?",
+      "answer": "Framework 13 is the only fully modular, user-repairable laptop. Upgrade CPU, RAM, ports, and battery yourself."
+    },
+    {
+      "question": "Is the Framework Laptop 13 worth the price?",
+      "answer": "Yes, the Framework Laptop 13 justifies its price with fully user-repairable and upgradeable. We recommend it for users who prioritize repairable and."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Top Laptop Pick",
+      "description": "Best repairable and upgradeable laptop"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://frame.work",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Framework Laptop 13 Review 2026: 8.5/10 Rating | TrueTopReviews",
+    "description": "In-depth Framework Laptop 13 review covering performance, features, and value. Rated 8.5/10 by our experts.",
+    "keywords": [
+      "Framework Laptop 13 review",
+      "Laptops review",
+      "best Laptop"
+    ]
+  }
+}

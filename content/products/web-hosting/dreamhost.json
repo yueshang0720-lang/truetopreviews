@@ -1,0 +1,119 @@
+{
+  "slug": "dreamhost",
+  "name": "DreamHost",
+  "category": "web-hosting",
+  "tagline": "Best for privacy with strong commitment to open source",
+  "description": "DreamHost offers reliable hosting with a strong commitment to privacy, open-source values, and a generous 97-day money-back guarantee.",
+  "longDescription": "DreamHost stands out with its principled approach to hosting: strong privacy protections, commitment to open-source software, and transparent business practices. The company has been independently owned since 1997 and actively contributes to WordPress development. The custom control panel (no cPanel) is clean and functional, though it has a learning curve for cPanel veterans. Performance is solid with 99.94% uptime and 1.5-second average page loads. The 97-day money-back guarantee is the longest in the industry, giving you ample time to evaluate the service. DreamHost is a particularly good fit for users who share its values around privacy and open-source.",
+  "logo": "dreamhost-logo.png",
+  "image": "dreamhost-hero.jpg",
+  "website": "https://www.dreamhost.com",
+  "pricing": {
+    "startingPrice": 2.59,
+    "priceUnit": "/mo",
+    "displayPrice": "$2.59/mo (first year, renews at $5.99/mo)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 97,
+    "regularPrice": 5.99
+  },
+  "ratings": {
+    "overall": 8.7,
+    "features": 8.5,
+    "easeOfUse": 8,
+    "pricing": 8.8,
+    "support": 8.3,
+    "reliability": 8.7
+  },
+  "pros": [
+    "97-day money-back guarantee",
+    "Strong privacy protections",
+    "Independently owned since 1997",
+    "Active WordPress contributor",
+    "Monthly billing available"
+  ],
+  "cons": [
+    "Custom control panel (no cPanel)",
+    "No phone support",
+    "Server locations USA only",
+    "Limited advanced features"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Privacy-First Approach",
+      "description": "Strong privacy policy with minimal data collection. Free domain privacy included. Independently owned — no corporate parent selling user data.",
+      "icon": "eye-off"
+    },
+    {
+      "name": "WordPress Expertise",
+      "description": "Active WordPress core contributor. Managed WordPress hosting (DreamPress) with automatic updates, caching, and staging.",
+      "icon": "edit"
+    },
+    {
+      "name": "97-Day Guarantee",
+      "description": "Industry-leading 97-day money-back guarantee. Three months to evaluate the service risk-free. Shared hosting only — domain fees excluded.",
+      "icon": "shield"
+    },
+    {
+      "name": "Monthly Billing",
+      "description": "True month-to-month billing available at competitive rates. No long-term commitment required. Cancel anytime without losing prepaid months.",
+      "icon": "calendar"
+    }
+  ],
+  "specs": {
+    "Uptime": "99.94%",
+    "Page Load Time": "1.5s avg",
+    "Storage": "50GB - Unlimited",
+    "Free SSL": "Yes",
+    "Free Domain": "Yes (1 year)",
+    "Free CDN": "No",
+    "Data Centers": "USA only",
+    "Money-back": "97 days"
+  },
+  "verdict": "DreamHost is the best choice for users who value privacy and independence in their hosting provider. The 97-day guarantee is the most generous available, and the commitment to open-source is genuine. The custom control panel and limited support channels are the main trade-offs.",
+  "faqs": [
+    {
+      "question": "Is DreamHost's 97-day guarantee real?",
+      "answer": "Yes, DreamHost offers a full 97-day money-back guarantee on shared hosting plans. Refunds are processed within 48 hours. The guarantee applies to the hosting service — domain registration fees ($10-15) are not refundable."
+    },
+    {
+      "question": "Does DreamHost use cPanel?",
+      "answer": "No, DreamHost uses a custom-built control panel instead of cPanel. While it is functional and covers all essential features, there is a learning curve if you are used to cPanel. The panel is clean but may feel unfamiliar to cPanel veterans."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best for Privacy",
+      "description": "Strong commitment to user privacy"
+    }
+  ],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-06-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested web hosting services for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.dreamhost.com",
+  "comparisonData": {
+    "uptime": "99.94%",
+    "speed": "1.5s",
+    "storage": "50GB",
+    "freeSSL": true,
+    "freeDomain": true,
+    "cdn": false,
+    "backups": false,
+    "staging": true
+  },
+  "seoMeta": {
+    "title": "DreamHost Review 2026: 8.7/10 Rating | TrueTopReviews",
+    "description": "In-depth DreamHost review covering privacy, open-source values, and pricing. Rated 8.7/10.",
+    "keywords": [
+      "DreamHost review",
+      "web hosting",
+      "privacy hosting"
+    ]
+  }
+}

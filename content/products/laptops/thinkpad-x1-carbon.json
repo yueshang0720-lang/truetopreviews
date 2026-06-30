@@ -1,0 +1,86 @@
+{
+  "slug": "thinkpad-x1-carbon",
+  "name": "ThinkPad X1 Carbon Gen 12",
+  "category": "laptops",
+  "tagline": "Best business laptop with legendary durability",
+  "description": "The ThinkPad X1 Carbon offers military-grade durability, best-in-class keyboard, and enterprise security features.",
+  "longDescription": "ThinkPad X1 Carbon Gen 12 is our best business laptop with legendary durability. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "thinkpad-x1-carbon-logo.png",
+  "image": "thinkpad-x1-carbon-hero.jpg",
+  "website": "https://www.lenovo.com",
+  "pricing": {
+    "startingPrice": 1549,
+    "priceUnit": "",
+    "displayPrice": "$1,549",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 1549
+  },
+  "ratings": {
+    "overall": 9,
+    "features": 8.8,
+    "easeOfUse": 8.5,
+    "pricing": 8,
+    "support": 9.3,
+    "reliability": 9.2
+  },
+  "pros": [
+    "Legendary ThinkPad keyboard",
+    "MIL-STD-810H durability",
+    "Excellent port selection",
+    "Lightweight at 2.4 lbs",
+    "3-year warranty standard"
+  ],
+  "cons": [
+    "Display not as vibrant as competitors",
+    "Premium pricing for business",
+    "Integrated graphics only",
+    "Conservative design"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best business laptop with legendary durability",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "ThinkPad X1 Carbon Gen 12 is our top recommendation for business laptop with legendary durability. Legendary ThinkPad keyboard. Display not as vibrant as competitors.",
+  "faqs": [
+    {
+      "question": "Who is the ThinkPad X1 Carbon Gen 12 best for?",
+      "answer": "The ThinkPad X1 Carbon offers military-grade durability, best-in-class keyboard, and enterprise security features."
+    },
+    {
+      "question": "Is the ThinkPad X1 Carbon Gen 12 worth the price?",
+      "answer": "Yes, the ThinkPad X1 Carbon Gen 12 justifies its price with legendary thinkpad keyboard. We recommend it for users who prioritize business laptop."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Laptop 2026",
+      "description": "Best business laptop with legendary durability"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.lenovo.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "ThinkPad X1 Carbon Gen 12 Review 2026: 9/10 Rating | TrueTopReviews",
+    "description": "In-depth ThinkPad X1 Carbon Gen 12 review covering performance, features, and value. Rated 9/10 by our experts.",
+    "keywords": [
+      "ThinkPad X1 Carbon Gen 12 review",
+      "Laptops review",
+      "best Laptop"
+    ]
+  }
+}

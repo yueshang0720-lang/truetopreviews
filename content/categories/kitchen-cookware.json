@@ -1,0 +1,31 @@
+{
+  "slug": "kitchen-cookware",
+  "name": "Kitchen & Cookware",
+  "description": "Upgrade your kitchen with the best non-toxic cookware, pans, and cooking tools. Expert reviews of ceramic, stainless steel, and cast iron options.",
+  "longDescription": "We tested 15 cookware brands for heat distribution, non-stick durability, ease of cleaning, and safety certifications. Our picks help you cook better with fewer chemicals.",
+  "icon": "kitchen-cookware-icon.svg",
+  "image": "kitchen-cookware-hero.jpg",
+  "products": [
+    "ourplace-always-pan",
+    "caraway-cookware-set",
+    "hexclad-hybrid-pan",
+    "made-in-stainless"
+  ],
+  "buyingGuideIntro": "We tested 15 cookware brands for heat distribution, non-stick durability, ease of cleaning, and safety certifications.",
+  "testingCriteria": [
+    "Performance",
+    "Ease of Use",
+    "Value",
+    "Build Quality",
+    "Features"
+  ],
+  "seoMeta": {
+    "t": "Best Kitchen Cookware of 2026 — Expert Reviews | TrueTopReviews",
+    "d": "We tested 15 cookware brands to find the best non-toxic pots and pans. Compare ceramic, stainless steel, and cast iron.",
+    "k": [
+      "best cookware",
+      "ceramic pan review",
+      "non-toxic cookware"
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "namecheap",
+  "name": "Namecheap",
+  "category": "web-hosting",
+  "tagline": "Best domain registrar with solid entry-level hosting",
+  "description": "Namecheap is best known as a leading domain registrar, but its hosting service offers good value with competitive entry-level pricing and strong privacy protections.",
+  "longDescription": "Namecheap built its reputation as one of the best domain registrars, and for users who already have domains there, the hosting is a natural extension. The hosting plans are competitively priced and include free domain privacy (WHOIS protection), which many competitors charge extra for. Performance is adequate with 99.88% uptime and 1.8-second average loads. The cPanel interface is standard and familiar. Namecheap's strength is the combination of domain management and hosting in one place, with a company that has a strong track record of advocating for internet freedom and privacy. The hosting itself is average, but the overall package is good value.",
+  "logo": "namecheap-logo.png",
+  "image": "namecheap-hero.jpg",
+  "website": "https://www.namecheap.com",
+  "pricing": {
+    "startingPrice": 1.98,
+    "priceUnit": "/mo",
+    "displayPrice": "$1.98/mo (first year, renews at $4.48/mo)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 4.48
+  },
+  "ratings": {
+    "overall": 7.8,
+    "features": 7.5,
+    "easeOfUse": 8,
+    "pricing": 8.5,
+    "support": 7.2,
+    "reliability": 7.6
+  },
+  "pros": [
+    "Excellent domain registrar integration",
+    "Free domain privacy (WHOIS protection)",
+    "Very competitive introductory pricing",
+    "Strong privacy advocacy",
+    "Bitcoin payment accepted"
+  ],
+  "cons": [
+    "Average hosting performance",
+    "Support response can be slow",
+    "Limited data center locations",
+    "Fewer advanced hosting features"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Free Domain Privacy",
+      "description": "WHOIS protection included free forever with all domains. Your personal information stays hidden from public WHOIS databases — most registrars charge $5-10/year.",
+      "icon": "shield"
+    },
+    {
+      "name": "cPanel Hosting",
+      "description": "Standard cPanel interface with Softaculous one-click installer. Familiar environment for anyone who has used shared hosting before.",
+      "icon": "terminal"
+    },
+    {
+      "name": "Bitcoin Payments",
+      "description": "Accept Bitcoin and other cryptocurrencies for domain and hosting purchases. Privacy-focused payment option not available at most competitors.",
+      "icon": "bitcoin"
+    },
+    {
+      "name": "Free CDN",
+      "description": "Basic CDN included with hosting plans via Supersonic CDN. Improves page load speeds for international visitors at no additional cost.",
+      "icon": "globe"
+    }
+  ],
+  "specs": {
+    "Uptime": "99.88%",
+    "Page Load Time": "1.8s avg",
+    "Storage": "20GB - 50GB",
+    "Free SSL": "Yes",
+    "Free Domain": "Yes (1 year)",
+    "Free CDN": "Yes (basic)",
+    "Data Centers": "USA + UK",
+    "Money-back": "30 days"
+  },
+  "verdict": "Namecheap is best for users who already use or plan to use Namecheap for domain registration and want the convenience of integrated hosting. The hosting itself is average, but the domain management integration, free privacy protection, and competitive introductory pricing provide good overall value.",
+  "faqs": [
+    {
+      "question": "Is Namecheap hosting good enough for a business site?",
+      "answer": "For a small business brochure site or portfolio, yes. The 99.88% uptime is adequate, and the cPanel interface is reliable. For e-commerce or high-traffic business sites, we recommend upgrading to SiteGround or A2 Hosting for better performance and support."
+    },
+    {
+      "question": "Does Namecheap include email hosting?",
+      "answer": "Yes, Namecheap includes free email hosting with their hosting plans. You can create up to 50 email addresses on the Stellar plan. They also offer private email hosting through a separate service if you need more advanced features."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-06-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested web hosting services for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.namecheap.com",
+  "comparisonData": {
+    "uptime": "99.88%",
+    "speed": "1.8s",
+    "storage": "20GB",
+    "freeSSL": true,
+    "freeDomain": true,
+    "cdn": true,
+    "backups": false,
+    "staging": false
+  },
+  "seoMeta": {
+    "title": "Namecheap Review 2026: 7.8/10 Rating | TrueTopReviews",
+    "description": "In-depth Namecheap review covering domain registration, hosting, and pricing. Rated 7.8/10.",
+    "keywords": [
+      "Namecheap review",
+      "web hosting",
+      "domain hosting"
+    ]
+  }
+}

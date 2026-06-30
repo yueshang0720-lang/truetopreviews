@@ -1,0 +1,28 @@
+{
+  "slug": "steadyrack-classic",
+  "name": "Steadyrack Classic Rack",
+  "category": "bike-storage",
+  "tagline": "Best space-saving vertical bike rack",
+  "description": "Steadyrack Classic pivots 160 degrees to save space, making it the best wall-mounted rack for tight garages and apartments.",
+  "longDescription": "Steadyrack Classic is the clever Australian-designed bike rack that solves the space problem. The unique pivoting arm rotates up to 160 degrees, allowing bikes to fold flat against the wall when not in use. This dramatically reduces the space needed — multiple bikes can be mounted side-by-side with just 14 inches between them. Installation is simple with the included mounting hardware, and the rack accommodates tires up to 2.4 inches wide. Made from UV-stabilized reinforced plastic and steel, it is built for indoor and outdoor use.",
+  "logo": "steadyrack-logo.png", "image": "steadyrack-hero.jpg",
+  "website": "https://www.steadyrack.com",
+  "pricing": { "startingPrice": 79, "priceUnit": "", "displayPrice": "$79 per rack", "hasFreeTrial": false, "hasFreeVersion": false, "moneyBackGuaranteeDays": 30, "regularPrice": 89 },
+  "ratings": { "overall": 8.9, "features": 9.0, "easeOfUse": 9.2, "pricing": 8.5, "support": 8.0, "reliability": 8.8 },
+  "pros": ["160° pivot saves massive space","Quick and easy installation","Fits tires up to 2.4 inches","UV-stabilized for outdoor use","14-inch spacing between bikes"],
+  "cons": ["Plastic components feel less premium","Single bike per rack","Not ideal for very heavy e-bikes","Mounting hardware could be better"],
+  "keyFeatures": [{ "name": "160° Pivot", "description": "Unique pivoting arm allows bikes to fold flat against the wall, saving massive floor space in tight garages.", "icon": "rotate" }],
+  "specs": { "Capacity": "1 bike (77 lbs max)", "Pivot": "160 degrees", "Tire Width": "Up to 2.4 inches", "Material": "Steel + UV plastic", "Warranty": "5 years" },
+  "verdict": "Steadyrack Classic is the best rack for tight spaces where every inch counts. The 160-degree pivot is a genuinely clever design that works perfectly for apartments and narrow garages.",
+  "faqs": [
+    { "question": "Can Steadyrack hold mountain bikes?", "answer": "Yes, Steadyrack Classic fits tire widths up to 2.4 inches, which covers most mountain bike tires. For fat tire bikes (3+ inches), Steadyrack offers a Fat Bike version." },
+    { "question": "How many Steadyracks can I fit on one wall?", "answer": "The racks can be spaced as close as 14 inches apart, so a standard 8-foot wall can fit 6-7 bikes. The 160° pivot allows bikes to angle away from each other without touching." }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": { "name": "Sarah Mitchell", "title": "Senior Tech Reviewer", "bio": "Sarah has tested hundreds of home and outdoor products across 7 years.", "avatar": "sarah-mitchell.jpg" },
+  "affiliateUrl": "https://www.steadyrack.com",
+  "comparisonData": {},
+  "seoMeta": { "title": "Steadyrack Classic Review 2026: 8.9/10 Rating | TrueTopReviews", "description": "In-depth Steadyrack Classic review: space-saving 160° pivot bike rack. Rated 8.9/10.", "keywords": ["Steadyrack review", "bike rack", "wall mount"] }
+}

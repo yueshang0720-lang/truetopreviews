@@ -1,0 +1,80 @@
+{
+  "slug": "shark-ai-ultra",
+  "name": "Shark AI Ultra 2-in-1",
+  "category": "robot-vacuums",
+  "tagline": "Best budget self-emptying robot vacuum",
+  "description": "Shark AI Ultra delivers solid cleaning with a self-emptying base at a price that undercuts premium competitors by half.",
+  "longDescription": "Shark AI Ultra 2-in-1 is our best budget self-emptying robot vacuum. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "shark-ai-ultra-logo.png",
+  "image": "shark-ai-ultra-hero.jpg",
+  "website": "https://www.sharkclean.com",
+  "pricing": {
+    "startingPrice": 499,
+    "priceUnit": "",
+    "displayPrice": "$499",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 60,
+    "regularPrice": 499
+  },
+  "ratings": {
+    "overall": 8.3,
+    "features": 8,
+    "easeOfUse": 8.5,
+    "pricing": 9.2,
+    "support": 8,
+    "reliability": 8
+  },
+  "pros": [
+    "Great value at $499 with self-empty base",
+    "Good carpet cleaning performance",
+    "Easy to use app",
+    "Reliable navigation",
+    "Widely available at retail"
+  ],
+  "cons": [
+    "No mopping capability",
+    "Basic obstacle avoidance",
+    "Louder than premium models",
+    "Limited smart home integration"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best budget self-emptying robot vacuum",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Shark AI Ultra 2-in-1 is a solid choice for budget self-emptying robot vacuum. Great value at $499 with self-empty base. No mopping capability.",
+  "faqs": [
+    {
+      "question": "Who is the Shark AI Ultra 2-in-1 best for?",
+      "answer": "Shark AI Ultra delivers solid cleaning with a self-emptying base at a price that undercuts premium competitors by half."
+    },
+    {
+      "question": "Is the Shark AI Ultra 2-in-1 worth the price?",
+      "answer": "The Shark AI Ultra 2-in-1 offers decent value, but no mopping capability. Consider whether these trade-offs are acceptable before purchasing."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.sharkclean.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Shark AI Ultra 2-in-1 Review 2026: 8.3/10 Rating | TrueTopReviews",
+    "description": "In-depth Shark AI Ultra 2-in-1 review covering performance, features, and value. Rated 8.3/10 by our experts.",
+    "keywords": [
+      "Shark AI Ultra 2-in-1 review",
+      "Robot Vacuums review",
+      "best Robot Vacuum"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "keeper",
+  "name": "Keeper",
+  "category": "password-managers",
+  "tagline": "Best for secure file storage and business use",
+  "description": "Keeper offers enterprise-grade security with excellent encrypted file storage, making it ideal for business users and those needing document protection.",
+  "longDescription": "Keeper distinguishes itself with a strong focus on secure file storage and enterprise features. The encrypted vault supports not just passwords but also files, photos, and documents — up to 100GB on business plans. Security is top-notch: Keeper is FedRAMP and SOC 2 certified, making it one of the few password managers approved for US government use. The zero-knowledge architecture ensures even Keeper cannot access your data. For families and businesses, Keeper offers excellent sharing controls, activity reporting, and compliance tools.",
+  "logo": "keeper-logo.png",
+  "image": "keeper-hero.jpg",
+  "website": "https://www.keepersecurity.com",
+  "pricing": {
+    "startingPrice": 2.92,
+    "priceUnit": "/mo",
+    "displayPrice": "$2.92/mo (billed annually)",
+    "hasFreeTrial": true,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 4.17
+  },
+  "ratings": {
+    "overall": 8.9,
+    "features": 9.1,
+    "easeOfUse": 8.6,
+    "pricing": 8.7,
+    "support": 9,
+    "reliability": 9.2
+  },
+  "pros": [
+    "Excellent encrypted file storage",
+    "FedRAMP and SOC 2 certified",
+    "Strong sharing and admin controls",
+    "BreachWatch dark web monitoring",
+    "Good business and enterprise features"
+  ],
+  "cons": [
+    "Interface feels dated on desktop",
+    "No free plan available",
+    "Separate app for messages (KeeperChat)",
+    "Autofill less reliable than competitors"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Encrypted File Storage",
+      "description": "Store up to 100GB of encrypted files alongside passwords. Supports documents, photos, and videos. Perfect for storing sensitive documents like tax returns.",
+      "icon": "folder"
+    },
+    {
+      "name": "BreachWatch",
+      "description": "Continuously scans the dark web for your credentials. Alerts you in real-time if any of your stored passwords appear in known data breaches.",
+      "icon": "search"
+    },
+    {
+      "name": "KeeperChat",
+      "description": "Separate encrypted messaging app with self-destructing messages and secure file sharing. Included with Keeper Unlimited bundle.",
+      "icon": "message-square"
+    },
+    {
+      "name": "Admin Console",
+      "description": "Comprehensive admin dashboard for business plans. Manage users, enforce policies, monitor activity, and generate compliance reports.",
+      "icon": "shield"
+    }
+  ],
+  "specs": {
+    "Encryption": "AES-256-CBC",
+    "FedRAMP Certified": "Yes",
+    "File Storage": "Up to 100GB",
+    "Platforms": "Windows, Mac, iOS, Android, Linux",
+    "Browser Extensions": "Chrome, Firefox, Edge, Safari",
+    "2FA Support": "TOTP, FIDO2, SMS",
+    "Customer Support": "24/7 phone + chat",
+    "Free Plan": "No"
+  },
+  "verdict": "Keeper is the best choice for business users and anyone who needs secure file storage alongside password management. The FedRAMP certification and enterprise-grade security make it ideal for organizations with compliance requirements. Individual users can find better value elsewhere, but for business use, Keeper is top-tier.",
+  "faqs": [
+    {
+      "question": "Is Keeper secure enough for business use?",
+      "answer": "Yes, Keeper is one of the few password managers with FedRAMP Authorization, meaning it meets strict US government security standards. It also holds SOC 2 Type II and ISO 27001 certifications. The zero-knowledge architecture ensures even Keeper employees cannot access your data."
+    },
+    {
+      "question": "Does Keeper offer a free version?",
+      "answer": "Keeper does not offer a permanent free plan, but they provide a 30-day free trial of the paid plans. Individual plans start at $2.92/month billed annually. For a free password manager, consider Bitwarden."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best for Business",
+      "description": "Enterprise-grade security and compliance"
+    }
+  ],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://www.keepersecurity.com",
+  "comparisonData": {
+    "encryption": "AES-256-CBC",
+    "secretKey": false,
+    "audited": true,
+    "freePlan": false,
+    "passkeySupport": true,
+    "travelMode": false,
+    "familyPlan": true,
+    "emergencyAccess": true
+  },
+  "seoMeta": {
+    "title": "Keeper Review 2026: 8.9/10 Rating | TrueTopReviews",
+    "description": "In-depth Keeper review covering file storage, enterprise security, and pricing. Rated 8.9/10. Best for business.",
+    "keywords": [
+      "Keeper review",
+      "password manager",
+      "business password manager"
+    ]
+  }
+}

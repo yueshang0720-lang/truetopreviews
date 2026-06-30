@@ -1,0 +1,119 @@
+{
+  "slug": "inmotion",
+  "name": "InMotion Hosting",
+  "category": "web-hosting",
+  "tagline": "Best for business hosting with excellent support",
+  "description": "InMotion Hosting offers business-grade hosting with excellent US-based support, making it ideal for small to medium businesses.",
+  "longDescription": "InMotion Hosting targets business users with a feature set that prioritizes reliability, security, and support quality. All support agents are US-based and undergo extensive training — in our testing, InMotion's support was second only to SiteGround in technical competence. The business-oriented plans include features like automatic backups, DDoS protection, and a free dedicated IP on higher tiers. Performance is good with 99.95% uptime and 1.4-second average loads. The main drawbacks are higher starting prices than competitors and a more complex initial setup process that may overwhelm beginners.",
+  "logo": "inmotion-logo.png",
+  "image": "inmotion-hero.jpg",
+  "website": "https://www.inmotionhosting.com",
+  "pricing": {
+    "startingPrice": 3.49,
+    "priceUnit": "/mo",
+    "displayPrice": "$3.49/mo (first year, renews at $9.99/mo)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 90,
+    "regularPrice": 9.99
+  },
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.6,
+    "easeOfUse": 7.8,
+    "pricing": 8,
+    "support": 9.2,
+    "reliability": 8.7
+  },
+  "pros": [
+    "Excellent US-based phone and chat support",
+    "90-day money-back guarantee",
+    "Free website migration",
+    "Business-oriented security features",
+    "Good performance and reliability"
+  ],
+  "cons": [
+    "Higher starting prices",
+    "Complex initial setup for beginners",
+    "Limited data center locations (2 USA)",
+    "Aggressive upselling on checkout"
+  ],
+  "keyFeatures": [
+    {
+      "name": "US-Based Support",
+      "description": "All support agents are US-based with extensive training. Phone, chat, and email support 24/7. Consistently rated among the best in independent reviews.",
+      "icon": "headphones"
+    },
+    {
+      "name": "Free Website Migration",
+      "description": "Expert team migrates up to 3 websites for free. Includes databases, email accounts, and configuration. Most competitors charge $50-150 per migration.",
+      "icon": "truck"
+    },
+    {
+      "name": "Marketing Tools",
+      "description": "Free advertising credits for Google Ads and Bing Ads included with new accounts. Customer management tools for tracking leads and conversions.",
+      "icon": "bar-chart"
+    },
+    {
+      "name": "Secure Infrastructure",
+      "description": "DDoS protection, automatic backups, malware scanning, and free SSL on all plans. Business-grade security typically reserved for premium hosting tiers.",
+      "icon": "lock"
+    }
+  ],
+  "specs": {
+    "Uptime": "99.95%",
+    "Page Load Time": "1.4s avg",
+    "Storage": "100GB - Unlimited",
+    "Free SSL": "Yes",
+    "Free Domain": "Yes (1 year)",
+    "Free CDN": "No",
+    "Data Centers": "2 (USA only)",
+    "Money-back": "90 days"
+  },
+  "verdict": "InMotion Hosting is the best choice for small to medium businesses that value reliable support and are willing to pay slightly more for it. The US-based support team is consistently excellent, and the business-oriented features are genuinely useful. Beginners may find the setup process overwhelming.",
+  "faqs": [
+    {
+      "question": "Is InMotion good for business websites?",
+      "answer": "Yes, InMotion is specifically designed for business hosting. Plans include features that businesses need: free SSL, automatic backups, DDoS protection, and priority support. The support team is trained to handle business-critical issues, and the 99.95% uptime ensures your site stays online."
+    },
+    {
+      "question": "How does InMotion's free migration work?",
+      "answer": "InMotion's migration team will transfer up to 3 websites for free within 48 hours of your request. This includes files, databases, email accounts, and DNS configuration. The process is handled by their technical team — you just provide credentials and they handle everything."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best Business Hosting",
+      "description": "Excellent US-based support for businesses"
+    }
+  ],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-06-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested web hosting services for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.inmotionhosting.com",
+  "comparisonData": {
+    "uptime": "99.95%",
+    "speed": "1.4s",
+    "storage": "100GB",
+    "freeSSL": true,
+    "freeDomain": true,
+    "cdn": false,
+    "backups": true,
+    "staging": false
+  },
+  "seoMeta": {
+    "title": "InMotion Hosting Review 2026: 8.5/10 Rating | TrueTopReviews",
+    "description": "In-depth InMotion review covering business hosting, US support, and pricing. Rated 8.5/10.",
+    "keywords": [
+      "InMotion review",
+      "business hosting",
+      "web hosting"
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "nordpass",
+  "name": "NordPass",
+  "category": "password-managers",
+  "tagline": "Simple and secure password manager from the makers of NordVPN",
+  "description": "NordPass offers a clean, straightforward password management experience backed by Nord Security's expertise, with excellent security at a competitive price.",
+  "longDescription": "NordPass, from the team behind NordVPN, brings the same focus on simplicity and security to password management. Built on a zero-knowledge architecture with XChaCha20 encryption (a modern alternative to AES), NordPass offers a clean, uncluttered experience that is particularly welcoming for beginners. The interface is consistent across all platforms, and the autofill is reliable. The Premium plan includes data breach scanning, password health reports, and emergency access. For users already in the Nord ecosystem (NordVPN, NordLocker), NordPass integrates seamlessly. While it lacks some advanced features of 1Password or Dashlane, its simplicity is a strength for users who want a no-fuss solution.",
+  "logo": "nordpass-logo.png",
+  "image": "nordpass-hero.jpg",
+  "website": "https://nordpass.com",
+  "pricing": {
+    "startingPrice": 1.49,
+    "priceUnit": "/mo",
+    "displayPrice": "$1.49/mo (billed biennially)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 3.99
+  },
+  "ratings": {
+    "overall": 8.8,
+    "features": 8.5,
+    "easeOfUse": 9.2,
+    "pricing": 9,
+    "support": 8.6,
+    "reliability": 8.7
+  },
+  "pros": [
+    "Clean, beginner-friendly interface",
+    "Competitive pricing with long-term plans",
+    "XChaCha20 encryption",
+    "Seamless Nord ecosystem integration",
+    "Good autofill reliability"
+  ],
+  "cons": [
+    "Fewer advanced features than competitors",
+    "No desktop app for Linux",
+    "Limited sharing on free plan",
+    "Younger product — less track record"
+  ],
+  "keyFeatures": [
+    {
+      "name": "XChaCha20 Encryption",
+      "description": "Modern encryption algorithm adopted by Google and Cloudflare. Considered more resistant to certain attacks than AES. Provides excellent security with good performance.",
+      "icon": "lock"
+    },
+    {
+      "name": "Data Breach Scanner",
+      "description": "Checks your stored email addresses and passwords against a database of known breaches. Alerts you to compromised credentials and prompts password changes.",
+      "icon": "search"
+    },
+    {
+      "name": "Password Health",
+      "description": "Analyzes your entire vault for weak, reused, and old passwords. Provides prioritised recommendations for which passwords to update first.",
+      "icon": "heart"
+    },
+    {
+      "name": "Emergency Access",
+      "description": "Designate trusted contacts who can request access to your vault in an emergency. Configurable waiting period before access is granted.",
+      "icon": "alert-circle"
+    }
+  ],
+  "specs": {
+    "Encryption": "XChaCha20",
+    "Zero-Knowledge": "Yes",
+    "Audits": "Yes (Cure53)",
+    "Platforms": "Windows, Mac, iOS, Android",
+    "Browser Extensions": "Chrome, Firefox, Edge, Safari, Opera",
+    "2FA Support": "TOTP, biometrics",
+    "Customer Support": "Email + knowledge base",
+    "Free Plan": "Yes (limited)"
+  },
+  "verdict": "NordPass is the best choice for users who want a simple, no-fuss password manager at a great price. The clean interface is perfect for beginners, and the security architecture is solid. Power users may want more features, but for the average user, NordPass offers an excellent balance of security, simplicity, and value.",
+  "faqs": [
+    {
+      "question": "Is NordPass from the same company as NordVPN?",
+      "answer": "Yes, NordPass is developed by Nord Security, the same company behind NordVPN, NordLocker, and NordLayer. The products share infrastructure and security expertise but are separate subscriptions. NordPass users benefit from Nord Security's established reputation and infrastructure."
+    },
+    {
+      "question": "How does NordPass compare to Bitwarden?",
+      "answer": "Both offer generous free plans and strong security. Bitwarden is open-source and has a longer track record. NordPass has a more polished interface and uses XChaCha20 encryption. Both are excellent choices — Bitwarden for transparency, NordPass for simplicity."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Easiest to Use",
+      "description": "Clean, intuitive interface for beginners"
+    }
+  ],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://nordpass.com",
+  "comparisonData": {
+    "encryption": "XChaCha20",
+    "secretKey": false,
+    "audited": true,
+    "freePlan": true,
+    "passkeySupport": true,
+    "travelMode": false,
+    "familyPlan": true,
+    "emergencyAccess": true
+  },
+  "seoMeta": {
+    "title": "NordPass Review 2026: 8.8/10 Rating | TrueTopReviews",
+    "description": "In-depth NordPass review covering security, ease of use, and pricing. Rated 8.8/10. Best for beginners.",
+    "keywords": [
+      "NordPass review",
+      "password manager",
+      "Nord Security"
+    ]
+  }
+}

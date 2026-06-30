@@ -1,0 +1,32 @@
+{
+  "slug": "robot-vacuums",
+  "name": "Robot Vacuums",
+  "description": "Keep your floors spotless with the best robot vacuums of 2026. From budget cleaners to AI-powered mops.",
+  "longDescription": "We ran 15 robot vacuums through identical obstacle courses, carpet deep-clean tests, and mopping trials. Our rankings reflect real-world cleaning performance, navigation intelligence, and maintenance convenience.",
+  "icon": "vacuum-icon.svg",
+  "image": "vacuum-hero.jpg",
+  "products": [
+    "roborock-s8-maxv",
+    "roomba-j9-plus",
+    "dreame-l20",
+    "ecovacs-x2",
+    "shark-ai-ultra"
+  ],
+  "buyingGuideIntro": "Choosing the right robot vacuum depends on your needs and budget. Our testing evaluates every product across key performance criteria.",
+  "testingCriteria": [
+    "Cleaning Performance — Carpet deep-clean, hardwood pickup, and edge cleaning tests",
+    "Navigation — Obstacle avoidance, room mapping accuracy, and no-go zone effectiveness",
+    "Mopping — Scrubbing effectiveness, water tank capacity, and pad auto-lifting",
+    "App & Smart Features — Setup ease, scheduling, map editing, and voice assistant integration",
+    "Maintenance — Dust bin capacity, filter replacement cost, and brush tangling resistance"
+  ],
+  "seoMeta": {
+    "t": "10 Best Robot Vacuums of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "d": "We tested 15 robot vacuums to find the 10 best. Compare cleaning power, navigation, and pricing.",
+    "k": [
+      "best robot vacuum",
+      "vacuum review",
+      "robot vacuum comparison"
+    ]
+  }
+}

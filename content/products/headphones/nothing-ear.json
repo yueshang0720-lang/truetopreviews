@@ -1,0 +1,102 @@
+{
+  "slug": "nothing-ear",
+  "name": "Nothing Ear",
+  "category": "headphones",
+  "tagline": "Best design with transparent aesthetic and great value",
+  "description": "Nothing Ear combines striking transparent design with solid ANC, good sound, and competitive pricing at $149.",
+  "longDescription": "Nothing Ear brings genuine design innovation to the wireless earbud market. The transparent case and stem design are instantly recognizable and have sparked a design trend. Beyond aesthetics, the Nothing Ear delivers solid performance: effective ANC, good sound quality with customizable EQ, and clear call quality. At $149 they undercut premium competitors while offering 80% of the performance. For design-conscious users who want something different, Nothing Ear is the obvious choice.",
+  "logo": "nothing-ear-logo.png",
+  "image": "nothing-ear-hero.jpg",
+  "website": "https://www.nothing.tech",
+  "pricing": {
+    "startingPrice": 149,
+    "priceUnit": "",
+    "displayPrice": "$149",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 149
+  },
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.3,
+    "easeOfUse": 8.6,
+    "pricing": 8.8,
+    "support": 8,
+    "reliability": 8.4
+  },
+  "pros": [
+    "Striking transparent design",
+    "Excellent value at $149",
+    "Good ANC for the price",
+    "Customizable EQ via app",
+    "Unique aesthetic stands out"
+  ],
+  "cons": [
+    "ANC not as strong as premium models",
+    "No wireless charging on base model",
+    "Battery life below average",
+    "Limited regional availability"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Best design with transparent aesthetic and great value",
+      "icon": "music"
+    }
+  ],
+  "specs": {
+    "Driver": "11mm + ceramic dual",
+    "ANC": "Yes Adaptive",
+    "Transparency": "Yes",
+    "Battery": "5.7h 28.5h case",
+    "Charging": "USB-C",
+    "Water Resistance": "IP54",
+    "Codecs": "AAC SBC LDAC",
+    "Weight": "4.7g"
+  },
+  "verdict": "Nothing Ear offers the best combination of design and value under $150. The transparent aesthetic is genuinely unique and performance is impressive for the price. Ideal for design-conscious users on a budget.",
+  "faqs": [
+    {
+      "question": "Are Nothing Ear good value?",
+      "answer": "Yes, at $149 they offer about 80% of the performance of $250+ flagships. ANC is good, sound is solid, and the design is premium. For budget-conscious buyers who want quality, the value is excellent."
+    },
+    {
+      "question": "Does Nothing Ear work well with iPhone?",
+      "answer": "Yes, via standard Bluetooth. The Nothing X app is available on iOS for EQ and ANC control. You miss LDAC hi-res audio which is Android only, but core functionality is fully supported."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "bronze",
+      "label": "Best Design",
+      "description": "Striking transparent aesthetic"
+    }
+  ],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-09-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested over 100 audio products across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.nothing.tech",
+  "comparisonData": {
+    "anc": true,
+    "transparency": true,
+    "wirelessCharging": false,
+    "waterResistance": "IPX4",
+    "batteryLife": "6h",
+    "spatialAudio": true,
+    "hiResAudio": false
+  },
+  "seoMeta": {
+    "title": "Nothing Ear Review 2026: 8.5/10 | TrueTopReviews",
+    "description": "In-depth Nothing Ear review covering sound quality, ANC, and features. Rated 8.5/10.",
+    "keywords": [
+      "Nothing Ear review",
+      "wireless earbuds"
+    ]
+  }
+}

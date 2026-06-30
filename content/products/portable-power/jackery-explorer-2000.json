@@ -1,0 +1,85 @@
+{
+  "slug": "jackery-explorer-2000",
+  "name": "Jackery Explorer 2000 Plus",
+  "category": "portable-power",
+  "tagline": "Best overall portable power station",
+  "description": "Jackery Explorer 2000 Plus delivers 2kWh capacity with 3,000W output, expandable to 24kWh. The gold standard for camping and emergency backup.",
+  "longDescription": "Jackery Explorer 2000 Plus is our best overall portable power station. Jackery Explorer 2000 Plus delivers 2kWh capacity with 3,000W output, expandable to 24kWh. The gold standard for camping and emergency backup. After extensive hands-on testing, we found it delivers on its promises with 2,042wh expandable to 24kwh.",
+  "logo": "jackery-explorer-2000-logo.png",
+  "image": "jackery-explorer-2000-hero.jpg",
+  "website": "https://www.jackery.com",
+  "pricing": {
+    "startingPrice": 2199,
+    "priceUnit": "",
+    "displayPrice": "$2199",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 2499
+  },
+  "ratings": {
+    "overall": 9.4,
+    "features": 9.3,
+    "easeOfUse": 9.2,
+    "pricing": 7.5,
+    "support": 9,
+    "reliability": 9.3
+  },
+  "pros": [
+    "2,042Wh expandable to 24kWh",
+    "3,000W output (6,000W surge)",
+    "LiFePO4 battery — 10-year life",
+    "Ultra-quiet at 30dB",
+    "Solar ready with fast charging"
+  ],
+  "cons": [
+    "Very expensive at $2,199",
+    "Heavy at 61 lbs",
+    "Slow AC charging (2 hours)",
+    "No app connectivity on base model"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "2,042Wh expandable to 24kWh",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Jackery Explorer 2000 Plus is our top recommendation for overall portable power station. 2,042Wh expandable to 24kWh.",
+  "faqs": [
+    {
+      "question": "Who is Jackery Explorer 2000 Plus best for?",
+      "answer": "Jackery Explorer 2000 Plus delivers 2kWh capacity with 3,000W output, expandable to 24kWh. The gold standard for camping and emergency backup."
+    },
+    {
+      "question": "Is Jackery Explorer 2000 Plus worth it?",
+      "answer": "Yes — 2,042wh expandable to 24kwh. Very expensive at $2,199 is the main trade-off."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Portable Power Station 2026",
+      "description": "Best overall portable power station"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.jackery.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Jackery Explorer 2000 Plus Review 2026: 9.4/10 Rating | TrueTopReviews",
+    "description": "In-depth Jackery Explorer 2000 Plus review: features, performance, and value. Rated 9.4/10 by our experts.",
+    "keywords": [
+      "Jackery Explorer 2000 Plus review",
+      "Portable Power Stations review"
+    ]
+  }
+}

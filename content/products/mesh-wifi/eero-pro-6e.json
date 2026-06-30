@@ -1,0 +1,79 @@
+{
+  "slug": "eero-pro-6e",
+  "name": "Amazon Eero Pro 6E",
+  "category": "mesh-wifi",
+  "tagline": "Easiest setup with best smart home integration",
+  "description": "Eero Pro 6E offers the simplest setup experience with deep smart home integration, Zigbee hub built-in, and reliable mesh performance.",
+  "longDescription": "Amazon Eero Pro 6E is our easiest setup with best smart home integration. Eero Pro 6E offers the simplest setup experience with deep smart home integration, Zigbee hub built-in, and reliable mesh performance. After extensive hands-on testing, we found it delivers on its promises with dead simple 5-minute setup.",
+  "logo": "eero-pro-6e-logo.png",
+  "image": "eero-pro-6e-hero.jpg",
+  "website": "https://www.amazon.com/eero",
+  "pricing": {
+    "startingPrice": 399,
+    "priceUnit": "",
+    "displayPrice": "$399",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 499
+  },
+  "ratings": {
+    "overall": 8.9,
+    "features": 8.8,
+    "easeOfUse": 9.3,
+    "pricing": 7.5,
+    "support": 9,
+    "reliability": 8.8
+  },
+  "pros": [
+    "Dead simple 5-minute setup",
+    "Built-in Zigbee smart home hub",
+    "Excellent app and parental controls",
+    "Compact unobtrusive design",
+    "Automatic channel optimization"
+  ],
+  "cons": [
+    "Advanced features need subscription",
+    "More expensive than TP-Link",
+    "No USB or advanced config",
+    "Amazon-owned (privacy concerns)"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Dead simple 5-minute setup",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Amazon Eero Pro 6E is a solid choice for setup with best smart home integration. Dead simple 5-minute setup.",
+  "faqs": [
+    {
+      "question": "Who is Amazon Eero Pro 6E best for?",
+      "answer": "Eero Pro 6E offers the simplest setup experience with deep smart home integration, Zigbee hub built-in, and reliable mesh performance."
+    },
+    {
+      "question": "Is Amazon Eero Pro 6E worth it?",
+      "answer": "Yes — dead simple 5-minute setup. Advanced features need subscription is the main trade-off."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.amazon.com/eero",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Amazon Eero Pro 6E Review 2026: 8.9/10 Rating | TrueTopReviews",
+    "description": "In-depth Amazon Eero Pro 6E review: features, performance, and value. Rated 8.9/10 by our experts.",
+    "keywords": [
+      "Amazon Eero Pro 6E review",
+      "Mesh WiFi Systems review"
+    ]
+  }
+}

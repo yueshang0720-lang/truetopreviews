@@ -1,0 +1,86 @@
+{
+  "slug": "roomba-j9-plus",
+  "name": "iRobot Roomba Combo j9+",
+  "category": "robot-vacuums",
+  "tagline": "Smartest navigation with automatic retracting mop",
+  "description": "Roomba j9+ features iRobot's most advanced navigation with a mop that lifts itself away from carpet automatically.",
+  "longDescription": "iRobot Roomba Combo j9+ is our smartest navigation with automatic retracting mop. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "roomba-j9-plus-logo.png",
+  "image": "roomba-j9-plus-hero.jpg",
+  "website": "https://www.irobot.com",
+  "pricing": {
+    "startingPrice": 1399,
+    "priceUnit": "",
+    "displayPrice": "$1,399",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 60,
+    "regularPrice": 1399
+  },
+  "ratings": {
+    "overall": 9.2,
+    "features": 9,
+    "easeOfUse": 9.3,
+    "pricing": 7.8,
+    "support": 9,
+    "reliability": 9
+  },
+  "pros": [
+    "Automatic mop retraction on carpet",
+    "Best-in-class navigation",
+    "Excellent app experience",
+    "Self-emptying base included",
+    "Reliable obstacle avoidance"
+  ],
+  "cons": [
+    "Expensive at $1,399",
+    "Mop cleaning is basic vs competitors",
+    "Noisy self-emptying",
+    "Average battery life"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Smartest navigation with automatic retracting mop",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "iRobot Roomba Combo j9+ is our top recommendation for navigation with automatic retracting mop. Automatic mop retraction on carpet. Expensive at $1,399.",
+  "faqs": [
+    {
+      "question": "Who is the iRobot Roomba Combo j9+ best for?",
+      "answer": "Roomba j9+ features iRobot's most advanced navigation with a mop that lifts itself away from carpet automatically."
+    },
+    {
+      "question": "Is the iRobot Roomba Combo j9+ worth the price?",
+      "answer": "Yes, the iRobot Roomba Combo j9+ justifies its price with automatic mop retraction on carpet. We recommend it for users who prioritize navigation with."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Robot Vacuum 2026",
+      "description": "Smartest navigation with automatic retracting mop"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.irobot.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "iRobot Roomba Combo j9+ Review 2026: 9.2/10 Rating | TrueTopReviews",
+    "description": "In-depth iRobot Roomba Combo j9+ review covering performance, features, and value. Rated 9.2/10 by our experts.",
+    "keywords": [
+      "iRobot Roomba Combo j9+ review",
+      "Robot Vacuums review",
+      "best Robot Vacuum"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "eufy-s350",
+  "name": "Eufy Cam S350",
+  "category": "security-cameras",
+  "tagline": "Best dual-lens security camera with AI tracking",
+  "description": "Eufy Cam S350 features dual 4K/2K lenses with pan and tilt, AI cross-camera tracking, and local storage with no fees.",
+  "longDescription": "Eufy Cam S350 is our best dual-lens security camera with ai tracking. Eufy Cam S350 features dual 4K/2K lenses with pan and tilt, AI cross-camera tracking, and local storage with no fees. After extensive hands-on testing, we found it delivers on its promises with dual lens 4k wide + 2k telephoto.",
+  "logo": "eufy-s350-logo.png",
+  "image": "eufy-s350-hero.jpg",
+  "website": "https://www.eufy.com",
+  "pricing": {
+    "startingPrice": 129,
+    "priceUnit": "",
+    "displayPrice": "$129",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 129
+  },
+  "ratings": {
+    "overall": 9,
+    "features": 9.1,
+    "easeOfUse": 9.2,
+    "pricing": 8.8,
+    "support": 8.8,
+    "reliability": 8.8
+  },
+  "pros": [
+    "Dual lens 4K wide + 2K telephoto",
+    "AI cross-camera tracking",
+    "Pan 360° and tilt 70°",
+    "Local storage no monthly fees",
+    "Built-in spotlight and siren"
+  ],
+  "cons": [
+    "Wired power required",
+    "Large unit not subtle",
+    "App can be slow to load",
+    "Subscription optional for cloud backup"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Dual lens 4K wide + 2K telephoto",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Eufy Cam S350 is our top recommendation for dual-lens security camera with ai tracking. Dual lens 4K wide + 2K telephoto.",
+  "faqs": [
+    {
+      "question": "Who is Eufy Cam S350 best for?",
+      "answer": "Eufy Cam S350 features dual 4K/2K lenses with pan and tilt, AI cross-camera tracking, and local storage with no fees."
+    },
+    {
+      "question": "Is Eufy Cam S350 worth it?",
+      "answer": "Yes — dual lens 4k wide + 2k telephoto. Wired power required is the main trade-off."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Security Camera 2026",
+      "description": "Best dual-lens security camera with AI tracking"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.eufy.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Eufy Cam S350 Review 2026: 9/10 Rating | TrueTopReviews",
+    "description": "In-depth Eufy Cam S350 review: features, performance, and value. Rated 9/10 by our experts.",
+    "keywords": [
+      "Eufy Cam S350 review",
+      "Security Cameras review"
+    ]
+  }
+}

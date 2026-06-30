@@ -1,0 +1,86 @@
+{
+  "slug": "ecovacs-x2",
+  "name": "ECOVACS Deebot X2 Omni",
+  "category": "robot-vacuums",
+  "tagline": "Best square design for corner cleaning",
+  "description": "ECOVACS X2 uses a unique square shape to clean corners better than round robots, with a fully self-maintaining base station.",
+  "longDescription": "ECOVACS Deebot X2 Omni is our best square design for corner cleaning. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "ecovacs-x2-logo.png",
+  "image": "ecovacs-x2-hero.jpg",
+  "website": "https://www.ecovacs.com",
+  "pricing": {
+    "startingPrice": 1199,
+    "priceUnit": "",
+    "displayPrice": "$1,199",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 1199
+  },
+  "ratings": {
+    "overall": 8.7,
+    "features": 9,
+    "easeOfUse": 8.5,
+    "pricing": 8.2,
+    "support": 8,
+    "reliability": 8.5
+  },
+  "pros": [
+    "Square shape reaches corners effectively",
+    "Comprehensive self-maintaining base",
+    "Good suction and mopping",
+    "Compact base station design",
+    "Decent value for features"
+  ],
+  "cons": [
+    "Navigation occasionally gets stuck",
+    "App experience is average",
+    "Firmware updates can be buggy",
+    "Customer support needs improvement"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best square design for corner cleaning",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "ECOVACS Deebot X2 Omni is a solid choice for square design for corner cleaning. Square shape reaches corners effectively. Navigation occasionally gets stuck.",
+  "faqs": [
+    {
+      "question": "Who is the ECOVACS Deebot X2 Omni best for?",
+      "answer": "ECOVACS X2 uses a unique square shape to clean corners better than round robots, with a fully self-maintaining base station."
+    },
+    {
+      "question": "Is the ECOVACS Deebot X2 Omni worth the price?",
+      "answer": "Yes, the ECOVACS Deebot X2 Omni justifies its price with square shape reaches corners effectively. We recommend it for users who prioritize square design."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Top Robot Vacuum Pick",
+      "description": "Best square design for corner cleaning"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.ecovacs.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "ECOVACS Deebot X2 Omni Review 2026: 8.7/10 Rating | TrueTopReviews",
+    "description": "In-depth ECOVACS Deebot X2 Omni review covering performance, features, and value. Rated 8.7/10 by our experts.",
+    "keywords": [
+      "ECOVACS Deebot X2 Omni review",
+      "Robot Vacuums review",
+      "best Robot Vacuum"
+    ]
+  }
+}

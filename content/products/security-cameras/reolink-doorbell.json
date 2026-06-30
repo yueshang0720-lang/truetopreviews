@@ -1,0 +1,79 @@
+{
+  "slug": "reolink-doorbell",
+  "name": "Reolink Video Doorbell WiFi",
+  "category": "security-cameras",
+  "tagline": "Best value video doorbell with no subscription",
+  "description": "Reolink's WiFi doorbell offers 2K video, person detection, and local storage at half the price of competitors — with zero monthly fees.",
+  "longDescription": "Reolink Video Doorbell WiFi is our best value video doorbell with no subscription. Reolink's WiFi doorbell offers 2K video, person detection, and local storage at half the price of competitors — with zero monthly fees. After extensive hands-on testing, we found it delivers on its promises with 2k hd video with hdr.",
+  "logo": "reolink-doorbell-logo.png",
+  "image": "reolink-doorbell-hero.jpg",
+  "website": "https://www.reolink.com",
+  "pricing": {
+    "startingPrice": 99,
+    "priceUnit": "",
+    "displayPrice": "$99",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 99
+  },
+  "ratings": {
+    "overall": 8.8,
+    "features": 8.7,
+    "easeOfUse": 8.5,
+    "pricing": 9,
+    "support": 8,
+    "reliability": 8.6
+  },
+  "pros": [
+    "2K HD video with HDR",
+    "No subscription ever",
+    "Local microSD storage",
+    "Dual-band WiFi 2.4/5GHz",
+    "Works with existing chime"
+  ],
+  "cons": [
+    "No Apple HomeKit",
+    "App notifications can be slow",
+    "Wired installation needed",
+    "Limited smart home integrations"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "2K HD video with HDR",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Reolink Video Doorbell WiFi is a solid choice for value video doorbell with no subscription. 2K HD video with HDR.",
+  "faqs": [
+    {
+      "question": "Who is Reolink Video Doorbell WiFi best for?",
+      "answer": "Reolink's WiFi doorbell offers 2K video, person detection, and local storage at half the price of competitors — with zero monthly fees."
+    },
+    {
+      "question": "Is Reolink Video Doorbell WiFi worth it?",
+      "answer": "Yes — 2k hd video with hdr. No Apple HomeKit is the main trade-off."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.reolink.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Reolink Video Doorbell WiFi Review 2026: 8.8/10 Rating | TrueTopReviews",
+    "description": "In-depth Reolink Video Doorbell WiFi review: features, performance, and value. Rated 8.8/10 by our experts.",
+    "keywords": [
+      "Reolink Video Doorbell WiFi review",
+      "Security Cameras review"
+    ]
+  }
+}

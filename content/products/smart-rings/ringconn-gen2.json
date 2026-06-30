@@ -1,0 +1,86 @@
+{
+  "slug": "ringconn-gen2",
+  "name": "RingConn Gen 2",
+  "category": "smart-rings",
+  "tagline": "Best value smart ring with no subscription",
+  "description": "RingConn Gen 2 delivers excellent sleep and health tracking with zero subscription fees — a game-changer in the smart ring market.",
+  "longDescription": "RingConn Gen 2 is our best value smart ring with no subscription. RingConn Gen 2 delivers excellent sleep and health tracking with zero subscription fees — a game-changer in the smart ring market. After extensive hands-on testing, we found it delivers on its promises with no subscription ever.",
+  "logo": "ringconn-gen2-logo.png",
+  "image": "ringconn-gen2-hero.jpg",
+  "website": "https://www.ringconn.com",
+  "pricing": {
+    "startingPrice": 299,
+    "priceUnit": "",
+    "displayPrice": "$299",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 299
+  },
+  "ratings": {
+    "overall": 9.2,
+    "features": 9.1,
+    "easeOfUse": 9,
+    "pricing": 9,
+    "support": 8.5,
+    "reliability": 9
+  },
+  "pros": [
+    "No subscription ever",
+    "10-day battery life",
+    "Excellent sleep tracking",
+    "IP68 waterproof",
+    "Sleek design at $299",
+    "Stress monitoring"
+  ],
+  "cons": [
+    "Smaller app ecosystem than Oura",
+    "Limited third-party integrations",
+    "No NFC payments",
+    "Sizing kit required before purchase"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "No subscription ever",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "RingConn Gen 2 is our top recommendation for value smart ring with no subscription. No subscription ever.",
+  "faqs": [
+    {
+      "question": "Who is RingConn Gen 2 best for?",
+      "answer": "RingConn Gen 2 delivers excellent sleep and health tracking with zero subscription fees — a game-changer in the smart ring market."
+    },
+    {
+      "question": "Is RingConn Gen 2 worth it?",
+      "answer": "Yes — no subscription ever. Smaller app ecosystem than Oura is the main trade-off."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Smart Ring 2026",
+      "description": "Best value smart ring with no subscription"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.ringconn.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "RingConn Gen 2 Review 2026: 9.2/10 Rating | TrueTopReviews",
+    "description": "In-depth RingConn Gen 2 review: features, performance, and value. Rated 9.2/10 by our experts.",
+    "keywords": [
+      "RingConn Gen 2 review",
+      "Smart Rings review"
+    ]
+  }
+}

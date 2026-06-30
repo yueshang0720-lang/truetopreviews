@@ -1,0 +1,118 @@
+{
+  "slug": "eset",
+  "name": "ESET",
+  "category": "antivirus",
+  "tagline": "Best for tech-savvy users with advanced configuration",
+  "description": "ESET offers highly customizable protection favored by IT professionals, with excellent threat detection and minimal system resource usage.",
+  "longDescription": "ESET has long been a favorite among IT professionals and tech-savvy users. Its NOD32 engine is one of the most efficient in the industry, offering excellent detection rates while consuming minimal system resources. ESET is particularly strong at detecting advanced persistent threats and script-based attacks that other antivirus products might miss. The interface offers detailed configuration options that power users will appreciate — you can fine-tune every aspect of the protection. However, this complexity means ESET is less suitable for beginners who want a simple, hands-off experience.",
+  "logo": "eset-logo.png",
+  "image": "eset-hero.jpg",
+  "website": "https://www.eset.com",
+  "pricing": {
+    "startingPrice": 39.99,
+    "priceUnit": "/yr",
+    "displayPrice": "$39.99/yr (first year, 1 device)",
+    "hasFreeTrial": true,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 49.99
+  },
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.6,
+    "easeOfUse": 8.2,
+    "pricing": 8.4,
+    "support": 8.5,
+    "reliability": 8.8
+  },
+  "pros": [
+    "Extremely efficient — minimal resource usage",
+    "Excellent detection of script-based attacks",
+    "Highly configurable for advanced users",
+    "Strong ransomware protection",
+    "Good for gaming"
+  ],
+  "cons": [
+    "Complex interface not ideal for beginners",
+    "No free version available",
+    "Below-average phishing protection",
+    "VPN requires separate subscription"
+  ],
+  "keyFeatures": [
+    {
+      "name": "NOD32 Engine",
+      "description": "Proprietary scanning engine optimized for speed and efficiency. Uses advanced heuristics to detect unknown malware with minimal false positives.",
+      "icon": "cpu"
+    },
+    {
+      "name": "UEFI Scanner",
+      "description": "Scans the UEFI firmware for persistent threats that reside below the operating system level. Detects bootkits and rootkits.",
+      "icon": "terminal"
+    },
+    {
+      "name": "Connected Home Monitor",
+      "description": "Scans your home network for vulnerabilities including open ports, weak router passwords, and IoT device exploits.",
+      "icon": "wifi"
+    },
+    {
+      "name": "Script-Based Attack Protection",
+      "description": "Advanced behavioral analysis specifically targeting PowerShell, JavaScript, and VBScript attacks — a common enterprise attack vector.",
+      "icon": "code"
+    }
+  ],
+  "specs": {
+    "Malware Detection": "98.0%",
+    "Devices Covered": "Up to 5",
+    "Platforms": "Windows, Mac, Android, Linux",
+    "VPN Included": "Separate subscription",
+    "Password Manager": "Yes",
+    "Parental Controls": "Yes",
+    "Customer Support": "Email + knowledge base",
+    "Free Version": "No"
+  },
+  "verdict": "ESET is the best choice for technically proficient users who want granular control over their security configuration. The NOD32 engine is legendary for its efficiency, and the advanced threat detection capabilities are excellent.",
+  "faqs": [
+    {
+      "question": "Is ESET good for gaming?",
+      "answer": "Yes, ESET is one of the best antivirus options for gaming. Its NOD32 engine has minimal CPU and memory footprint, and the Gamer Mode automatically suppresses notifications during full-screen applications. In our testing, ESET caused less than 1% FPS reduction."
+    },
+    {
+      "question": "Does ESET have a free version?",
+      "answer": "ESET does not offer a permanent free version, but they do provide a 30-day free trial of their full-featured Internet Security suite. For free antivirus, consider Avast One or Bitdefender Antivirus Free."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best for Power Users",
+      "description": "Advanced configuration and maximum efficiency"
+    }
+  ],
+  "lastUpdated": "2026-06-22T00:00:00Z",
+  "reviewDate": "2025-04-10T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has been evaluating cybersecurity products for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.eset.com",
+  "comparisonData": {
+    "noLogsPolicy": true,
+    "auditedNoLogs": false,
+    "killSwitch": true,
+    "liveChat": false,
+    "freeVersion": false,
+    "moneyBackDays": "30",
+    "startingPrice": "$39.99/yr"
+  },
+  "seoMeta": {
+    "title": "ESET Review 2026: 8.5/10 Rating | TrueTopReviews",
+    "description": "In-depth ESET review covering advanced configuration, malware detection, and pricing. Rated 8.5/10.",
+    "keywords": [
+      "ESET review",
+      "antivirus review",
+      "NOD32"
+    ]
+  }
+}

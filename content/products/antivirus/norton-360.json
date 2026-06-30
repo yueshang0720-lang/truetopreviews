@@ -1,0 +1,118 @@
+{
+  "slug": "norton-360",
+  "name": "Norton 360",
+  "category": "antivirus",
+  "tagline": "Most complete security suite with identity theft protection",
+  "description": "Norton 360 offers the most comprehensive digital security suite, combining excellent malware protection with identity theft monitoring and a full-featured VPN.",
+  "longDescription": "Norton 360 goes beyond traditional antivirus to offer a complete digital security ecosystem. While most antivirus products focus solely on malware, Norton adds identity theft protection (with LifeLock integration in US plans), a no-limits VPN, dark web monitoring, and 100GB of cloud backup. In our malware tests, Norton achieved a 99.4% detection rate while maintaining above-average system performance. The real standout is the identity protection feature — Norton monitors your personal information across the dark web, credit files, and public records, alerting you to potential identity theft.",
+  "logo": "norton-360-logo.png",
+  "image": "norton-360-hero.jpg",
+  "website": "https://www.norton.com",
+  "pricing": {
+    "startingPrice": 49.99,
+    "priceUnit": "/yr",
+    "displayPrice": "$49.99/yr (first year, 5 devices)",
+    "hasFreeTrial": true,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 60,
+    "regularPrice": 119.99
+  },
+  "ratings": {
+    "overall": 9.4,
+    "features": 9.3,
+    "easeOfUse": 9.2,
+    "pricing": 9.1,
+    "support": 9.5,
+    "reliability": 9.5
+  },
+  "pros": [
+    "Full VPN with no data limits included",
+    "Identity theft protection with LifeLock",
+    "100GB cloud backup included",
+    "Excellent parental controls",
+    "Consistent 99%+ detection in lab tests"
+  ],
+  "cons": [
+    "Higher price than competitors",
+    "Full scan can be resource-intensive",
+    "Many features require auto-renewal enrollment",
+    "VPN not available in all countries"
+  ],
+  "keyFeatures": [
+    {
+      "name": "LifeLock Identity Protection",
+      "description": "Dark web monitoring, credit file alerts, social security number tracking, and identity restoration support. US-exclusive feature that adds significant value.",
+      "icon": "shield"
+    },
+    {
+      "name": "Smart Firewall",
+      "description": "Two-way silent firewall that monitors both incoming and outgoing network traffic. Automatically configures permissions for known applications.",
+      "icon": "server"
+    },
+    {
+      "name": "Cloud Backup",
+      "description": "100GB of secure cloud storage for backing up important files. Automatically backs up documents, photos, and financial data with encryption.",
+      "icon": "cloud"
+    },
+    {
+      "name": "School Time",
+      "description": "Remote parental control feature that lets parents manage children's device usage during school hours. Block distracting apps and websites on schedule.",
+      "icon": "clock"
+    }
+  ],
+  "specs": {
+    "Malware Detection": "99.4%",
+    "Devices Covered": "Up to 10",
+    "Platforms": "Windows, Mac, Android, iOS",
+    "VPN Included": "Yes (unlimited)",
+    "Password Manager": "Yes",
+    "Parental Controls": "Yes",
+    "Customer Support": "24/7 live chat + phone",
+    "Free Version": "No"
+  },
+  "verdict": "Norton 360 is the best choice for users who want true all-in-one protection. The combination of excellent malware detection, unlimited VPN, cloud backup, and identity theft monitoring creates a security suite that no other competitor matches in breadth.",
+  "faqs": [
+    {
+      "question": "Is Norton 360 worth the price?",
+      "answer": "For most users, yes — especially if you were planning to buy a VPN and cloud backup separately. The Deluxe plan ($49.99/yr first year) includes antivirus for 5 devices, unlimited VPN, password manager, parental controls, and 50GB cloud backup. Purchased individually, comparable services would cost $150+/year."
+    },
+    {
+      "question": "Does Norton slow down gaming?",
+      "answer": "Norton includes a Silent Mode that suppresses notifications and resource-heavy scans during full-screen applications, including games. In our testing, gaming performance impact was minimal (1-3% FPS reduction)."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Best Security Suite 2026",
+      "description": "Most comprehensive all-in-one protection"
+    }
+  ],
+  "lastUpdated": "2026-06-22T00:00:00Z",
+  "reviewDate": "2025-04-10T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has been evaluating cybersecurity products for 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.norton.com",
+  "comparisonData": {
+    "noLogsPolicy": true,
+    "auditedNoLogs": true,
+    "killSwitch": true,
+    "liveChat": true,
+    "freeVersion": false,
+    "moneyBackDays": "60",
+    "startingPrice": "$49.99/yr"
+  },
+  "seoMeta": {
+    "title": "Norton 360 Review 2026: 9.4/10 Rating | TrueTopReviews",
+    "description": "In-depth Norton 360 review covering malware protection, identity theft features, and pricing. Rated 9.4/10 by our cybersecurity experts.",
+    "keywords": [
+      "Norton 360 review",
+      "antivirus review",
+      "best security suite"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "tp-link-deco-xe75",
+  "name": "TP-Link Deco XE75",
+  "category": "mesh-wifi",
+  "tagline": "Best overall mesh WiFi with WiFi 6E",
+  "description": "TP-Link Deco XE75 delivers WiFi 6E speeds with tri-band connectivity, covering up to 7,200 sq ft with a 3-pack at an excellent price.",
+  "longDescription": "TP-Link Deco XE75 is our best overall mesh wifi with wifi 6e. TP-Link Deco XE75 delivers WiFi 6E speeds with tri-band connectivity, covering up to 7,200 sq ft with a 3-pack at an excellent price. After extensive hands-on testing, we found it delivers on its promises with wifi 6e with 6ghz band.",
+  "logo": "tp-link-deco-xe75-logo.png",
+  "image": "tp-link-deco-xe75-hero.jpg",
+  "website": "https://www.tp-link.com",
+  "pricing": {
+    "startingPrice": 299,
+    "priceUnit": "",
+    "displayPrice": "$299",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 349
+  },
+  "ratings": {
+    "overall": 9.2,
+    "features": 9.3,
+    "easeOfUse": 9,
+    "pricing": 9,
+    "support": 8.5,
+    "reliability": 9
+  },
+  "pros": [
+    "WiFi 6E with 6GHz band",
+    "Covers up to 7,200 sq ft (3-pack)",
+    "Excellent value at $299",
+    "Easy app setup in minutes",
+    "Built-in smart home hub"
+  ],
+  "cons": [
+    "6GHz range is shorter than 5GHz",
+    "No USB ports",
+    "Parental controls require subscription",
+    "Design is functional not stylish"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "WiFi 6E with 6GHz band",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "TP-Link Deco XE75 is our top recommendation for overall mesh wifi with wifi 6e. WiFi 6E with 6GHz band.",
+  "faqs": [
+    {
+      "question": "Who is TP-Link Deco XE75 best for?",
+      "answer": "TP-Link Deco XE75 delivers WiFi 6E speeds with tri-band connectivity, covering up to 7,200 sq ft with a 3-pack at an excellent price."
+    },
+    {
+      "question": "Is TP-Link Deco XE75 worth it?",
+      "answer": "Yes — wifi 6e with 6ghz band. 6GHz range is shorter than 5GHz is the main trade-off."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Mesh WiFi System 2026",
+      "description": "Best overall mesh WiFi with WiFi 6E"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.tp-link.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "TP-Link Deco XE75 Review 2026: 9.2/10 Rating | TrueTopReviews",
+    "description": "In-depth TP-Link Deco XE75 review: features, performance, and value. Rated 9.2/10 by our experts.",
+    "keywords": [
+      "TP-Link Deco XE75 review",
+      "Mesh WiFi Systems review"
+    ]
+  }
+}

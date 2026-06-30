@@ -1,0 +1,118 @@
+{
+  "slug": "roboform",
+  "name": "RoboForm",
+  "category": "password-managers",
+  "tagline": "Best form-filling with desktop-grade password management",
+  "description": "RoboForm pioneered form-filling and still offers the best auto-fill experience, with powerful desktop apps and competitive pricing.",
+  "longDescription": "RoboForm has been around since 1999 and pioneered browser form-filling. That heritage shows — RoboForm's form-filling capability is still the best in the industry, handling complex multi-page forms, identity profiles, and custom fields better than any competitor. The desktop apps are powerful with a traditional Windows-style interface that some users prefer. Security is solid with AES-256 encryption and a zero-knowledge architecture. The password generator, bookmark manager, and secure notes add practical value. While the mobile apps feel dated compared to modern competitors and there's no dark web monitoring, RoboForm remains an excellent choice for users who prioritize form-filling and a traditional desktop experience.",
+  "logo": "roboform-logo.png",
+  "image": "roboform-hero.jpg",
+  "website": "https://www.roboform.com",
+  "pricing": {
+    "startingPrice": 1.99,
+    "priceUnit": "/mo",
+    "displayPrice": "$1.99/mo (billed annually)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 2.99
+  },
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.6,
+    "easeOfUse": 8.3,
+    "pricing": 8.8,
+    "support": 8.2,
+    "reliability": 8.6
+  },
+  "pros": [
+    "Best form-filling in the industry",
+    "Powerful desktop applications",
+    "Competitive pricing",
+    "Strong password generator",
+    "Bookmark manager included"
+  ],
+  "cons": [
+    "Dated mobile app interface",
+    "No dark web monitoring",
+    "Limited 2FA options",
+    "Smaller user community"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Advanced Form-Filler",
+      "description": "Industry-leading form-filling with support for complex multi-page forms, identity profiles, and custom fields. Handles job applications, tax forms, and registrations.",
+      "icon": "file-text"
+    },
+    {
+      "name": "Bookmark Manager",
+      "description": "Built-in secure bookmark management. Organize, sync, and protect your bookmarks with the same encryption used for passwords.",
+      "icon": "bookmark"
+    },
+    {
+      "name": "Identity Profiles",
+      "description": "Create multiple identity profiles with different personal information. Automatically fill the correct identity based on context.",
+      "icon": "user"
+    },
+    {
+      "name": "Security Center",
+      "description": "Audits your entire vault for weak, reused, and duplicate passwords. Provides an overall security score and actionable recommendations.",
+      "icon": "shield"
+    }
+  ],
+  "specs": {
+    "Encryption": "AES-256",
+    "Form-Filling": "Best in class",
+    "Platforms": "Windows, Mac, iOS, Android",
+    "Browser Extensions": "Chrome, Firefox, Edge, Safari",
+    "2FA Support": "TOTP",
+    "Customer Support": "Email + knowledge base",
+    "Free Plan": "Yes (limited)"
+  },
+  "verdict": "RoboForm is the best choice for users who frequently fill out complex forms and prefer a traditional desktop application. The form-filling capability is genuinely unmatched, and the pricing is competitive. The dated mobile apps and lack of dark web monitoring are the main drawbacks.",
+  "faqs": [
+    {
+      "question": "What makes RoboForm's form-filling special?",
+      "answer": "RoboForm has been refining form-filling since 1999. It handles complex scenarios like multi-page forms, conditional fields, and custom input types better than any competitor. It can fill 8 different identity profiles with distinct information for different contexts."
+    },
+    {
+      "question": "Is RoboForm still actively developed?",
+      "answer": "Yes, RoboForm receives regular updates and is actively maintained. While the interface style is more traditional, the underlying technology is modern with AES-256 encryption and zero-knowledge architecture. The company is profitable and stable."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best Form-Filling",
+      "description": "Unmatched form auto-fill capabilities"
+    }
+  ],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://www.roboform.com",
+  "comparisonData": {
+    "encryption": "AES-256",
+    "secretKey": false,
+    "audited": false,
+    "freePlan": true,
+    "passkeySupport": false,
+    "travelMode": false,
+    "familyPlan": false,
+    "emergencyAccess": false
+  },
+  "seoMeta": {
+    "title": "RoboForm Review 2026: 8.5/10 Rating | TrueTopReviews",
+    "description": "In-depth RoboForm review covering form-filling, desktop apps, and pricing. Rated 8.5/10.",
+    "keywords": [
+      "RoboForm review",
+      "password manager",
+      "form filler"
+    ]
+  }
+}

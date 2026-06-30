@@ -1,0 +1,12 @@
+{
+  "slugs": ["totalav", "mcafee"],
+  "title": "TotalAV vs McAfee 2026: Best Value Antivirus Comparison",
+  "description": "Comparing two affordable antivirus solutions. Which offers better protection, features, and value for your money?",
+  "features": ["detection", "performance", "vpn", "passwordManager", "optimization", "phishingProtection", "multiDevice", "familyPlan", "support", "price"],
+  "verdict": {
+    "categoryWinners": { "detection": "mcafee", "pricing": "totalav", "features": "mcafee", "optimization": "totalav", "support": "mcafee" },
+    "overallWinner": "McAfee",
+    "overallReasoning": "McAfee wins for families and users with multiple devices — the unlimited device family plan provides unmatched value. The phishing protection is best-in-class (100% in our tests). TotalAV wins on pure affordability and system optimization tools. Choose McAfee for family protection; choose TotalAV for the absolute lowest price with solid protection."
+  },
+  "seoMeta": { "title": "TotalAV vs McAfee 2026: Best Value Antivirus Compared | TrueTopReviews", "description": "TotalAV vs McAfee head-to-head. Compare malware detection, features, and pricing to find the best affordable antivirus.", "keywords": ["TotalAV vs McAfee", "antivirus comparison", "budget antivirus"] }
+}

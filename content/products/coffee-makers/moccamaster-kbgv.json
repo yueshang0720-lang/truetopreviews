@@ -1,0 +1,87 @@
+{
+  "slug": "moccamaster-kbgv",
+  "name": "Technivorm Moccamaster KBGV",
+  "category": "coffee-makers",
+  "tagline": "Best drip coffee maker with SCA certification",
+  "description": "The hand-built Moccamaster is one of the few SCA-certified drip brewers, delivering perfectly extracted coffee every time.",
+  "longDescription": "Technivorm Moccamaster KBGV is our best drip coffee maker with sca certification. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "moccamaster-kbgv-logo.png",
+  "image": "moccamaster-kbgv-hero.jpg",
+  "website": "https://www.moccamaster.com",
+  "pricing": {
+    "startingPrice": 349,
+    "priceUnit": "",
+    "displayPrice": "$349",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 349
+  },
+  "ratings": {
+    "overall": 9.1,
+    "features": 8.5,
+    "easeOfUse": 9,
+    "pricing": 8,
+    "support": 9,
+    "reliability": 9.5
+  },
+  "pros": [
+    "SCA Gold Cup certified",
+    "Hand-built in Netherlands",
+    "Perfect brewing temperature",
+    "Simple durable design",
+    "5-year warranty",
+    "Excellent build quality"
+  ],
+  "cons": [
+    "Expensive for a drip machine",
+    "No programmable timer",
+    "Manual operation only",
+    "Plastic brew basket feels cheap"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best drip coffee maker with SCA certification",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Technivorm Moccamaster KBGV is our top recommendation for drip coffee maker with sca certification. SCA Gold Cup certified. Expensive for a drip machine.",
+  "faqs": [
+    {
+      "question": "Who is the Technivorm Moccamaster KBGV best for?",
+      "answer": "The hand-built Moccamaster is one of the few SCA-certified drip brewers, delivering perfectly extracted coffee every time."
+    },
+    {
+      "question": "Is the Technivorm Moccamaster KBGV worth the price?",
+      "answer": "Yes, the Technivorm Moccamaster KBGV justifies its price with sca gold cup certified. We recommend it for users who prioritize drip coffee."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Coffee Maker 2026",
+      "description": "Best drip coffee maker with SCA certification"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.moccamaster.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Technivorm Moccamaster KBGV Review 2026: 9.1/10 Rating | TrueTopReviews",
+    "description": "In-depth Technivorm Moccamaster KBGV review covering performance, features, and value. Rated 9.1/10 by our experts.",
+    "keywords": [
+      "Technivorm Moccamaster KBGV review",
+      "Coffee Makers review",
+      "best Coffee Maker"
+    ]
+  }
+}

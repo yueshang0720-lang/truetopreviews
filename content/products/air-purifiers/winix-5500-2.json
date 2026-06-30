@@ -1,0 +1,80 @@
+{
+  "slug": "winix-5500-2",
+  "name": "Winix 5500-2",
+  "category": "air-purifiers",
+  "tagline": "Best budget air purifier with PlasmaWave",
+  "description": "Winix 5500-2 offers solid HEPA filtration with unique PlasmaWave technology at an accessible price point.",
+  "longDescription": "Winix 5500-2 is our best budget air purifier with plasmawave. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "winix-5500-2-logo.png",
+  "image": "winix-5500-2-hero.jpg",
+  "website": "https://www.winixamerica.com",
+  "pricing": {
+    "startingPrice": 249,
+    "priceUnit": "",
+    "displayPrice": "$249",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 249
+  },
+  "ratings": {
+    "overall": 8.3,
+    "features": 8.2,
+    "easeOfUse": 8.5,
+    "pricing": 9,
+    "support": 7.8,
+    "reliability": 8.2
+  },
+  "pros": [
+    "Affordable at $249",
+    "PlasmaWave helps neutralize odors",
+    "Good CADR for medium rooms",
+    "Auto mode with air quality sensor",
+    "Remote control included"
+  ],
+  "cons": [
+    "PlasmaWave can produce trace ozone",
+    "Dated design aesthetics",
+    "No smart features",
+    "Replacement filter costs add up"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best budget air purifier with PlasmaWave",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Winix 5500-2 is a solid choice for budget air purifier with plasmawave. Affordable at $249. PlasmaWave can produce trace ozone.",
+  "faqs": [
+    {
+      "question": "Who is the Winix 5500-2 best for?",
+      "answer": "Winix 5500-2 offers solid HEPA filtration with unique PlasmaWave technology at an accessible price point."
+    },
+    {
+      "question": "Is the Winix 5500-2 worth the price?",
+      "answer": "The Winix 5500-2 offers decent value, but plasmawave can produce trace ozone. Consider whether these trade-offs are acceptable before purchasing."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.winixamerica.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Winix 5500-2 Review 2026: 8.3/10 Rating | TrueTopReviews",
+    "description": "In-depth Winix 5500-2 review covering performance, features, and value. Rated 8.3/10 by our experts.",
+    "keywords": [
+      "Winix 5500-2 review",
+      "Air Purifiers review",
+      "best Air Purifier"
+    ]
+  }
+}

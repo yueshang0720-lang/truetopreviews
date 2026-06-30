@@ -1,0 +1,59 @@
+{
+  "slug": "cyberghost",
+  "name": "CyberGhost",
+  "category": "vpn",
+  "tagline": "Best VPN for streaming with dedicated servers",
+  "description": "CyberGhost offers an intuitive interface with optimized servers for streaming, torrenting, and gaming, making it the most user-friendly VPN for specific use cases.",
+  "longDescription": "CyberGhost stands out with its massive server network and specialized servers optimized for specific activities. With over 9,000 servers in 91 countries, it has one of the largest networks in the industry. What truly sets CyberGhost apart is its dedicated streaming servers — clearly labeled and optimized for specific platforms like Netflix US, BBC iPlayer, Hulu, and more. The service also offers specialized servers for torrenting and gaming. While it may not have the advanced security features of NordVPN or the polish of ExpressVPN, CyberGhost delivers excellent value with its generous 45-day money-back guarantee and affordable long-term plans.",
+  "logo": "cyberghost-logo.png",
+  "image": "cyberghost-hero.jpg",
+  "website": "https://www.cyberghost.com",
+  "pricing": {"startingPrice":2.19,"priceUnit":"/mo","displayPrice":"$2.19/mo (billed biennially)","hasFreeTrial":false,"hasFreeVersion":false,"moneyBackGuaranteeDays":45,"regularPrice":12.99},
+  "ratings": {
+    "overall": 9,
+    "features": 8.9,
+    "easeOfUse": 9.2,
+    "pricing": 8.8,
+    "support": 8.7,
+    "reliability": 9.1
+  },
+  "pros": ["9,000+ servers in 91 countries","Dedicated streaming servers for 35+ platforms","45-day money-back guarantee (longest in industry)","Intuitive apps for all major platforms","Automatic HTTPS redirect and ad blocking"],
+  "cons": ["No Linux GUI application","Advanced features require manual configuration","Based in Romania (EU jurisdiction with some data-sharing obligations)","Inconsistent speeds on distant servers"],
+  "keyFeatures": [
+    { "name": "Streaming Servers", "description": "Dedicated IP addresses optimized for 35+ streaming platforms including Netflix, Hulu, BBC iPlayer. Clearly labeled in the app.", "icon": "shield" },{ "name": "NoSpy Servers", "description": "Exclusive servers located in CyberGhost's Romanian data center, operated entirely in-house for maximum security and privacy.", "icon": "shield" },{ "name": "Smart Rules", "description": "Automate your VPN connection with custom rules. Set specific apps to auto-connect when launched or choose preferred servers.", "icon": "shield" },{ "name": "Automatic Kill Switch", "description": "Network-level protection that blocks all internet traffic if the VPN connection drops, preventing any accidental data exposure.", "icon": "shield" }
+  ],
+  "specs": {
+    "Server Count": "9,000+","Countries": "91","Simultaneous Connections": "7","Protocols": "WireGuard, OpenVPN, IKEv2","Log Policy": "No-logs (audited by Deloitte)","Customer Support": "24/7 live chat + email","Money-back Guarantee": "45 days","Encryption": "AES-256-GCM"
+  },
+  "verdict": "CyberGhost is the best VPN for streaming enthusiasts who want a simple, set-and-forget experience. The clearly labeled streaming servers eliminate the guesswork of finding which server works with which platform. While power users may want more advanced features, the average user will appreciate the clean interface and specialized servers.",
+  "faqs": [
+    { "question": "Is CyberGhost good for streaming?", "answer": "Yes, CyberGhost is excellent for streaming. It offers dedicated servers optimized for over 35 streaming platforms, including Netflix, Hulu, BBC iPlayer, Disney+, and Amazon Prime Video. Each server is clearly labeled in the app, so you don't need to guess which one works." },
+    { "question": "How long is CyberGhost's money-back guarantee?", "answer": "CyberGhost offers a 45-day money-back guarantee on plans of 6 months or longer — the longest in the VPN industry. Most competitors offer 30 days. The monthly plan has a 14-day guarantee instead." }
+  ],
+  "awards": [{ "tier": "excellence", "label": "Best for Streaming 2026", "description": "Dedicated streaming servers and intuitive interface" }],
+  "lastUpdated": "2026-06-20T00:00:00Z",
+  "reviewDate": "2025-03-15T00:00:00Z",
+  "author": { "name": "Alex Chen", "title": "Senior Cybersecurity Analyst", "bio": "Alex has tested over 50 VPN services across 5 years at TrueTopReviews. He holds CISSP and CEH certifications.", "avatar": "alex-chen.jpg" },
+  "affiliateUrl": "https://www.cyberghost.com",
+  "comparisonData": {
+    "serverCount": "9,000+",
+    "countries": "91",
+    "simultaneousConnections": "7",
+    "noLogsPolicy": true,
+    "auditedNoLogs": false,
+    "killSwitch": true,
+    "splitTunneling": false,
+    "torrentingSupport": true,
+    "netflixAccess": false,
+    "liveChat": false,
+    "freeVersion": false,
+    "moneyBackDays": "30",
+    "startingPrice": "$3.99/mo",
+    "warrantCanary": true
+  },
+  "seoMeta": {
+    "title": "CyberGhost Review 2026: 9/10 Rating | TrueTopReviews",
+    "description": "In-depth CyberGhost review covering features, pricing, speed tests, and security. Rated 9/10 by our experts. See if it is right for you.",
+    "keywords": ["CyberGhost review", "best VPN", "VPN review 2026", "CyberGhost pricing"]
+  }
+}

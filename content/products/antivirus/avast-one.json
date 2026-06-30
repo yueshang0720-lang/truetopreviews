@@ -1,0 +1,118 @@
+{
+  "slug": "avast-one",
+  "name": "Avast One",
+  "category": "antivirus",
+  "tagline": "Best free antivirus with generous feature set",
+  "description": "Avast One offers one of the most comprehensive free antivirus plans available, with excellent protection and a surprisingly rich feature set at no cost.",
+  "longDescription": "Avast One represents a significant redesign of Avast's product line, consolidating their antivirus, VPN, and cleanup tools into a single unified platform. The free tier is remarkably generous: you get real-time malware protection, a VPN with 5GB weekly data, a basic firewall, and system cleanup — all at no cost. In malware detection tests, Avast achieved a 98.2% detection rate with moderate system impact. The paid plans unlock unlimited VPN data and advanced features like sensitive data monitoring.",
+  "logo": "avast-one-logo.png",
+  "image": "avast-one-hero.jpg",
+  "website": "https://www.avast.com",
+  "pricing": {
+    "startingPrice": 0,
+    "priceUnit": "/yr",
+    "displayPrice": "Free (paid plans from $49.99/yr)",
+    "hasFreeTrial": true,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 49.99
+  },
+  "ratings": {
+    "overall": 8.6,
+    "features": 8.8,
+    "easeOfUse": 8.5,
+    "pricing": 8.7,
+    "support": 8.4,
+    "reliability": 8.3
+  },
+  "pros": [
+    "Generous free plan with VPN included",
+    "Strong malware detection (98.2%)",
+    "Unified, clean interface",
+    "Free VPN with 5GB weekly",
+    "Good phishing protection"
+  ],
+  "cons": [
+    "Past privacy controversies (addressed)",
+    "Moderate system performance impact",
+    "VPN server network is limited",
+    "Some features only in Ultimate tier"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Free VPN",
+      "description": "5GB weekly data allowance on the free plan. 50+ server locations. Built directly into the Avast One interface. Simple one-click activation.",
+      "icon": "globe"
+    },
+    {
+      "name": "Sensitive Data Shield",
+      "description": "Scans for sensitive documents (tax returns, bank statements, passport scans) and moves them to a protected folder.",
+      "icon": "lock"
+    },
+    {
+      "name": "Email Guardian",
+      "description": "Automatically scans incoming emails for malicious attachments, phishing links, and scam content.",
+      "icon": "mail"
+    },
+    {
+      "name": "Driver Updater",
+      "description": "Scans for outdated drivers and updates them automatically. Reduces security vulnerabilities from unpatched hardware drivers.",
+      "icon": "refresh"
+    }
+  ],
+  "specs": {
+    "Malware Detection": "98.2%",
+    "Devices Covered": "Up to 30",
+    "Platforms": "Windows, Mac, Android, iOS",
+    "VPN Included": "Yes (5GB/week free)",
+    "Password Manager": "No",
+    "Parental Controls": "No",
+    "Customer Support": "Live chat (paid only)",
+    "Free Version": "Yes"
+  },
+  "verdict": "Avast One is the best free antivirus solution available. The combination of strong malware protection, a built-in VPN with generous data allowance, and a clean interface makes it our top recommendation for budget-conscious users.",
+  "faqs": [
+    {
+      "question": "Is Avast still safe to use after the privacy controversy?",
+      "answer": "Avast has made significant changes since the 2020 controversy over its subsidiary Jumpshot selling user data. The company shut down Jumpshot, ended all data-sharing practices, and implemented new privacy controls."
+    },
+    {
+      "question": "What is included in Avast One free vs paid?",
+      "answer": "The free plan includes real-time malware protection, firewall, VPN (5GB/week), PC speedup, and Software Updater. The paid Individual plan adds unlimited VPN, Sensitive Data Shield, and premium support."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Free Antivirus 2026",
+      "description": "Most generous free plan available"
+    }
+  ],
+  "lastUpdated": "2026-06-22T00:00:00Z",
+  "reviewDate": "2025-04-10T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has been evaluating cybersecurity products for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.avast.com",
+  "comparisonData": {
+    "noLogsPolicy": true,
+    "auditedNoLogs": false,
+    "killSwitch": true,
+    "liveChat": false,
+    "freeVersion": true,
+    "moneyBackDays": "30",
+    "startingPrice": "Free"
+  },
+  "seoMeta": {
+    "title": "Avast One Review 2026: 8.6/10 Rating | TrueTopReviews",
+    "description": "In-depth Avast One review covering free antivirus features, malware protection, and pricing. Rated 8.6/10.",
+    "keywords": [
+      "Avast One review",
+      "free antivirus",
+      "antivirus review"
+    ]
+  }
+}

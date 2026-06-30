@@ -1,0 +1,86 @@
+{
+  "slug": "dreame-l20",
+  "name": "Dreame L20 Ultra",
+  "category": "robot-vacuums",
+  "tagline": "Best value for self-cleaning mop system",
+  "description": "Dreame L20 Ultra offers premium mopping capabilities with self-cleaning and drying at a competitive mid-range price.",
+  "longDescription": "Dreame L20 Ultra is our best value for self-cleaning mop system. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "dreame-l20-logo.png",
+  "image": "dreame-l20-hero.jpg",
+  "website": "https://www.dreame.com",
+  "pricing": {
+    "startingPrice": 1099,
+    "priceUnit": "",
+    "displayPrice": "$1,099",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 1099
+  },
+  "ratings": {
+    "overall": 9,
+    "features": 9.3,
+    "easeOfUse": 8.8,
+    "pricing": 8.5,
+    "support": 8.3,
+    "reliability": 8.8
+  },
+  "pros": [
+    "Self-cleaning and drying mop pads",
+    "Strong suction at 7,000Pa",
+    "Good obstacle avoidance",
+    "Competitive pricing",
+    "Clean base station design"
+  ],
+  "cons": [
+    "App less polished than Roborock/Roomba",
+    "Customer support can be slow",
+    "Mapping less reliable in complex homes",
+    "Availability limited in some regions"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best value for self-cleaning mop system",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Dreame L20 Ultra is our top recommendation for value for self-cleaning mop system. Self-cleaning and drying mop pads. App less polished than Roborock/Roomba.",
+  "faqs": [
+    {
+      "question": "Who is the Dreame L20 Ultra best for?",
+      "answer": "Dreame L20 Ultra offers premium mopping capabilities with self-cleaning and drying at a competitive mid-range price."
+    },
+    {
+      "question": "Is the Dreame L20 Ultra worth the price?",
+      "answer": "Yes, the Dreame L20 Ultra justifies its price with self-cleaning and drying mop pads. We recommend it for users who prioritize value for."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Robot Vacuum 2026",
+      "description": "Best value for self-cleaning mop system"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.dreame.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Dreame L20 Ultra Review 2026: 9/10 Rating | TrueTopReviews",
+    "description": "In-depth Dreame L20 Ultra review covering performance, features, and value. Rated 9/10 by our experts.",
+    "keywords": [
+      "Dreame L20 Ultra review",
+      "Robot Vacuums review",
+      "best Robot Vacuum"
+    ]
+  }
+}

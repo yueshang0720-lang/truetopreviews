@@ -1,0 +1,112 @@
+{
+  "slug": "lastpass",
+  "name": "LastPass",
+  "category": "password-managers",
+  "tagline": "Feature-rich with excellent cross-platform free tier",
+  "description": "LastPass offers a good free tier with cross-platform sync and a familiar interface, though security incidents have affected its reputation.",
+  "longDescription": "LastPass was once the most popular password manager in the world, and its feature set remains competitive. The free tier offers unlimited passwords with cross-platform sync (though limited to either mobile or desktop devices). The interface is familiar and easy to navigate, with reliable autofill across browsers. However, LastPass has suffered several significant security incidents, including a major breach in 2022 where encrypted vault data was stolen. While the encryption remains strong (AES-256), the frequency of security incidents is concerning. For new users, we recommend Bitwarden for a free option or 1Password for premium. Existing LastPass users should ensure they use a strong master password and enable 2FA.",
+  "logo": "lastpass-logo.png",
+  "image": "lastpass-hero.jpg",
+  "website": "https://www.lastpass.com",
+  "pricing": {
+    "startingPrice": 3,
+    "priceUnit": "/mo",
+    "displayPrice": "$3.00/mo (billed annually)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 0,
+    "regularPrice": 3
+  },
+  "ratings": {
+    "overall": 8.2,
+    "features": 8.7,
+    "easeOfUse": 8.4,
+    "pricing": 8.5,
+    "support": 7.8,
+    "reliability": 7.5
+  },
+  "pros": [
+    "Good free tier feature set",
+    "Familiar, easy-to-use interface",
+    "Strong password generator",
+    "Good autofill reliability",
+    "Large user community"
+  ],
+  "cons": [
+    "Multiple security incidents (2022 breach)",
+    "Free tier now device-limited",
+    "No phone support in any plan",
+    "Recovery options are limited"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Security Dashboard",
+      "description": "Analyzes your vault for at-risk passwords. Identifies weak, reused, and compromised credentials with actionable remediation steps.",
+      "icon": "bar-chart"
+    },
+    {
+      "name": "One-to-Many Sharing",
+      "description": "Share passwords and notes with multiple LastPass users simultaneously. Changes sync automatically to all recipients.",
+      "icon": "share"
+    },
+    {
+      "name": "Dark Web Monitoring",
+      "description": "Monitors your email addresses against known breach databases. Alerts you via email when your information appears in new breaches.",
+      "icon": "search"
+    },
+    {
+      "name": "Emergency Access",
+      "description": "Designate trusted contacts who can request access to your vault. Customizable waiting period from instant to 30 days.",
+      "icon": "clock"
+    }
+  ],
+  "specs": {
+    "Encryption": "AES-256",
+    "Breach History": "2022 data breach",
+    "Platforms": "Windows, Mac, iOS, Android",
+    "Browser Extensions": "Chrome, Firefox, Edge, Safari",
+    "2FA Support": "TOTP, biometrics, YubiKey",
+    "Customer Support": "Email only",
+    "Free Plan": "Yes (device-limited)"
+  },
+  "verdict": "LastPass remains a capable password manager with a good feature set, but its security track record makes it difficult to recommend over competitors. The 2022 breach and subsequent incidents have eroded trust. Existing users with strong master passwords may choose to stay, but new users should consider Bitwarden or 1Password instead.",
+  "faqs": [
+    {
+      "question": "Was LastPass hacked?",
+      "answer": "Yes, LastPass experienced a significant security breach in 2022 where attackers stole encrypted vault data and customer information. While the vaults remain encrypted (AES-256), the attackers could attempt to crack weak master passwords. LastPass has since implemented mandatory master password strengthening for affected accounts."
+    },
+    {
+      "question": "Should I switch from LastPass to another password manager?",
+      "answer": "If your master password is strong (16+ characters, unique, randomly generated) and you have 2FA enabled, your data is likely safe. However, given the pattern of security incidents, we recommend considering a switch to 1Password or Bitwarden, both of which have cleaner security track records."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://www.lastpass.com",
+  "comparisonData": {
+    "encryption": "AES-256",
+    "secretKey": false,
+    "audited": true,
+    "freePlan": true,
+    "passkeySupport": true,
+    "travelMode": false,
+    "familyPlan": true,
+    "emergencyAccess": true
+  },
+  "seoMeta": {
+    "title": "LastPass Review 2026: 8.2/10 Rating | TrueTopReviews",
+    "description": "In-depth LastPass review covering security history, features, and pricing. Rated 8.2/10 with important security considerations.",
+    "keywords": [
+      "LastPass review",
+      "password manager",
+      "LastPass security"
+    ]
+  }
+}

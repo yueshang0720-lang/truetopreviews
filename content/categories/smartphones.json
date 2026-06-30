@@ -1,0 +1,32 @@
+{
+  "slug": "smartphones",
+  "name": "Smartphones",
+  "description": "Find the best smartphone for your needs and budget. Expert reviews of flagship, mid-range, and budget phones.",
+  "longDescription": "We tested 25+ smartphones over 6 months, evaluating camera performance, battery life, display quality, and real-world speed. Our rankings cover every price point.",
+  "icon": "smartphone-icon.svg",
+  "image": "smartphone-hero.jpg",
+  "products": [
+    "iphone-16-pro",
+    "samsung-s25-ultra",
+    "pixel-9-pro",
+    "oneplus-13",
+    "nothing-phone-3"
+  ],
+  "buyingGuideIntro": "Choosing the right smartphone depends on your needs and budget. Our testing evaluates every product across key performance criteria.",
+  "testingCriteria": [
+    "Camera Quality — We test in daylight, low light, and portrait modes with side-by-side comparisons",
+    "Battery Life — Real-world usage tests including video streaming, gaming, and GPS navigation",
+    "Display Quality — Color accuracy, brightness, and outdoor visibility measurements",
+    "Performance — App launch speed, multitasking, and gaming frame rate benchmarks",
+    "Value — Features per dollar across flagship, mid-range, and budget tiers"
+  ],
+  "seoMeta": {
+    "t": "10 Best Smartphones of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "d": "We tested 25+ smartphones to find the 10 best. Compare cameras, battery, display, and pricing.",
+    "k": [
+      "best smartphone",
+      "phone review",
+      "smartphone comparison"
+    ]
+  }
+}

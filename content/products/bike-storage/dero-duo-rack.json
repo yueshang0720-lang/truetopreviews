@@ -1,0 +1,29 @@
+{
+  "slug": "dero-duo-rack",
+  "name": "Dero Duo Rack",
+  "category": "bike-storage",
+  "tagline": "Best commercial-grade bike rack for home garages",
+  "description": "Dero Duo Rack brings commercial-grade bike parking to your home garage — heavy-duty steel construction that securely holds two bikes.",
+  "longDescription": "Dero is the leading brand in commercial bike parking, found at offices, universities, and transit stations worldwide. The Duo Rack brings that same commercial-grade quality to your home garage. Made from heavy-gauge steel with a durable powder-coated finish, it mounts securely to wall studs and holds up to 2 bikes (200 lbs total). The patented design cradles bikes by the wheels, preventing frame scratches and keeping bikes stable. Installation is straightforward with the included mounting template and hardware.",
+  "logo": "dero-duo-rack-logo.png",
+  "image": "dero-duo-rack-hero.jpg",
+  "website": "https://www.dero.com",
+  "pricing": { "startingPrice": 249, "priceUnit": "", "displayPrice": "$249", "hasFreeTrial": false, "hasFreeVersion": false, "moneyBackGuaranteeDays": 30, "regularPrice": 299 },
+  "ratings": { "overall": 9.3, "features": 9.2, "easeOfUse": 8.8, "pricing": 8.0, "support": 8.5, "reliability": 9.5 },
+  "pros": ["Commercial-grade steel construction","Holds 2 bikes up to 200 lbs","Wheel-cradle design prevents frame scratches","Powder-coated weather-resistant finish","Made in USA"],
+  "cons": ["Premium price at $249","Requires solid wall stud mounting","Heavy at 28 lbs (two-person install)","Only available in dark colors"],
+  "keyFeatures": [{ "name": "Wheel Cradle Design", "description": "Holds bikes by the wheels instead of the frame, preventing scratches and accommodating any frame shape or size.", "icon": "shield" }],
+  "specs": { "Capacity": "2 bikes (200 lbs)", "Material": "Heavy-gauge steel", "Finish": "Powder-coated", "Installation": "Wall-mount (studs)", "Warranty": "Lifetime", "Made In": "USA" },
+  "verdict": "The Dero Duo Rack is the best home bike storage solution for those who want commercial-grade quality. The wheel-cradle design protects your bike frames, and the steel construction will outlast your garage.",
+  "faqs": [
+    { "question": "Can Dero Duo Rack hold e-bikes?", "answer": "Yes, the Duo Rack supports up to 200 lbs total (100 lbs per bike), which accommodates most e-bikes. Ensure your wall studs can support the combined weight of the rack and bikes." },
+    { "question": "How difficult is installation?", "answer": "Installation requires drilling into wall studs with the included template and hardware. Most users complete it in 30-45 minutes. Two people are recommended due to the rack's 28 lb weight." }
+  ],
+  "awards": [{ "tier": "gold", "label": "Best Bike Storage 2026", "description": "Commercial-grade quality for home use" }],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": { "name": "Sarah Mitchell", "title": "Senior Tech Reviewer", "bio": "Sarah has tested hundreds of home and outdoor products across 7 years.", "avatar": "sarah-mitchell.jpg" },
+  "affiliateUrl": "https://www.dero.com",
+  "comparisonData": {},
+  "seoMeta": { "title": "Dero Duo Rack Review 2026: 9.3/10 Rating | TrueTopReviews", "description": "In-depth Dero Duo Rack review: commercial-grade bike storage for home garages. Rated 9.3/10 by our experts.", "keywords": ["Dero Duo Rack review", "bike storage", "garage rack"] }
+}

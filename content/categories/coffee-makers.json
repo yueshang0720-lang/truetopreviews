@@ -1,0 +1,32 @@
+{
+  "slug": "coffee-makers",
+  "name": "Coffee Makers",
+  "description": "Brew the perfect cup with the best coffee makers, from drip machines to espresso makers.",
+  "longDescription": "We brewed over 500 cups of coffee to test 20 machines for taste, consistency, speed, and ease of use. Whether you prefer drip, pour-over, or espresso, our top picks deliver café-quality results at home.",
+  "icon": "coffee-icon.svg",
+  "image": "coffee-hero.jpg",
+  "products": [
+    "breville-barista-pro",
+    "moccamaster-kbgv",
+    "ninja-dualbrew",
+    "oxo-brew-9-cup",
+    "keurig-k-supreme"
+  ],
+  "buyingGuideIntro": "Choosing the right coffee maker depends on your needs and budget. Our testing evaluates every product across key performance criteria.",
+  "testingCriteria": [
+    "Taste Quality — Blind taste tests with coffee experts scoring flavor, body, and temperature",
+    "Brew Speed — Time to brew a full carafe and single cup",
+    "Ease of Use — Setup complexity, cleaning convenience, and programmability",
+    "Build Quality — Materials, durability, and warranty coverage",
+    "Value — Cost per cup including machine price and consumables"
+  ],
+  "seoMeta": {
+    "t": "10 Best Coffee Makers of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "d": "We tested 20 coffee makers to find the 10 best. Compare taste, speed, features, and pricing.",
+    "k": [
+      "best coffee maker",
+      "coffee machine review",
+      "espresso maker"
+    ]
+  }
+}

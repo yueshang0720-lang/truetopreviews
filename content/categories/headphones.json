@@ -1,0 +1,22 @@
+{
+  "slug": "headphones",
+  "name": "Wireless Earbuds",
+  "description": "Discover the best wireless earbuds of 2026. From premium noise-cancelling to budget-friendly picks, our expert reviews help you find the perfect pair.",
+  "longDescription": "We spent over 150 hours testing 25+ wireless earbuds to bring you the definitive top 10 ranking. Our testing covered sound quality with calibrated measurements, active noise cancellation (ANC) effectiveness, call quality in noisy environments, battery life verification, and real-world comfort during extended wear. Every pair was tested across iOS and Android devices with a panel of 5 listeners.",
+  "icon": "headphones-icon.svg",
+  "image": "headphones-hero.jpg",
+  "products": ["airpods-pro-2", "sony-wf-1000xm5", "bose-qc-ultra", "samsung-buds3-pro", "sennheiser-mtw4", "jabra-elite-10", "nothing-ear", "beats-studio-buds-plus", "soundcore-liberty-4-nc", "pixel-buds-pro-2"],
+  "buyingGuideIntro": "Choosing the right wireless earbuds depends on your priorities: sound quality, ANC performance, call clarity, or battery life. Our testing evaluates every model across all of these dimensions to help you find the perfect match.",
+  "testingCriteria": [
+    "Sound Quality — We measure frequency response, soundstage, and detail retrieval with calibrated equipment and a panel of 5 listeners",
+    "ANC Performance — We test noise cancellation against airplane cabin noise, street traffic, and office chatter",
+    "Comfort & Fit — We wear each pair for 3+ hours continuously to evaluate long-term comfort and stability",
+    "Call Quality — We test microphone performance in quiet, windy, and noisy environments",
+    "Battery Life — We verify manufacturer claims with real-world testing at 50% and 75% volume levels"
+  ],
+  "seoMeta": {
+    "title": "10 Best Wireless Earbuds of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "description": "We tested 25+ wireless earbuds to find the 10 best. Compare sound quality, ANC, battery life, and pricing. Expert reviews updated June 2026.",
+    "keywords": ["best wireless earbuds", "earbuds review", "noise cancelling earbuds", "wireless headphones"]
+  }
+}

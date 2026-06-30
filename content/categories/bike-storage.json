@@ -1,0 +1,16 @@
+{
+  "slug": "bike-storage",
+  "name": "Bike Storage",
+  "description": "Keep your bikes organized and secure with the best bike racks, wall mounts, and storage solutions for garages and apartments.",
+  "longDescription": "We tested 10 bike storage solutions for ease of installation, build quality, space efficiency, and bike protection. Our picks help you reclaim your garage, hallway, or apartment space.",
+  "icon": "bike-icon.svg",
+  "image": "bike-hero.jpg",
+  "products": ["dero-duo-rack", "steadyrack-classic", "feedback-sports-velo"],
+  "buyingGuideIntro": "Choosing the right bike storage depends on your space, number of bikes, and wall type. Our reviews cover everything from simple hooks to premium wall-mounted systems.",
+  "testingCriteria": ["Installation Ease","Build Quality","Space Efficiency","Bike Protection","Value"],
+  "seoMeta": {
+    "title": "Best Bike Storage Solutions of 2026 — Expert Reviews | TrueTopReviews",
+    "description": "We tested 10 bike storage solutions to find the best racks, mounts, and stands. Compare Dero, Steadyrack, and Feedback Sports.",
+    "keywords": ["best bike storage","bike rack","wall mount","garage storage"]
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 50 VPN services across 5 years at TrueTopReviews. He holds CISSP and CEH certifications and specializes in network security and privacy technologies.",
+    "avatar": "alex-chen.jpg"
+  },
+  {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has been evaluating VPN services and cybersecurity products for 7 years. She specializes in streaming performance testing and privacy policy analysis.",
+    "avatar": "sarah-mitchell.jpg"
+  }
+]

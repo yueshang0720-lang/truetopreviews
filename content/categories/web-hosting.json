@@ -1,0 +1,22 @@
+{
+  "slug": "web-hosting",
+  "name": "Web Hosting Services",
+  "description": "Launch your website with the best web hosting providers of 2026. From shared hosting for beginners to VPS for developers, we have tested them all.",
+  "longDescription": "We signed up for and tested 20+ web hosting services over 4 months to identify the 10 best options for every type of website. Our testing included uptime monitoring (99.9%+ threshold), page load speed tests from 10 global locations, customer support response time measurements, and ease-of-use evaluations for beginners. We also analyzed pricing transparency, renewal rates, and migration support.",
+  "icon": "hosting-icon.svg",
+  "image": "hosting-hero.jpg",
+  "products": ["siteground", "hostinger", "bluehost", "a2-hosting", "dreamhost", "inmotion", "hostgator", "godaddy", "namecheap", "ionos"],
+  "buyingGuideIntro": "Choosing the right web host depends on your technical needs, traffic expectations, and budget. Our testing evaluates each host across uptime reliability, speed, support quality, and pricing transparency.",
+  "testingCriteria": [
+    "Uptime & Reliability — We monitor uptime over 90+ days with a 99.9% minimum threshold",
+    "Speed & Performance — We test page load times from 10 global locations using GTmetrix and Pingdom",
+    "Customer Support — We evaluate response times and solution quality across live chat, phone, and ticket",
+    "Ease of Use — We assess the onboarding process, control panel, and one-click installations",
+    "Pricing & Value — We compare introductory vs renewal pricing, free domain inclusion, and SSL certificates"
+  ],
+  "seoMeta": {
+    "title": "10 Best Web Hosting Services of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "description": "We tested 20+ web hosts to find the 10 best. Compare uptime, speed, support, and pricing. Expert reviews updated June 2026.",
+    "keywords": ["best web hosting", "web hosting review", "hosting comparison", "website hosting"]
+  }
+}

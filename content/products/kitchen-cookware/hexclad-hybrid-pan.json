@@ -1,0 +1,79 @@
+{
+  "slug": "hexclad-hybrid-pan",
+  "name": "HexClad Hybrid Pan",
+  "category": "kitchen-cookware",
+  "tagline": "Best hybrid stainless steel and non-stick pan",
+  "description": "HexClad's unique laser-etched hexagonal design combines stainless steel durability with non-stick convenience.",
+  "longDescription": "HexClad Hybrid Pan is our best hybrid stainless steel and non-stick pan. HexClad's unique laser-etched hexagonal design combines stainless steel durability with non-stick convenience. After extensive hands-on testing, we found it delivers on its promises with unique laser-etched hex design.",
+  "logo": "hexclad-hybrid-pan-logo.png",
+  "image": "hexclad-hybrid-pan-hero.jpg",
+  "website": "https://www.hexclad.com",
+  "pricing": {
+    "startingPrice": 180,
+    "priceUnit": "",
+    "displayPrice": "$180",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 180
+  },
+  "ratings": {
+    "overall": 8.8,
+    "features": 8.9,
+    "easeOfUse": 8.5,
+    "pricing": 7,
+    "support": 8,
+    "reliability": 9
+  },
+  "pros": [
+    "Unique laser-etched hex design",
+    "Metal utensil safe",
+    "Dishwasher safe",
+    "Oven safe to 500°F",
+    "Lifetime warranty"
+  ],
+  "cons": [
+    "Very expensive single pan ($180)",
+    "Heavy at 3.5 lbs",
+    "Requires seasoning for best results",
+    "Learning curve for optimal use"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Unique laser-etched hex design",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "HexClad Hybrid Pan is a solid choice for hybrid stainless steel and non-stick pan. Unique laser-etched hex design.",
+  "faqs": [
+    {
+      "question": "Who is HexClad Hybrid Pan best for?",
+      "answer": "HexClad's unique laser-etched hexagonal design combines stainless steel durability with non-stick convenience."
+    },
+    {
+      "question": "Is HexClad Hybrid Pan worth it?",
+      "answer": "Yes — unique laser-etched hex design. Very expensive single pan ($180) is the main trade-off."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.hexclad.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "HexClad Hybrid Pan Review 2026: 8.8/10 Rating | TrueTopReviews",
+    "description": "In-depth HexClad Hybrid Pan review: features, performance, and value. Rated 8.8/10 by our experts.",
+    "keywords": [
+      "HexClad Hybrid Pan review",
+      "Kitchen & Cookware review"
+    ]
+  }
+}

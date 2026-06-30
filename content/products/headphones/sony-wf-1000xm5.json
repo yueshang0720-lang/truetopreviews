@@ -1,0 +1,32 @@
+{
+  "slug": "sony-wf-1000xm5",
+  "name": "Sony WF-1000XM5",
+  "category": "headphones",
+  "tagline": "Best overall wireless earbuds for Android and cross-platform",
+  "description": "Sony's flagship earbuds deliver best-in-class ANC, exceptional LDAC sound quality, and a refined compact design.",
+  "longDescription": "Sony's WF-1000XM5 builds on the legendary XM4 with improvements in every category. The earbuds are 25% smaller and 20% lighter while packing larger 8.4mm drivers and a new processor. The ANC is the best we have tested — effectively eliminating low-frequency rumble from airplanes and trains while also handling mid-frequency office noise better than ever. Sound quality is exceptional, especially with LDAC-enabled Android devices. The new foam eartips provide better passive isolation and long-term comfort. For anyone not locked into the Apple ecosystem, the XM5 offers the most complete package available.",
+  "logo": "sony-wf-1000xm5-logo.png", "image": "sony-wf-1000xm5-hero.jpg",
+  "website": "https://www.sony.com",
+  "pricing": { "startingPrice": 299, "priceUnit": "", "displayPrice": "$299", "hasFreeTrial": false, "hasFreeVersion": false, "moneyBackGuaranteeDays": 30, "regularPrice": 299 },
+  "ratings": { "overall": 9.5, "features": 9.5, "easeOfUse": 9.2, "pricing": 7.8, "support": 8.8, "reliability": 9.4 },
+  "pros": ["Best-in-class active noise cancellation", "Exceptional sound quality with LDAC support", "Smaller and lighter than predecessor", "Excellent call quality", "Multipoint Bluetooth connection"],
+  "cons": ["Premium price at $299", "No Find My network integration", "LDAC limited to Android devices", "Touch controls can be finicky"],
+  "keyFeatures": [
+    { "name": "Integrated Processor V2", "description": "Dual-processor system with Sony's V2 chip and QN2e ANC processor. Real-time noise cancellation optimized to your ear shape and environment.", "icon": "cpu" },
+    { "name": "LDAC Hi-Res Audio", "description": "Supports LDAC codec for 3x the data of standard Bluetooth. Near-lossless audio on compatible Android devices. Also supports DSEE Extreme upscaling.", "icon": "music" },
+    { "name": "Speak-to-Chat", "description": "Automatically pauses music and activates transparency when you start speaking. Resumes playback after conversation ends.", "icon": "mic" },
+    { "name": "Adaptive Sound Control", "description": "Learns your frequent locations and adjusts ANC settings accordingly. Enables ambient sound at office, full ANC during commute.", "icon": "map" }
+  ],
+  "specs": { "Driver": "8.4mm Sony Dynamic", "ANC": "Yes (best-in-class)", "Transparency": "Yes (Ambient Sound)", "Battery (ANC on)": "8h (24h with case)", "Charging": "USB-C, Qi wireless", "Water Resistance": "IPX4", "Codecs": "LDAC, AAC, SBC, LC3", "Weight": "5.9g per earbud" },
+  "verdict": "The Sony WF-1000XM5 is the best all-around wireless earbud for users who prioritize sound quality and noise cancellation. LDAC support gives it an edge on Android, and the refined design addresses comfort concerns. At $299, it is expensive, but the performance justifies the price.",
+  "faqs": [
+    { "question": "Is Sony XM5 better than AirPods Pro 2?", "answer": "It depends. The XM5 has better ANC (per our measurements), better sound quality with LDAC, and longer battery life. AirPods Pro 2 has better transparency mode, better ecosystem integration for Apple users, and Find My support. For Android users, the XM5 is the clear winner." },
+    { "question": "Does XM5 support multipoint Bluetooth?", "answer": "Yes, WF-1000XM5 supports simultaneous connection to two devices. Switch between phone and laptop seamlessly. Note: LDAC is disabled when multipoint is active — you will be limited to AAC in dual-device mode." }
+  ],
+  "awards": [{ "tier": "gold", "label": "Best ANC Earbuds 2026", "description": "Best-in-class noise cancellation" }],
+  "lastUpdated": "2026-06-28T00:00:00Z", "reviewDate": "2025-08-01T00:00:00Z",
+  "author": { "name": "Sarah Mitchell", "title": "Senior Tech Reviewer", "bio": "Sarah has tested over 100 audio products across 7 years.", "avatar": "sarah-mitchell.jpg" },
+  "affiliateUrl": "https://www.sony.com",
+  "comparisonData": { "anc": true, "transparency": true, "wirelessCharging": true, "waterResistance": "IPX4", "batteryLife": "8h", "spatialAudio": true, "hiResAudio": true },
+  "seoMeta": { "title": "Sony WF-1000XM5 Review 2026: 9.5/10 | TrueTopReviews", "description": "In-depth Sony WF-1000XM5 review: ANC, LDAC sound quality, features. Rated 9.5/10. Best noise cancelling earbuds.", "keywords": ["Sony WF-1000XM5 review", "wireless earbuds", "best ANC earbuds"] }
+}

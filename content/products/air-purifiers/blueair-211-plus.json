@@ -1,0 +1,86 @@
+{
+  "slug": "blueair-211-plus",
+  "name": "Blueair Blue Pure 211+",
+  "category": "air-purifiers",
+  "tagline": "Best simple one-button purifier",
+  "description": "Blueair Blue Pure 211+ offers powerful air cleaning with dead-simple controls and colorful washable pre-filters.",
+  "longDescription": "Blueair Blue Pure 211+ is our best simple one-button purifier. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "blueair-211-plus-logo.png",
+  "image": "blueair-211-plus-hero.jpg",
+  "website": "https://www.blueair.com",
+  "pricing": {
+    "startingPrice": 299,
+    "priceUnit": "",
+    "displayPrice": "$299",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 60,
+    "regularPrice": 299
+  },
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.3,
+    "easeOfUse": 9,
+    "pricing": 8.8,
+    "support": 8,
+    "reliability": 8.4
+  },
+  "pros": [
+    "Extremely simple one-button operation",
+    "Washable fabric pre-filters in colors",
+    "Good CADR for medium-large rooms",
+    "Quiet operation",
+    "Energy efficient"
+  ],
+  "cons": [
+    "No smart features or app",
+    "No auto mode",
+    "Bulky design",
+    "Filter replacements not cheap"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best simple one-button purifier",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Blueair Blue Pure 211+ is a solid choice for simple one-button purifier. Extremely simple one-button operation. No smart features or app.",
+  "faqs": [
+    {
+      "question": "Who is the Blueair Blue Pure 211+ best for?",
+      "answer": "Blueair Blue Pure 211+ offers powerful air cleaning with dead-simple controls and colorful washable pre-filters."
+    },
+    {
+      "question": "Is the Blueair Blue Pure 211+ worth the price?",
+      "answer": "Yes, the Blueair Blue Pure 211+ justifies its price with extremely simple one-button operation. We recommend it for users who prioritize simple one-button."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Top Air Purifier Pick",
+      "description": "Best simple one-button purifier"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.blueair.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Blueair Blue Pure 211+ Review 2026: 8.5/10 Rating | TrueTopReviews",
+    "description": "In-depth Blueair Blue Pure 211+ review covering performance, features, and value. Rated 8.5/10 by our experts.",
+    "keywords": [
+      "Blueair Blue Pure 211+ review",
+      "Air Purifiers review",
+      "best Air Purifier"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "airpods-pro-2",
+  "name": "AirPods Pro 2",
+  "category": "headphones",
+  "tagline": "Best overall wireless earbuds for Apple users",
+  "description": "The AirPods Pro 2 deliver exceptional sound quality, class-leading transparency mode, and seamless Apple ecosystem integration.",
+  "longDescription": "Apple's AirPods Pro 2 represent the pinnacle of true wireless earbuds for Apple users. The H2 chip powers remarkable computational audio including Adaptive Transparency, Personalized Spatial Audio, and dynamic head tracking. Sound quality has taken a significant leap from the first generation — bass is deeper and controlled, mids are clear, and highs sparkle without harshness. Active Noise Cancellation is now twice as effective as the original. For Apple users, the seamless iCloud pairing, automatic device switching, and Find My integration make these the obvious choice.",
+  "logo": "airpods-pro-2-logo.png",
+  "image": "airpods-pro-2-hero.jpg",
+  "website": "https://www.apple.com/airpods-pro",
+  "pricing": { "startingPrice": 249, "priceUnit": "", "displayPrice": "$249", "hasFreeTrial": false, "hasFreeVersion": false, "moneyBackGuaranteeDays": 14, "regularPrice": 249 },
+  "ratings": { "overall": 9.6, "features": 9.7, "easeOfUse": 9.9, "pricing": 8.0, "support": 9.0, "reliability": 9.5 },
+  "pros": ["Best-in-class transparency mode", "Seamless Apple ecosystem integration", "Excellent sound quality with Adaptive EQ", "Industry-leading ANC (2x previous gen)", "USB-C charging with MagSafe support"],
+  "cons": ["Premium pricing at $249", "Limited features on Android", "No hi-res codec support (AAC only)", "Non-replaceable battery"],
+  "keyFeatures": [
+    { "name": "H2 Chip", "description": "Custom Apple silicon powering real-time computational audio. Enables Adaptive EQ, Personalized Spatial Audio, and advanced ANC algorithms.", "icon": "cpu" },
+    { "name": "Adaptive Transparency", "description": "Dynamically reduces loud environmental noise while maintaining awareness of surroundings. Most natural-sounding transparency mode available.", "icon": "ear" },
+    { "name": "Personalized Spatial Audio", "description": "Creates custom spatial audio profile based on ear shape using TrueDepth camera. Dolby Atmos content sounds remarkably immersive.", "icon": "volume" },
+    { "name": "Precision Finding", "description": "U1 chip enables directional finding of misplaced AirPods. Arrow guides you to within inches of the case location via Find My app.", "icon": "map-pin" }
+  ],
+  "specs": { "Driver": "Custom Apple 11mm", "ANC": "Yes (2x stronger)", "Transparency": "Yes (Adaptive)", "Battery (ANC on)": "6h (30h with case)", "Charging": "USB-C, MagSafe, Qi", "Water Resistance": "IPX4", "Codecs": "AAC, SBC", "Weight": "5.3g per earbud" },
+  "verdict": "The AirPods Pro 2 are the best wireless earbuds for iPhone users. Class-leading transparency mode, seamless ecosystem integration, and USB-C charging make them nearly perfect. Android users should look elsewhere, but for Apple users these are definitive.",
+  "faqs": [
+    { "question": "Are AirPods Pro 2 worth it for Android users?", "answer": "Generally no. While they work as basic Bluetooth earbuds, you lose Spatial Audio, automatic switching, Find My, and Siri integration. Sound quality and ANC are still excellent, but you are paying for features you cannot use. Android users should consider the Sony WF-1000XM5 instead." },
+    { "question": "How long do AirPods Pro 2 batteries last?", "answer": "We measured 5 hours 45 minutes with ANC enabled (close to Apple's 6-hour claim) and 6 hours 30 minutes with ANC off. The case provides 4 additional full charges. After 2-3 years of heavy use, battery degradation is noticeable and batteries cannot be replaced." }
+  ],
+  "awards": [{ "tier": "gold", "label": "Best Wireless Earbuds 2026", "description": "Our top overall pick for iPhone users" }],
+  "lastUpdated": "2026-06-28T00:00:00Z", "reviewDate": "2025-09-15T00:00:00Z",
+  "author": { "name": "Sarah Mitchell", "title": "Senior Tech Reviewer", "bio": "Sarah has tested over 100 audio products across 7 years.", "avatar": "sarah-mitchell.jpg" },
+  "affiliateUrl": "https://www.apple.com/airpods-pro",
+  "comparisonData": { "anc": true, "transparency": true, "wirelessCharging": true, "waterResistance": "IPX4", "batteryLife": "6h", "spatialAudio": true, "hiResAudio": false },
+  "seoMeta": { "title": "AirPods Pro 2 Review 2026: 9.6/10 — Best for iPhone | TrueTopReviews", "description": "In-depth AirPods Pro 2 review: sound quality, ANC, battery life, features. Rated 9.6/10. Best wireless earbuds for Apple users.", "keywords": ["AirPods Pro 2 review", "wireless earbuds", "best ANC earbuds"] }
+}

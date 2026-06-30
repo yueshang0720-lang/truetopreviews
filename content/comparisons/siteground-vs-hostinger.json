@@ -1,0 +1,12 @@
+{
+  "slugs": ["siteground", "hostinger"],
+  "title": "SiteGround vs Hostinger: Premium vs Budget Web Hosting in 2026",
+  "description": "Comparing the best overall web host against the best budget option. Uptime, speed, support, and pricing analyzed in detail.",
+  "features": ["uptime", "speed", "storage", "support", "freeDomain", "freeSSL", "cdn", "backups", "staging", "datacenters", "renewalPrice"],
+  "verdict": {
+    "categoryWinners": { "performance": "siteground", "support": "siteground", "pricing": "hostinger", "features": "hostinger", "reliability": "siteground" },
+    "overallWinner": "SiteGround",
+    "overallReasoning": "SiteGround wins for users who value reliability and support above price. The 99.99% uptime, fast speeds, and excellent customer support justify the higher cost. Hostinger is the clear winner for budget-conscious users — at $1.99/month, it delivers impressive value. Choose SiteGround for business or revenue-generating sites; choose Hostinger for personal projects, portfolios, and budget-friendly hosting."
+  },
+  "seoMeta": { "title": "SiteGround vs Hostinger 2026: Premium vs Budget Comparison | TrueTopReviews", "description": "SiteGround vs Hostinger compared: uptime, speed, support, and pricing. See which web host is right for your website.", "keywords": ["SiteGround vs Hostinger", "web hosting comparison", "best web hosting"] }
+}

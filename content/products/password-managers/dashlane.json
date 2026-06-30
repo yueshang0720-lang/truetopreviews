@@ -1,0 +1,119 @@
+{
+  "slug": "dashlane",
+  "name": "Dashlane",
+  "category": "password-managers",
+  "tagline": "Most feature-rich password manager with dark web monitoring",
+  "description": "Dashlane packs the most features into a password manager, including premium dark web monitoring, a built-in VPN, and an automatic password changer.",
+  "longDescription": "Dashlane differentiates itself with a feature set that goes well beyond password management. The Premium plan includes dark web monitoring (scanning for your personal information across breach databases), a built-in VPN for secure browsing on public Wi-Fi, and a unique password changer that can automatically update passwords on hundreds of supported websites. The interface is clean and modern, with excellent autofill accuracy. While Dashlane has removed its free plan for new users (replacing it with a limited free tier), the Premium and Family plans offer strong value given the breadth of included features.",
+  "logo": "dashlane-logo.png",
+  "image": "dashlane-hero.jpg",
+  "website": "https://www.dashlane.com",
+  "pricing": {
+    "startingPrice": 4.99,
+    "priceUnit": "/mo",
+    "displayPrice": "$4.99/mo (Premium, billed annually)",
+    "hasFreeTrial": true,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 6.49
+  },
+  "ratings": {
+    "overall": 9.1,
+    "features": 9.5,
+    "easeOfUse": 9.2,
+    "pricing": 8.5,
+    "support": 8.9,
+    "reliability": 9
+  },
+  "pros": [
+    "Most comprehensive feature set",
+    "Built-in VPN for secure browsing",
+    "Automatic password changer",
+    "Excellent dark web monitoring",
+    "Clean, modern interface"
+  ],
+  "cons": [
+    "No permanent free plan for new users",
+    "Premium tier is expensive",
+    "Desktop app discontinued (web + mobile only)",
+    "VPN limited to select countries"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Dark Web Monitoring",
+      "description": "Continuously scans breach databases for your personal information. Sends real-time alerts if your email, passwords, or personal data appear in new breaches.",
+      "icon": "search"
+    },
+    {
+      "name": "Password Changer",
+      "description": "Automatically changes passwords on hundreds of supported sites without manual effort. Dramatically simplifies password updates after a breach.",
+      "icon": "refresh"
+    },
+    {
+      "name": "Built-in VPN",
+      "description": "Premium plan includes VPN protection for secure browsing on public Wi-Fi. Hotspot Shield-powered with servers in 20+ countries.",
+      "icon": "shield"
+    },
+    {
+      "name": "Phishing Alerts",
+      "description": "AI-powered detection warns when you are about to enter credentials on a suspicious website. Prevents credential theft from convincing fake sites.",
+      "icon": "alert-triangle"
+    }
+  ],
+  "specs": {
+    "Encryption": "AES-256",
+    "VPN Included": "Yes (Premium)",
+    "Dark Web Monitoring": "Yes",
+    "Platforms": "Web, iOS, Android",
+    "Browser Extensions": "Chrome, Firefox, Edge, Safari",
+    "2FA Support": "TOTP, biometrics",
+    "Customer Support": "Email + live chat",
+    "Free Plan": "Limited (25 passwords)"
+  },
+  "verdict": "Dashlane is the best choice for users who want everything in one package. The dark web monitoring and automatic password changer are genuinely useful features, and the built-in VPN adds value that no other password manager matches. The premium price is justified by the breadth of features, but budget-conscious users should consider Bitwarden.",
+  "faqs": [
+    {
+      "question": "Does Dashlane still have a desktop app?",
+      "answer": "No, Dashlane discontinued its desktop apps in 2022 and now operates as a web-first application with browser extensions and mobile apps. All functionality is available through the web app and extensions. If you prefer a native desktop experience, consider 1Password or Bitwarden."
+    },
+    {
+      "question": "How does Dashlane's password changer work?",
+      "answer": "Dashlane's automatic password changer can update passwords on supported websites without manual intervention. It navigates to the password change page, generates a new strong password, and saves it — all with one click. It currently supports 300+ major websites."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "bronze",
+      "label": "Most Feature-Rich",
+      "description": "Unmatched breadth of security features"
+    }
+  ],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://www.dashlane.com",
+  "comparisonData": {
+    "encryption": "AES-256",
+    "secretKey": false,
+    "audited": true,
+    "freePlan": false,
+    "passkeySupport": true,
+    "travelMode": false,
+    "familyPlan": true,
+    "emergencyAccess": true
+  },
+  "seoMeta": {
+    "title": "Dashlane Review 2026: 9.1/10 Rating | TrueTopReviews",
+    "description": "In-depth Dashlane review covering dark web monitoring, VPN, password changer, and pricing. Rated 9.1/10.",
+    "keywords": [
+      "Dashlane review",
+      "password manager",
+      "dark web monitoring"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "hide-me-vpn",
+  "name": "Hide.me VPN",
+  "category": "vpn",
+  "tagline": "Strong privacy with independently audited no-logs policy",
+  "description": "Hide.me VPN offers robust privacy protections with a verified no-logs policy and strong encryption, backed by a generous free plan.",
+  "longDescription": "Hide.me VPN has been in business since 2012 and has built a reputation for taking privacy seriously. Based in Malaysia — a country with no mandatory data retention laws — Hide.me benefits from a privacy-friendly legal environment. The service has undergone independent audits of its no-logs policy, providing verified proof that it does not store user activity data. The free plan offers 10GB of data per month, while premium plans unlock unlimited data, all server locations, and advanced features like port forwarding and dedicated IP addresses. While the server network is modest compared to industry giants, every server supports WireGuard for excellent speeds.",
+  "logo": "hide-me-vpn-logo.png",
+  "image": "hide-me-vpn-hero.jpg",
+  "website": "https://www.hide-me-vpn.com",
+  "pricing": {"startingPrice":2.59,"priceUnit":"/mo","displayPrice":"$2.59/mo (billed biennially)","hasFreeTrial":false,"hasFreeVersion":true,"moneyBackGuaranteeDays":30,"regularPrice":9.95},
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.4,
+    "easeOfUse": 8.3,
+    "pricing": 8.2,
+    "support": 8.7,
+    "reliability": 8.6
+  },
+  "pros": ["Independently audited no-logs policy","Based in Malaysia (no data retention laws)","Free plan with 10GB monthly data","Strong encryption with perfect forward secrecy","Port forwarding support"],
+  "cons": ["Smaller server network (~2,200 servers)","Above-average pricing on short-term plans","No cryptocurrency payment option","Limited streaming server optimization"],
+  "keyFeatures": [
+    { "name": "Verified No-Logs", "description": "Independently audited by defense firm Cure53 in 2021 and 2023. Public audit reports available for verification. No connection logs, activity logs, or DNS logs stored.", "icon": "shield" },{ "name": "Port Forwarding", "description": "Dynamic port forwarding available on all plans. Useful for hosting services, improving torrent speeds, and accessing home network devices remotely.", "icon": "shield" },{ "name": "Stealth Guard", "description": "Binds specific applications to the VPN connection. If the VPN disconnects, those apps immediately lose internet access for guaranteed leak protection.", "icon": "shield" },{ "name": "Multi-hop", "description": "Chain up to 5 VPN servers for maximum anonymity. Traffic routed through multiple jurisdictions making traffic analysis virtually impossible.", "icon": "shield" }
+  ],
+  "specs": {
+    "Server Count": "2,200+","Countries": "75+","Simultaneous Connections": "10","Protocols": "WireGuard, OpenVPN, IKEv2, SSTP","Log Policy": "No-logs (independently audited)","Customer Support": "24/7 live chat + email","Money-back Guarantee": "30 days","Encryption": "AES-256-GCM"
+  },
+  "verdict": "Hide.me VPN is an excellent choice for privacy-focused users who want verified proof of no-logs claims. The independent audits provide peace of mind that data truly isn't being stored. While the server network is smaller than some competitors, the WireGuard support ensures good speeds, and the free plan is generous enough for casual use.",
+  "faqs": [
+    { "question": "Has Hide.me VPN been independently audited?", "answer": "Yes. Hide.me has undergone two independent security audits by Cure53, a respected German cybersecurity firm. The most recent audit in 2023 confirmed the no-logs policy and found no critical vulnerabilities. The full audit reports are publicly available on Hide.me's website for transparency." },
+    { "question": "What makes Hide.me's privacy different from other VPNs?", "answer": "Hide.me is based in Malaysia, which has no mandatory data retention laws and is not a member of any intelligence-sharing alliance (such as Five Eyes, Nine Eyes, or Fourteen Eyes). Additionally, Hide.me owns and operates its own DNS servers, meaning no third party ever handles your DNS queries." }
+  ],
+  "awards": [{ "tier": "excellence", "label": "Best for Privacy Verification", "description": "Independently audited no-logs policy" }],
+  "lastUpdated": "2026-06-20T00:00:00Z",
+  "reviewDate": "2025-03-15T00:00:00Z",
+  "author": { "name": "Alex Chen", "title": "Senior Cybersecurity Analyst", "bio": "Alex has tested over 50 VPN services across 5 years at TrueTopReviews. He holds CISSP and CEH certifications.", "avatar": "alex-chen.jpg" },
+  "affiliateUrl": "https://www.hide-me-vpn.com",
+  "comparisonData": {
+    "serverCount": "2,200+",
+    "countries": "75+",
+    "simultaneousConnections": "10",
+    "noLogsPolicy": true,
+    "auditedNoLogs": false,
+    "killSwitch": true,
+    "splitTunneling": false,
+    "torrentingSupport": true,
+    "netflixAccess": false,
+    "liveChat": false,
+    "freeVersion": false,
+    "moneyBackDays": "30",
+    "startingPrice": "$3.99/mo",
+    "warrantCanary": true
+  },
+  "seoMeta": {
+    "title": "Hide.me VPN Review 2026: 8.5/10 Rating | TrueTopReviews",
+    "description": "In-depth Hide.me VPN review covering features, pricing, speed tests, and security. Rated 8.5/10 by our experts. See if it is right for you.",
+    "keywords": ["Hide.me VPN review", "best VPN", "VPN review 2026", "Hide.me VPN pricing"]
+  }
+}

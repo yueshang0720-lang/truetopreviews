@@ -1,0 +1,102 @@
+{
+  "slug": "beats-studio-buds-plus",
+  "name": "Beats Studio Buds+",
+  "category": "headphones",
+  "tagline": "Best for style with solid cross-platform performance",
+  "description": "Beats Studio Buds+ offers stylish design with good ANC, solid sound, and excellent cross-platform compatibility for iPhone and Android.",
+  "longDescription": "Beats Studio Buds+ represents a significant refinement of Beats true wireless formula. The transparent color option is eye-catching and the compact design is comfortable. Sound has been retuned — less bass-heavy than older Beats with better clarity. ANC is effective without being class-leading. The killer feature is platform agnosticism: one-touch pairing, Find My, and voice assistant work equally well on iPhone and Android.",
+  "logo": "beats-studio-buds-plus-logo.png",
+  "image": "beats-studio-buds-plus-hero.jpg",
+  "website": "https://www.beatsbydre.com",
+  "pricing": {
+    "startingPrice": 169,
+    "priceUnit": "",
+    "displayPrice": "$169",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 169
+  },
+  "ratings": {
+    "overall": 8.3,
+    "features": 8,
+    "easeOfUse": 8.5,
+    "pricing": 8.5,
+    "support": 8,
+    "reliability": 8.2
+  },
+  "pros": [
+    "Equal features for iOS and Android",
+    "Compact and comfortable design",
+    "Good sound with improved balance",
+    "One-touch pairing on both platforms",
+    "Eye-catching transparent color"
+  ],
+  "cons": [
+    "ANC performance is mid-tier",
+    "No wireless charging",
+    "No ear detection sensors",
+    "No spatial audio with head tracking"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Best for style with solid cross-platform performance",
+      "icon": "music"
+    }
+  ],
+  "specs": {
+    "Driver": "9.5mm Beats dynamic",
+    "ANC": "Yes",
+    "Transparency": "Yes",
+    "Battery": "6h 24h case",
+    "Charging": "USB-C",
+    "Water Resistance": "IPX4",
+    "Codecs": "AAC SBC",
+    "Weight": "5.0g"
+  },
+  "verdict": "Beats Studio Buds+ is the best choice for users who switch between iPhone and Android. The cross-platform feature parity is unique among Apple products. Good sound, solid ANC, and stylish design make these great all-around earbuds.",
+  "faqs": [
+    {
+      "question": "Do Beats Studio Buds+ work better with iPhone?",
+      "answer": "Surprisingly no — they are intentionally designed for feature parity across iOS and Android. Unlike AirPods which lock many features to Apple devices, Studio Buds+ provide one-touch pairing, Find My, and voice assistant on both platforms."
+    },
+    {
+      "question": "How do they compare to AirPods Pro 2?",
+      "answer": "AirPods Pro 2 have better ANC, transparency mode, spatial audio with head tracking, ear detection, and wireless charging. Beats are more affordable $169 vs $249 and offer cross-platform support. Choose AirPods for Apple ecosystem; Beats for cross-platform use."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best Cross-Platform",
+      "description": "Equal features on iOS and Android"
+    }
+  ],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-09-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested over 100 audio products across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.beatsbydre.com",
+  "comparisonData": {
+    "anc": true,
+    "transparency": true,
+    "wirelessCharging": false,
+    "waterResistance": "IPX4",
+    "batteryLife": "6h",
+    "spatialAudio": true,
+    "hiResAudio": false
+  },
+  "seoMeta": {
+    "title": "Beats Studio Buds+ Review 2026: 8.3/10 | TrueTopReviews",
+    "description": "In-depth Beats Studio Buds+ review covering sound quality, ANC, and features. Rated 8.3/10.",
+    "keywords": [
+      "Beats Studio Buds+ review",
+      "wireless earbuds"
+    ]
+  }
+}

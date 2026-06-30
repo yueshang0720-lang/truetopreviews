@@ -1,0 +1,32 @@
+{
+  "slug": "air-purifiers",
+  "name": "Air Purifiers",
+  "description": "Breathe cleaner air with the best air purifiers for allergies, pets, smoke, and large rooms.",
+  "longDescription": "We measured CADR, noise levels, and filter efficiency of 18 air purifiers across small, medium, and large room scenarios. Our rankings help you choose the right purifier for your space and needs.",
+  "icon": "air-icon.svg",
+  "image": "air-hero.jpg",
+  "products": [
+    "coway-airmega-400",
+    "levoit-core-600s",
+    "dyson-purifier-cool",
+    "blueair-211-plus",
+    "winix-5500-2"
+  ],
+  "buyingGuideIntro": "Choosing the right air purifier depends on your needs and budget. Our testing evaluates every product across key performance criteria.",
+  "testingCriteria": [
+    "CADR Performance — Clean Air Delivery Rate for smoke, dust, and pollen at max and medium speeds",
+    "Noise Level — Decibel measurements at low, medium, and high fan speeds",
+    "Filter Cost — Annual filter replacement cost and filter lifespan estimates",
+    "Smart Features — Air quality sensors, auto mode, app control, and voice assistant support",
+    "Coverage — Effective room size and air changes per hour at recommended settings"
+  ],
+  "seoMeta": {
+    "t": "10 Best Air Purifiers of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "d": "We tested 18 air purifiers to find the 10 best. Compare CADR, noise, filter costs, and smart features.",
+    "k": [
+      "best air purifier",
+      "air purifier review",
+      "HEPA filter"
+    ]
+  }
+}

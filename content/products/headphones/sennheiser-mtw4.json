@@ -1,0 +1,102 @@
+{
+  "slug": "sennheiser-mtw4",
+  "name": "Sennheiser Momentum TW4",
+  "category": "headphones",
+  "tagline": "Best sound quality for audiophile wireless listening",
+  "description": "Sennheiser Momentum True Wireless 4 delivers the most detailed and refined sound of any wireless earbud.",
+  "longDescription": "Sennheiser Momentum True Wireless 4 reinforces the brand's reputation for audio excellence. The 7mm dynamic drivers produce a remarkably balanced frequency response with exceptional instrument separation. Snapdragon Sound with aptX Lossless support means CD-quality wireless audio on compatible devices. ANC is improved and now competitive with the best. The trade-off is a larger design and shorter battery life than some competitors, but for audio purists the MTW4 is unmatched.",
+  "logo": "sennheiser-mtw4-logo.png",
+  "image": "sennheiser-mtw4-hero.jpg",
+  "website": "https://www.sennheiser-hearing.com",
+  "pricing": {
+    "startingPrice": 299,
+    "priceUnit": "",
+    "displayPrice": "$$249",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 299
+  },
+  "ratings": {
+    "overall": 9,
+    "features": 9.2,
+    "easeOfUse": 8.7,
+    "pricing": 8,
+    "support": 8.4,
+    "reliability": 9.1
+  },
+  "pros": [
+    "Best sound quality of any wireless earbud",
+    "aptX Lossless CD-quality audio",
+    "Excellent instrument separation",
+    "Premium build quality",
+    "Improved ANC from previous gen"
+  ],
+  "cons": [
+    "Larger and heavier than competitors",
+    "Below-average battery life 5.5h",
+    "Expensive at $299",
+    "No wireless charging on base model"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Best sound quality for audiophile wireless listening",
+      "icon": "music"
+    }
+  ],
+  "specs": {
+    "Driver": "7mm Sennheiser dynamic",
+    "ANC": "Yes Adaptive",
+    "Transparency": "Yes",
+    "Battery": "5.5h 22h case",
+    "Charging": "USB-C Qi wireless",
+    "Water Resistance": "IP54",
+    "Codecs": "aptX Lossless AAC SBC",
+    "Weight": "6.2g"
+  },
+  "verdict": "The Sennheiser Momentum TW4 is the definitive choice for audiophiles who refuse to compromise on sound quality. If music is your priority and you accept trading battery life for audio excellence, these are the earbuds to buy.",
+  "faqs": [
+    {
+      "question": "What is aptX Lossless and do I need it?",
+      "answer": "aptX Lossless delivers CD-quality 16-bit/44.1kHz audio over Bluetooth. It requires a compatible Snapdragon 8 Gen 1+ device. Without it, you still get excellent sound via aptX Adaptive or AAC."
+    },
+    {
+      "question": "How does MTW4 compare to Sony XM5 for sound?",
+      "answer": "The Sennheiser has better detail retrieval and a more neutral audiophile-friendly tuning. The Sony has slightly more bass impact and warmer consumer-friendly sound. For critical listening Sennheiser wins. For all-around use Sony wins."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best Sound Quality",
+      "description": "Audiophile-grade wireless audio"
+    }
+  ],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-09-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested over 100 audio products across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.sennheiser-hearing.com",
+  "comparisonData": {
+    "anc": true,
+    "transparency": true,
+    "wirelessCharging": false,
+    "waterResistance": "IPX4",
+    "batteryLife": "6h",
+    "spatialAudio": true,
+    "hiResAudio": false
+  },
+  "seoMeta": {
+    "title": "Sennheiser Momentum TW4 Review 2026: 9/10 | TrueTopReviews",
+    "description": "In-depth Sennheiser Momentum TW4 review covering sound quality, ANC, and features. Rated 9/10.",
+    "keywords": [
+      "Sennheiser Momentum TW4 review",
+      "wireless earbuds"
+    ]
+  }
+}

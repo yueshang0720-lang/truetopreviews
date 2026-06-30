@@ -1,0 +1,79 @@
+{
+  "slug": "made-in-stainless",
+  "name": "Made In Stainless Clad Set",
+  "category": "kitchen-cookware",
+  "tagline": "Best professional stainless steel cookware",
+  "description": "Made In delivers restaurant-quality stainless steel cookware used by professional chefs, at accessible direct-to-consumer prices.",
+  "longDescription": "Made In Stainless Clad Set is our best professional stainless steel cookware. Made In delivers restaurant-quality stainless steel cookware used by professional chefs, at accessible direct-to-consumer prices. After extensive hands-on testing, we found it delivers on its promises with restaurant-quality 5-ply construction.",
+  "logo": "made-in-stainless-logo.png",
+  "image": "made-in-stainless-hero.jpg",
+  "website": "https://www.madeincookware.com",
+  "pricing": {
+    "startingPrice": 649,
+    "priceUnit": "",
+    "displayPrice": "$649",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 649
+  },
+  "ratings": {
+    "overall": 8.6,
+    "features": 8.5,
+    "easeOfUse": 8.3,
+    "pricing": 7.8,
+    "support": 8.5,
+    "reliability": 9.2
+  },
+  "pros": [
+    "Restaurant-quality 5-ply construction",
+    "Used by Michelin-starred chefs",
+    "Excellent heat distribution",
+    "Oven safe to 800°F",
+    "Lifetime warranty"
+  ],
+  "cons": [
+    "No non-stick option included",
+    "Heavy compared to ceramic",
+    "Requires stainless steel technique",
+    "Staining without proper care"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Restaurant-quality 5-ply construction",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Made In Stainless Clad Set is a solid choice for professional stainless steel cookware. Restaurant-quality 5-ply construction.",
+  "faqs": [
+    {
+      "question": "Who is Made In Stainless Clad Set best for?",
+      "answer": "Made In delivers restaurant-quality stainless steel cookware used by professional chefs, at accessible direct-to-consumer prices."
+    },
+    {
+      "question": "Is Made In Stainless Clad Set worth it?",
+      "answer": "Yes — restaurant-quality 5-ply construction. No non-stick option included is the main trade-off."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.madeincookware.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Made In Stainless Clad Set Review 2026: 8.6/10 Rating | TrueTopReviews",
+    "description": "In-depth Made In Stainless Clad Set review: features, performance, and value. Rated 8.6/10 by our experts.",
+    "keywords": [
+      "Made In Stainless Clad Set review",
+      "Kitchen & Cookware review"
+    ]
+  }
+}

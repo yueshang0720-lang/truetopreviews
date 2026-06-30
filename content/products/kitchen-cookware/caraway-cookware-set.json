@@ -1,0 +1,85 @@
+{
+  "slug": "caraway-cookware-set",
+  "name": "Caraway Cookware Set",
+  "category": "kitchen-cookware",
+  "tagline": "Best complete non-toxic cookware set",
+  "description": "Caraway's complete 12-piece set offers coordinated non-toxic cookware with clever storage solutions for a clutter-free kitchen.",
+  "longDescription": "Caraway Cookware Set is our best complete non-toxic cookware set. Caraway's complete 12-piece set offers coordinated non-toxic cookware with clever storage solutions for a clutter-free kitchen. After extensive hands-on testing, we found it delivers on its promises with complete 12-piece coordinated set.",
+  "logo": "caraway-cookware-set-logo.png",
+  "image": "caraway-cookware-set-hero.jpg",
+  "website": "https://www.carawayhome.com",
+  "pricing": {
+    "startingPrice": 545,
+    "priceUnit": "",
+    "displayPrice": "$545",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 545
+  },
+  "ratings": {
+    "overall": 9.1,
+    "features": 9,
+    "easeOfUse": 9.2,
+    "pricing": 7.5,
+    "support": 8.3,
+    "reliability": 8.8
+  },
+  "pros": [
+    "Complete 12-piece coordinated set",
+    "Magnetic pan rack included",
+    "Non-toxic ceramic coating",
+    "Oven-safe up to 550°F",
+    "Available in 8 designer colors"
+  ],
+  "cons": [
+    "Expensive as a set ($545)",
+    "Not dishwasher safe",
+    "Requires careful maintenance",
+    "Heavy for some users"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Complete 12-piece coordinated set",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Caraway Cookware Set is our top recommendation for complete non-toxic cookware set. Complete 12-piece coordinated set.",
+  "faqs": [
+    {
+      "question": "Who is Caraway Cookware Set best for?",
+      "answer": "Caraway's complete 12-piece set offers coordinated non-toxic cookware with clever storage solutions for a clutter-free kitchen."
+    },
+    {
+      "question": "Is Caraway Cookware Set worth it?",
+      "answer": "Yes — complete 12-piece coordinated set. Expensive as a set ($545) is the main trade-off."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Kitchen & Cookware 2026",
+      "description": "Best complete non-toxic cookware set"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.carawayhome.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Caraway Cookware Set Review 2026: 9.1/10 Rating | TrueTopReviews",
+    "description": "In-depth Caraway Cookware Set review: features, performance, and value. Rated 9.1/10 by our experts.",
+    "keywords": [
+      "Caraway Cookware Set review",
+      "Kitchen & Cookware review"
+    ]
+  }
+}

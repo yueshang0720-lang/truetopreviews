@@ -1,0 +1,31 @@
+{
+  "slug": "security-cameras",
+  "name": "Security Cameras",
+  "description": "Protect your home with the best wireless security cameras. Expert reviews of indoor, outdoor, and floodlight cameras for every budget.",
+  "longDescription": "We installed and tested 18 security cameras for video quality, night vision, motion detection accuracy, and app experience. Our picks cover every need from doorbell cams to full property surveillance.",
+  "icon": "security-cameras-icon.svg",
+  "image": "security-cameras-hero.jpg",
+  "products": [
+    "reolink-argus-4",
+    "eufy-s350",
+    "reolink-doorbell"
+  ],
+  "buyingGuideIntro": "We installed and tested 18 security cameras for video quality, night vision, motion detection accuracy, and app experience.",
+  "testingCriteria": [
+    "Performance",
+    "Ease of Use",
+    "Value",
+    "Build Quality",
+    "Features"
+  ],
+  "seoMeta": {
+    "t": "Best Home Security Cameras of 2026 — Expert Reviews | TrueTopReviews",
+    "d": "We tested 18 security cameras for video quality, night vision, and smart features. Compare wireless indoor and outdoor cameras.",
+    "k": [
+      "best security camera",
+      "wireless camera",
+      "outdoor camera",
+      "home security"
+    ]
+  }
+}

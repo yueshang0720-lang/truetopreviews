@@ -1,0 +1,119 @@
+{
+  "slug": "bitwarden",
+  "name": "Bitwarden",
+  "category": "password-managers",
+  "tagline": "Best free and open-source password manager",
+  "description": "Bitwarden offers the best free plan in the industry and complete transparency through open-source code, making it ideal for privacy-conscious users.",
+  "longDescription": "Bitwarden stands out as the only fully open-source password manager in our top 10, and its free plan is remarkably generous — unlimited passwords, unlimited devices, and core features that most competitors charge for. The code is publicly available on GitHub, routinely audited by independent security firms, and subject to community scrutiny. While the interface is less polished than 1Password, Bitwarden covers all the essentials: strong encryption, cross-platform sync, password sharing, and breach monitoring. The premium plan is just $10/year and adds advanced 2FA, emergency access, and security reports.",
+  "logo": "bitwarden-logo.png",
+  "image": "bitwarden-hero.jpg",
+  "website": "https://bitwarden.com",
+  "pricing": {
+    "startingPrice": 0,
+    "priceUnit": "/mo",
+    "displayPrice": "Free (Premium $10/yr)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 10
+  },
+  "ratings": {
+    "overall": 9.3,
+    "features": 9,
+    "easeOfUse": 8.7,
+    "pricing": 9.9,
+    "support": 8.8,
+    "reliability": 9.4
+  },
+  "pros": [
+    "Best free plan in the industry",
+    "Fully open-source and transparent",
+    "Self-hosting option available",
+    "Affordable premium ($10/year)",
+    "Strong independent audit history"
+  ],
+  "cons": [
+    "Less polished interface than competitors",
+    "Autofill less reliable on mobile",
+    "No built-in travel mode",
+    "Limited customer support on free plan"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Open Source",
+      "description": "Complete source code publicly available on GitHub. Independently audited by Cure53. Community can review, fork, and verify security claims.",
+      "icon": "code"
+    },
+    {
+      "name": "Self-Hosting",
+      "description": "Deploy Bitwarden on your own server for complete data control. Official Docker containers available. Ideal for organizations with strict compliance requirements.",
+      "icon": "server"
+    },
+    {
+      "name": "Send",
+      "description": "Securely share text snippets and files with end-to-end encryption. Set expiration dates, password protection, and maximum access counts.",
+      "icon": "send"
+    },
+    {
+      "name": "Vault Health Reports",
+      "description": "Comprehensive reports identifying weak, reused, and compromised passwords. Data breach monitoring checks credentials against known breaches.",
+      "icon": "bar-chart"
+    }
+  ],
+  "specs": {
+    "Encryption": "AES-256-CBC",
+    "Open Source": "Yes (GPL v3)",
+    "Audits": "Multiple (Cure53, Insight Risk)",
+    "Platforms": "Windows, Mac, iOS, Android, Linux",
+    "Browser Extensions": "Chrome, Firefox, Edge, Safari, Opera",
+    "2FA Support": "TOTP, FIDO2, Duo, email",
+    "Customer Support": "Email + community forum",
+    "Free Plan": "Yes (unlimited devices)"
+  },
+  "verdict": "Bitwarden is the best choice for users who want maximum value and transparency. The free plan is genuinely complete for most users, and the $10/year premium is an incredible deal. Open-source transparency provides trust that proprietary competitors cannot match. The slightly less polished interface is a fair trade-off for the value.",
+  "faqs": [
+    {
+      "question": "Is Bitwarden really free?",
+      "answer": "Yes. Bitwarden's free plan includes unlimited password storage, unlimited devices, password generator, and basic 2FA. The premium plan ($10/year) adds advanced 2FA (YubiKey, FIDO2), password health reports, emergency access, and 1GB of encrypted file storage. Most individual users will find the free plan sufficient."
+    },
+    {
+      "question": "Can I host Bitwarden myself?",
+      "answer": "Yes, Bitwarden offers official self-hosting options via Docker containers. This gives you complete control over your password data while still using the same client apps. Self-hosting requires some technical knowledge but is well-documented."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Best Free Password Manager",
+      "description": "Best free plan with open-source transparency"
+    }
+  ],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://bitwarden.com",
+  "comparisonData": {
+    "encryption": "AES-256-CBC",
+    "secretKey": false,
+    "audited": true,
+    "freePlan": true,
+    "passkeySupport": true,
+    "travelMode": false,
+    "familyPlan": true,
+    "emergencyAccess": true
+  },
+  "seoMeta": {
+    "title": "Bitwarden Review 2026: 9.3/10 Rating | TrueTopReviews",
+    "description": "In-depth Bitwarden review covering open-source security, free plan, and features. Rated 9.3/10. Best free password manager.",
+    "keywords": [
+      "Bitwarden review",
+      "password manager",
+      "open source password manager"
+    ]
+  }
+}

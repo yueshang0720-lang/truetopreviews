@@ -1,0 +1,86 @@
+{
+  "slug": "oneplus-13",
+  "name": "OnePlus 13",
+  "category": "smartphones",
+  "tagline": "Best value flagship with blazing fast charging",
+  "description": "OnePlus 13 offers flagship performance and the fastest charging in the industry at a competitive price.",
+  "longDescription": "OnePlus 13 is our best value flagship with blazing fast charging. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "oneplus-13-logo.png",
+  "image": "oneplus-13-hero.jpg",
+  "website": "https://www.oneplus.com",
+  "pricing": {
+    "startingPrice": 799,
+    "priceUnit": "",
+    "displayPrice": "$799",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 15,
+    "regularPrice": 799
+  },
+  "ratings": {
+    "overall": 8.8,
+    "features": 8.7,
+    "easeOfUse": 8.9,
+    "pricing": 9.2,
+    "support": 8,
+    "reliability": 8.6
+  },
+  "pros": [
+    "100W fast charging (0-100% in 30 min)",
+    "Flagship Snapdragon performance",
+    "Excellent 120Hz AMOLED display",
+    "Competitive pricing",
+    "Clean OxygenOS interface"
+  ],
+  "cons": [
+    "Camera not as consistent as Pixel/iPhone",
+    "No carrier deals in US",
+    "Water resistance rating lower",
+    "Average software update commitment"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best value flagship with blazing fast charging",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "OnePlus 13 is a solid choice for value flagship with blazing fast charging. 100W fast charging (0-100% in 30 min). Camera not as consistent as Pixel/iPhone.",
+  "faqs": [
+    {
+      "question": "Who is the OnePlus 13 best for?",
+      "answer": "OnePlus 13 offers flagship performance and the fastest charging in the industry at a competitive price."
+    },
+    {
+      "question": "Is the OnePlus 13 worth the price?",
+      "answer": "Yes, the OnePlus 13 justifies its price with 100w fast charging (0-100% in 30 min). We recommend it for users who prioritize value flagship."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Top Smartphone Pick",
+      "description": "Best value flagship with blazing fast charging"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.oneplus.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "OnePlus 13 Review 2026: 8.8/10 Rating | TrueTopReviews",
+    "description": "In-depth OnePlus 13 review covering performance, features, and value. Rated 8.8/10 by our experts.",
+    "keywords": [
+      "OnePlus 13 review",
+      "Smartphones review",
+      "best Smartphone"
+    ]
+  }
+}

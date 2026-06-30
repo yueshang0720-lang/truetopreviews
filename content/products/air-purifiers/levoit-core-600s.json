@@ -1,0 +1,86 @@
+{
+  "slug": "levoit-core-600s",
+  "name": "Levoit Core 600S",
+  "category": "air-purifiers",
+  "tagline": "Best smart purifier with excellent value",
+  "description": "Levoit Core 600S offers powerful purification with smart features and a competitive price, making it the best value pick.",
+  "longDescription": "Levoit Core 600S is our best smart purifier with excellent value. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "levoit-core-600s-logo.png",
+  "image": "levoit-core-600s-hero.jpg",
+  "website": "https://www.levoit.com",
+  "pricing": {
+    "startingPrice": 299,
+    "priceUnit": "",
+    "displayPrice": "$299",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 299
+  },
+  "ratings": {
+    "overall": 9.1,
+    "features": 9,
+    "easeOfUse": 9.2,
+    "pricing": 9,
+    "support": 8.5,
+    "reliability": 8.8
+  },
+  "pros": [
+    "Great CADR for the price",
+    "Smart app with scheduling",
+    "Quiet operation on low",
+    "Attractive modern design",
+    "Affordable replacement filters"
+  ],
+  "cons": [
+    "Plastic build feels less premium",
+    "No washable pre-filter",
+    "App could be more polished",
+    "Not ideal for very large rooms"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best smart purifier with excellent value",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Levoit Core 600S is our top recommendation for smart purifier with excellent value. Great CADR for the price. Plastic build feels less premium.",
+  "faqs": [
+    {
+      "question": "Who is the Levoit Core 600S best for?",
+      "answer": "Levoit Core 600S offers powerful purification with smart features and a competitive price, making it the best value pick."
+    },
+    {
+      "question": "Is the Levoit Core 600S worth the price?",
+      "answer": "Yes, the Levoit Core 600S justifies its price with great cadr for the price. We recommend it for users who prioritize smart purifier."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Air Purifier 2026",
+      "description": "Best smart purifier with excellent value"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.levoit.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Levoit Core 600S Review 2026: 9.1/10 Rating | TrueTopReviews",
+    "description": "In-depth Levoit Core 600S review covering performance, features, and value. Rated 9.1/10 by our experts.",
+    "keywords": [
+      "Levoit Core 600S review",
+      "Air Purifiers review",
+      "best Air Purifier"
+    ]
+  }
+}

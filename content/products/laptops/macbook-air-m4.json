@@ -1,0 +1,94 @@
+{
+  "slug": "macbook-air-m4",
+  "name": "MacBook Air M4",
+  "category": "laptops",
+  "tagline": "Best overall laptop with unmatched efficiency",
+  "description": "The MacBook Air M4 combines incredible performance with fanless silence and all-day battery life.",
+  "longDescription": "MacBook Air M4 is our best overall laptop with unmatched efficiency. Apple's latest ultraportable redefines what a thin-and-light laptop can do. The M4 chip delivers performance that rivals much larger machines while the fanless design ensures complete silence.",
+  "logo": "macbook-air-m4-logo.png",
+  "image": "macbook-air-m4-hero.jpg",
+  "website": "https://www.apple.com",
+  "pricing": {
+    "startingPrice": 1099,
+    "priceUnit": "",
+    "displayPrice": "$1,099",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 14,
+    "regularPrice": 1099
+  },
+  "ratings": {
+    "overall": 9.5,
+    "features": 9.3,
+    "easeOfUse": 9.7,
+    "pricing": 8.5,
+    "support": 9,
+    "reliability": 9.4
+  },
+  "pros": [
+    "M4 chip delivers desktop-class performance",
+    "18+ hour battery life",
+    "Stunning Liquid Retina display",
+    "Fanless — completely silent",
+    "Best-in-class build quality"
+  ],
+  "cons": [
+    "Limited to two external displays",
+    "No upgradeable RAM or SSD",
+    "Fewer ports than Pro models",
+    "Gaming limited vs Windows"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best overall laptop with unmatched efficiency",
+      "icon": "star"
+    }
+  ],
+  "specs": {
+    "Display": "15.3-inch Liquid Retina",
+    "Chip": "Apple M4",
+    "RAM": "16GB-32GB",
+    "Storage": "256GB-2TB",
+    "Battery": "Up to 18 hours",
+    "Weight": "2.7 lbs",
+    "OS": "macOS"
+  },
+  "verdict": "MacBook Air M4 is our top recommendation for overall laptop with unmatched efficiency. M4 chip delivers desktop-class performance. Limited to two external displays.",
+  "faqs": [
+    {
+      "question": "Who is the MacBook Air M4 best for?",
+      "answer": "The MacBook Air M4 combines incredible performance with fanless silence and all-day battery life."
+    },
+    {
+      "question": "Is the MacBook Air M4 worth the price?",
+      "answer": "Yes, the MacBook Air M4 justifies its price with m4 chip delivers desktop-class performance. We recommend it for users who prioritize overall laptop."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Laptop 2026",
+      "description": "Best overall laptop with unmatched efficiency"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.apple.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "MacBook Air M4 Review 2026: 9.5/10 Rating | TrueTopReviews",
+    "description": "In-depth MacBook Air M4 review covering performance, features, and value. Rated 9.5/10 by our experts.",
+    "keywords": [
+      "MacBook Air M4 review",
+      "Laptops review",
+      "best Laptop"
+    ]
+  }
+}

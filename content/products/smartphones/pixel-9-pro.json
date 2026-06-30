@@ -1,0 +1,86 @@
+{
+  "slug": "pixel-9-pro",
+  "name": "Google Pixel 9 Pro",
+  "category": "smartphones",
+  "tagline": "Best camera phone with pure Android experience",
+  "description": "Google's Pixel 9 Pro offers the best point-and-shoot camera experience with clean Android and AI features.",
+  "longDescription": "Google Pixel 9 Pro is our best camera phone with pure android experience. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "pixel-9-pro-logo.png",
+  "image": "pixel-9-pro-hero.jpg",
+  "website": "https://store.google.com",
+  "pricing": {
+    "startingPrice": 999,
+    "priceUnit": "",
+    "displayPrice": "$999",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 15,
+    "regularPrice": 999
+  },
+  "ratings": {
+    "overall": 9.2,
+    "features": 9,
+    "easeOfUse": 9.3,
+    "pricing": 8.8,
+    "support": 8.5,
+    "reliability": 9
+  },
+  "pros": [
+    "Best-in-class point-and-shoot camera",
+    "Clean, bloat-free Android",
+    "7 years of updates",
+    "Excellent AI photo editing tools",
+    "Competitive pricing"
+  ],
+  "cons": [
+    "Tensor G4 chip behind Snapdragon",
+    "Average battery life",
+    "Limited availability in some regions",
+    "No manual camera controls"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best camera phone with pure Android experience",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Google Pixel 9 Pro is our top recommendation for camera phone with pure android experience. Best-in-class point-and-shoot camera. Tensor G4 chip behind Snapdragon.",
+  "faqs": [
+    {
+      "question": "Who is the Google Pixel 9 Pro best for?",
+      "answer": "Google's Pixel 9 Pro offers the best point-and-shoot camera experience with clean Android and AI features."
+    },
+    {
+      "question": "Is the Google Pixel 9 Pro worth the price?",
+      "answer": "Yes, the Google Pixel 9 Pro justifies its price with best-in-class point-and-shoot camera. We recommend it for users who prioritize camera phone."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Smartphone 2026",
+      "description": "Best camera phone with pure Android experience"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://store.google.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Google Pixel 9 Pro Review 2026: 9.2/10 Rating | TrueTopReviews",
+    "description": "In-depth Google Pixel 9 Pro review covering performance, features, and value. Rated 9.2/10 by our experts.",
+    "keywords": [
+      "Google Pixel 9 Pro review",
+      "Smartphones review",
+      "best Smartphone"
+    ]
+  }
+}

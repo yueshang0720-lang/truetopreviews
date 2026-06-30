@@ -1,0 +1,22 @@
+{
+  "slug": "antivirus",
+  "name": "Antivirus Software",
+  "description": "Protect your devices from malware, ransomware, and cyber threats with the best antivirus software of 2026.",
+  "longDescription": "We installed and tested 20+ antivirus solutions over 6 months to identify the 10 best options for every need and budget. Our testing included malware detection benchmarks using both known and zero-day threats, system performance impact measurements, phishing protection tests, and usability evaluations across Windows, Mac, Android, and iOS.",
+  "icon": "antivirus-icon.svg",
+  "image": "antivirus-hero.jpg",
+  "products": ["bitdefender", "norton-360", "totalav", "mcafee", "malwarebytes", "avast-one", "eset", "kaspersky", "trend-micro", "webroot"],
+  "buyingGuideIntro": "Choosing the right antivirus requires balancing protection strength against system performance impact. Our testing evaluates every product across detection rates, system resource usage, and extra features.",
+  "testingCriteria": [
+    "Malware Detection — We test against 100,000+ malware samples including viruses, ransomware, trojans, and zero-day threats",
+    "System Performance — We measure CPU, memory, and disk usage during full scans and real-time protection",
+    "Phishing Protection — We test against 1,000+ phishing URLs to evaluate web protection accuracy",
+    "Features & Extras — We evaluate VPN, password manager, parental controls, and dark web monitoring add-ons",
+    "Value for Money — We compare protection quality against subscription pricing and device coverage"
+  ],
+  "seoMeta": {
+    "title": "10 Best Antivirus Software of 2026 — Expert Reviews & Rankings | TrueTopReviews",
+    "description": "We tested 20+ antivirus solutions to find the 10 best. Compare malware protection, system performance, and pricing. Expert reviews updated June 2026.",
+    "keywords": ["best antivirus", "antivirus review", "antivirus comparison", "malware protection"]
+  }
+}

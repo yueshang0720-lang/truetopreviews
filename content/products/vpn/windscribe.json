@@ -1,0 +1,59 @@
+{
+  "slug": "windscribe",
+  "name": "Windscribe",
+  "category": "vpn",
+  "tagline": "Feature-packed VPN with build-a-plan flexibility",
+  "description": "Windscribe offers an unmatched combination of features and flexibility, including a unique build-your-own-plan option and a generous 10GB monthly free tier.",
+  "longDescription": "Windscribe takes a different approach from most VPN providers. While competitors push all-inclusive subscriptions, Windscribe lets you build your own plan by selecting only the server locations you need — paying as little as  per location per month. This à la carte model is unique in the industry and makes Windscribe the most flexible VPN available. The free plan offers 10GB of data per month, and the paid Pro plan unlocks unlimited data with access to servers in 69 countries. Windscribe also packs an impressive array of features including R.O.B.E.R.T. (a customizable DNS-level blocker), double-hop, and a secure hotspot generator. The quirky, transparent company culture and active development make Windscribe a favorite among tech enthusiasts.",
+  "logo": "windscribe-logo.png",
+  "image": "windscribe-hero.jpg",
+  "website": "https://www.windscribe.com",
+  "pricing": {"startingPrice":1.00,"priceUnit":"/mo/location","displayPrice":"$1/mo per location (build-a-plan)","hasFreeTrial":false,"hasFreeVersion":true,"moneyBackGuaranteeDays":3,"regularPrice":9.00},
+  "ratings": {
+    "overall": 8.1,
+    "features": 8.4,
+    "easeOfUse": 7.8,
+    "pricing": 8,
+    "support": 8.1,
+    "reliability": 8.2
+  },
+  "pros": ["Build-your-own-plan with per-location pricing","Generous 10GB/month free plan","R.O.B.E.R.T. custom ad/tracker blocking","Strong encryption and security features","Active development and transparent communication"],
+  "cons": ["Inconsistent speeds on some servers","Desktop app can feel cluttered","Based in Canada (Five Eyes member)","No independent security audit completed"],
+  "keyFeatures": [
+    { "name": "R.O.B.E.R.T.", "description": "Customizable DNS-level blocker that lets you block ads, trackers, malware, and adult content. Create custom blocklists or choose from preset categories for granular control.", "icon": "shield" },{ "name": "Build-a-Plan", "description": "Select individual server locations for /month each. Need just US, UK, and Japan? Pay only /month. Unused locations cost nothing — maximum flexibility at minimum cost.", "icon": "shield" },{ "name": "Double Hop", "description": "Route traffic through two VPN servers for enhanced privacy. Configure which servers to chain together. Adds latency but significantly improves anonymity.", "icon": "shield" },{ "name": "Secure Hotspot", "description": "Turn your Windows laptop into a secure Wi-Fi hotspot. All connected devices are automatically routed through Windscribe's encrypted tunnel.", "icon": "shield" }
+  ],
+  "specs": {
+    "Server Count": "500+","Countries": "69","Simultaneous Connections": "Unlimited","Protocols": "WireGuard, OpenVPN, IKEv2","Log Policy": "No identifying logs","Customer Support": "Chatbot + email","Money-back Guarantee": "3 days","Encryption": "AES-256-GCM"
+  },
+  "verdict": "Windscribe is the best choice for users who want maximum flexibility and don't need servers in every country. The build-a-plan option is genuinely innovative and can save significant money if you only need a few locations. The feature set rivals premium competitors, though speeds and support could be more consistent.",
+  "faqs": [
+    { "question": "How does Windscribe's Build-a-Plan work?", "answer": "Instead of buying a full subscription, you choose individual server locations at /month each. For example, if you only need VPN access from the US and UK, you pay /month total. Each location includes unlimited data. You need at least one paid location to activate the plan, and there's no contract." },
+    { "question": "Is Windscribe safe given it's based in Canada?", "answer": "While Canada is a Five Eyes member, Windscribe's privacy policy states they do not store connection logs, IP timestamps, or browsing history. However, this policy has not been independently audited. For users with extreme privacy requirements, we recommend Proton VPN (Switzerland) or ExpressVPN (BVI) instead." }
+  ],
+  "awards": [{ "tier": "excellence", "label": "Most Flexible VPN", "description": "Unique build-your-own-plan pricing" }],
+  "lastUpdated": "2026-06-20T00:00:00Z",
+  "reviewDate": "2025-03-15T00:00:00Z",
+  "author": { "name": "Alex Chen", "title": "Senior Cybersecurity Analyst", "bio": "Alex has tested over 50 VPN services across 5 years at TrueTopReviews. He holds CISSP and CEH certifications.", "avatar": "alex-chen.jpg" },
+  "affiliateUrl": "https://www.windscribe.com",
+  "comparisonData": {
+    "serverCount": "500+",
+    "countries": "69",
+    "simultaneousConnections": "Unlimited",
+    "noLogsPolicy": true,
+    "auditedNoLogs": false,
+    "killSwitch": true,
+    "splitTunneling": false,
+    "torrentingSupport": true,
+    "netflixAccess": false,
+    "liveChat": false,
+    "freeVersion": false,
+    "moneyBackDays": "30",
+    "startingPrice": "$3.99/mo",
+    "warrantCanary": true
+  },
+  "seoMeta": {
+    "title": "Windscribe Review 2026: 8.1/10 Rating | TrueTopReviews",
+    "description": "In-depth Windscribe review covering features, pricing, speed tests, and security. Rated 8.1/10 by our experts. See if it is right for you.",
+    "keywords": ["Windscribe review", "best VPN", "VPN review 2026", "Windscribe pricing"]
+  }
+}

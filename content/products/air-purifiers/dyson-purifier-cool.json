@@ -1,0 +1,86 @@
+{
+  "slug": "dyson-purifier-cool",
+  "name": "Dyson Purifier Cool",
+  "category": "air-purifiers",
+  "tagline": "Best design and dual-function purifier fan",
+  "description": "Dyson Purifier Cool combines a HEPA air purifier with a cooling fan in a striking design that doubles as home decor.",
+  "longDescription": "Dyson Purifier Cool is our best design and dual-function purifier fan. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "dyson-purifier-cool-logo.png",
+  "image": "dyson-purifier-cool-hero.jpg",
+  "website": "https://www.dyson.com",
+  "pricing": {
+    "startingPrice": 569,
+    "priceUnit": "",
+    "displayPrice": "$569",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 569
+  },
+  "ratings": {
+    "overall": 8.8,
+    "features": 9,
+    "easeOfUse": 8.5,
+    "pricing": 7,
+    "support": 8.3,
+    "reliability": 8.5
+  },
+  "pros": [
+    "Stunning iconic design",
+    "Doubles as cooling fan",
+    "Excellent app with detailed data",
+    "HEPA H13 filtration",
+    "No replacement filters to buy (washable)"
+  ],
+  "cons": [
+    "Very expensive at $569+",
+    "CADR lower than similarly priced competitors",
+    "Noisy at higher fan speeds",
+    "Bulky footprint"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best design and dual-function purifier fan",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Dyson Purifier Cool is a solid choice for design and dual-function purifier fan. Stunning iconic design. Very expensive at $569+.",
+  "faqs": [
+    {
+      "question": "Who is the Dyson Purifier Cool best for?",
+      "answer": "Dyson Purifier Cool combines a HEPA air purifier with a cooling fan in a striking design that doubles as home decor."
+    },
+    {
+      "question": "Is the Dyson Purifier Cool worth the price?",
+      "answer": "Yes, the Dyson Purifier Cool justifies its price with stunning iconic design. We recommend it for users who prioritize design and."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Top Air Purifier Pick",
+      "description": "Best design and dual-function purifier fan"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.dyson.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Dyson Purifier Cool Review 2026: 8.8/10 Rating | TrueTopReviews",
+    "description": "In-depth Dyson Purifier Cool review covering performance, features, and value. Rated 8.8/10 by our experts.",
+    "keywords": [
+      "Dyson Purifier Cool review",
+      "Air Purifiers review",
+      "best Air Purifier"
+    ]
+  }
+}

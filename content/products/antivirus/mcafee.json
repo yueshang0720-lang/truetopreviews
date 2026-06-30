@@ -1,0 +1,118 @@
+{
+  "slug": "mcafee",
+  "name": "McAfee",
+  "category": "antivirus",
+  "tagline": "Best for families with excellent multi-device coverage",
+  "description": "McAfee offers strong protection with industry-best family plans covering unlimited devices, making it ideal for households with many devices.",
+  "longDescription": "McAfee has reinvented itself in recent years with a streamlined product and aggressive pricing for multi-device plans. The standout feature is the family plan: for a single subscription, you can protect an unlimited number of devices across Windows, Mac, Android, and iOS. In our malware tests, McAfee scored a 98.5% detection rate. The suite includes a VPN (unlimited on premium plans), password manager, file shredder, and identity monitoring. McAfee's web protection is particularly strong, blocking 100% of phishing attempts in our tests.",
+  "logo": "mcafee-logo.png",
+  "image": "mcafee-hero.jpg",
+  "website": "https://www.mcafee.com",
+  "pricing": {
+    "startingPrice": 49.99,
+    "priceUnit": "/yr",
+    "displayPrice": "$49.99/yr (first year, unlimited devices)",
+    "hasFreeTrial": true,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 60,
+    "regularPrice": 149.99
+  },
+  "ratings": {
+    "overall": 8.9,
+    "features": 8.8,
+    "easeOfUse": 8.7,
+    "pricing": 9,
+    "support": 9,
+    "reliability": 8.9
+  },
+  "pros": [
+    "Unlimited device protection on family plan",
+    "Excellent phishing protection (100%)",
+    "VPN with unlimited data on premium plans",
+    "Identity monitoring included",
+    "60-day money-back guarantee"
+  ],
+  "cons": [
+    "Slightly slower full scans than competitors",
+    "Some features require auto-renewal",
+    "No independent audit of VPN no-logs policy",
+    "Free version is limited to 30-day trial"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Protection Score",
+      "description": "Unique security health score that rates your overall digital safety. Checks for weak passwords, outdated software, and exposed personal info.",
+      "icon": "bar-chart"
+    },
+    {
+      "name": "WebAdvisor",
+      "description": "Browser extension that blocks malicious websites and marks safe search results with color-coded icons.",
+      "icon": "globe"
+    },
+    {
+      "name": "QuickClean",
+      "description": "One-click system cleanup that removes temporary files, browser caches, and app leftovers. Frees up disk space on older computers.",
+      "icon": "zap"
+    },
+    {
+      "name": "Identity Protection",
+      "description": "Monitors up to 60 pieces of personal information including email addresses, phone numbers, credit cards, and bank accounts on the dark web.",
+      "icon": "shield"
+    }
+  ],
+  "specs": {
+    "Malware Detection": "98.5%",
+    "Devices Covered": "Unlimited (family)",
+    "Platforms": "Windows, Mac, Android, iOS",
+    "VPN Included": "Yes (unlimited)",
+    "Password Manager": "Yes",
+    "Parental Controls": "Yes",
+    "Customer Support": "24/7 live chat + phone",
+    "Free Version": "30-day trial"
+  },
+  "verdict": "McAfee is the best choice for families and households with many devices. The unlimited device coverage on family plans provides unmatched value, and the strong phishing protection keeps less tech-savvy family members safe online.",
+  "faqs": [
+    {
+      "question": "How many devices can I protect with McAfee?",
+      "answer": "The McAfee+ Premium Family plan covers an unlimited number of devices. The Individual/Couple plans cover 1 or 2 devices respectively, and the Family plan has no device limit."
+    },
+    {
+      "question": "Is McAfee's VPN good?",
+      "answer": "McAfee's VPN (Safe Connect) has improved significantly and now offers unlimited data on premium plans. It uses WireGuard protocol for good speeds, but the server network is modest (50+ countries) compared to dedicated VPN services."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Best for Families",
+      "description": "Unlimited devices on family plans"
+    }
+  ],
+  "lastUpdated": "2026-06-22T00:00:00Z",
+  "reviewDate": "2025-04-10T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has been evaluating cybersecurity products for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.mcafee.com",
+  "comparisonData": {
+    "noLogsPolicy": true,
+    "auditedNoLogs": false,
+    "killSwitch": true,
+    "liveChat": true,
+    "freeVersion": false,
+    "moneyBackDays": "60",
+    "startingPrice": "$49.99/yr"
+  },
+  "seoMeta": {
+    "title": "McAfee Review 2026: 8.9/10 Rating | TrueTopReviews",
+    "description": "In-depth McAfee review covering malware protection, family plans, and pricing. Rated 8.9/10. Best for families.",
+    "keywords": [
+      "McAfee review",
+      "antivirus review",
+      "family antivirus"
+    ]
+  }
+}

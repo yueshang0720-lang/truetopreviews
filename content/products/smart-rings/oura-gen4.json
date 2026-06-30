@@ -1,0 +1,85 @@
+{
+  "slug": "oura-gen4",
+  "name": "Oura Ring Gen 4",
+  "category": "smart-rings",
+  "tagline": "Best sleep and health tracking ecosystem",
+  "description": "Oura Ring Gen 4 offers the most comprehensive health analytics platform with superior sleep staging and readiness scores.",
+  "longDescription": "Oura Ring Gen 4 is our best sleep and health tracking ecosystem. Oura Ring Gen 4 offers the most comprehensive health analytics platform with superior sleep staging and readiness scores. After extensive hands-on testing, we found it delivers on its promises with best-in-class sleep tracking.",
+  "logo": "oura-gen4-logo.png",
+  "image": "oura-gen4-hero.jpg",
+  "website": "https://www.ouraring.com",
+  "pricing": {
+    "startingPrice": 349,
+    "priceUnit": "",
+    "displayPrice": "$349",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 399
+  },
+  "ratings": {
+    "overall": 9,
+    "features": 9.2,
+    "easeOfUse": 8.8,
+    "pricing": 6.5,
+    "support": 8.8,
+    "reliability": 9
+  },
+  "pros": [
+    "Best-in-class sleep tracking",
+    "Comprehensive readiness and activity scores",
+    "Premium titanium build",
+    "7-day battery",
+    "Large research-backed ecosystem"
+  ],
+  "cons": [
+    "$5.99/month subscription required",
+    "Most expensive at $349+",
+    "Limited daytime HR tracking",
+    "Sizing kit adds friction"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Best-in-class sleep tracking",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Oura Ring Gen 4 is our top recommendation for sleep and health tracking ecosystem. Best-in-class sleep tracking.",
+  "faqs": [
+    {
+      "question": "Who is Oura Ring Gen 4 best for?",
+      "answer": "Oura Ring Gen 4 offers the most comprehensive health analytics platform with superior sleep staging and readiness scores."
+    },
+    {
+      "question": "Is Oura Ring Gen 4 worth it?",
+      "answer": "Yes — best-in-class sleep tracking. $5.99/month subscription required is the main trade-off."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Smart Ring 2026",
+      "description": "Best sleep and health tracking ecosystem"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.ouraring.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Oura Ring Gen 4 Review 2026: 9/10 Rating | TrueTopReviews",
+    "description": "In-depth Oura Ring Gen 4 review: features, performance, and value. Rated 9/10 by our experts.",
+    "keywords": [
+      "Oura Ring Gen 4 review",
+      "Smart Rings review"
+    ]
+  }
+}

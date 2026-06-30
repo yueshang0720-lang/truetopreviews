@@ -1,0 +1,113 @@
+{
+  "slug": "enpass",
+  "name": "Enpass",
+  "category": "password-managers",
+  "tagline": "Best offline-first password manager with cloud flexibility",
+  "description": "Enpass stores your data locally by default and lets you choose your own cloud storage, giving you complete control over where your passwords live.",
+  "longDescription": "Enpass takes a fundamentally different approach to password management. Instead of storing your data on company servers, Enpass stores everything locally on your device and gives you the option to sync via your own cloud storage (iCloud, Dropbox, Google Drive, OneDrive, or WebDAV). This offline-first architecture means you have complete control over your data, and there is no central server to breach. The trade-off is that you are responsible for your own sync setup and backups. The interface is clean and functional, with good desktop apps for Windows, Mac, and Linux. A one-time purchase option is available alongside a subscription model.",
+  "logo": "enpass-logo.png",
+  "image": "enpass-hero.jpg",
+  "website": "https://www.enpass.io",
+  "pricing": {
+    "startingPrice": 1.99,
+    "priceUnit": "/mo",
+    "displayPrice": "$1.99/mo or $79.99 one-time",
+    "hasFreeTrial": false,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 1.99
+  },
+  "ratings": {
+    "overall": 7.8,
+    "features": 7.9,
+    "easeOfUse": 7.6,
+    "pricing": 8.3,
+    "support": 7.5,
+    "reliability": 8
+  },
+  "pros": [
+    "Offline-first: data stored locally",
+    "Choose your own cloud storage",
+    "One-time purchase option available",
+    "Linux desktop app included",
+    "Complete data control"
+  ],
+  "cons": [
+    "You are responsible for backups",
+    "No dark web monitoring",
+    "Manual sync setup required",
+    "Less polished mobile experience"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Offline-First Architecture",
+      "description": "All data stored locally on your device by default. No central server to breach. Sync via your own iCloud, Dropbox, Google Drive, OneDrive, or WebDAV account.",
+      "icon": "hard-drive"
+    },
+    {
+      "name": "Multiple Vaults",
+      "description": "Create separate vaults for work, personal, and family. Each vault can sync to different cloud accounts. Complete data segregation.",
+      "icon": "layers"
+    },
+    {
+      "name": "One-Time Purchase",
+      "description": "Buy once and use forever. One-time license includes all features and 12 months of updates. Subscription also available at $1.99/month.",
+      "icon": "credit-card"
+    },
+    {
+      "name": "Linux Support",
+      "description": "Full-featured native Linux desktop application. One of the few password managers with first-class Linux support.",
+      "icon": "monitor"
+    }
+  ],
+  "specs": {
+    "Encryption": "AES-256-GCM",
+    "Data Storage": "Local (your device)",
+    "Sync Options": "iCloud, Dropbox, Google Drive, OneDrive, WebDAV",
+    "Platforms": "Windows, Mac, iOS, Android, Linux",
+    "Browser Extensions": "Chrome, Firefox, Edge, Safari",
+    "2FA Support": "TOTP",
+    "Customer Support": "Email + forum",
+    "Free Plan": "Yes (desktop, 25 items)"
+  },
+  "verdict": "Enpass is the best choice for users who want complete control over their password data and are comfortable managing their own sync and backups. The offline-first architecture eliminates the risk of a centralized breach, and the one-time purchase option is great for subscription-averse users. The trade-off is more setup work and less convenience.",
+  "faqs": [
+    {
+      "question": "Is Enpass safe if I sync via Dropbox?",
+      "answer": "Yes. Enpass encrypts your data before it leaves your device. Even if someone accessed your Dropbox account, they would find only encrypted blobs that cannot be decrypted without your master password. Enpass never has access to your data or encryption keys."
+    },
+    {
+      "question": "Is the one-time purchase better than subscription?",
+      "answer": "For long-term users, the one-time purchase ($79.99) is better value than the subscription ($1.99/month). After about 3.5 years, the one-time purchase pays for itself. However, note that the one-time license includes 12 months of updates — continued updates may require renewal."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://www.enpass.io",
+  "comparisonData": {
+    "encryption": "AES-256-GCM",
+    "secretKey": false,
+    "audited": false,
+    "freePlan": true,
+    "passkeySupport": false,
+    "travelMode": false,
+    "familyPlan": false,
+    "emergencyAccess": false
+  },
+  "seoMeta": {
+    "title": "Enpass Review 2026: 7.8/10 Rating | TrueTopReviews",
+    "description": "In-depth Enpass review covering offline storage, cloud sync options, and pricing. Rated 7.8/10.",
+    "keywords": [
+      "Enpass review",
+      "offline password manager",
+      "local storage"
+    ]
+  }
+}

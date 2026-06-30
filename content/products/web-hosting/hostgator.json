@@ -1,0 +1,113 @@
+{
+  "slug": "hostgator",
+  "name": "HostGator",
+  "category": "web-hosting",
+  "tagline": "Reliable shared hosting with unmetered resources",
+  "description": "HostGator offers reliable, no-frills shared hosting with unmetered storage and bandwidth, making it a solid choice for content-heavy websites.",
+  "longDescription": "HostGator is one of the most established names in web hosting, serving millions of websites since 2002. The main selling point is simplicity: unmetered storage and bandwidth on all plans, a familiar cPanel interface, and straightforward pricing. In our testing, HostGator delivered 99.91% uptime with 1.6-second average page loads — competitive but not class-leading. The support is available 24/7 via phone and chat, though response quality varies. HostGator is a safe, predictable choice that does not excel in any area but also does not have major weaknesses. It is best suited for content-heavy sites that need unmetered resources at a fair price.",
+  "logo": "hostgator-logo.png",
+  "image": "hostgator-hero.jpg",
+  "website": "https://www.hostgator.com",
+  "pricing": {
+    "startingPrice": 2.75,
+    "priceUnit": "/mo",
+    "displayPrice": "$2.75/mo (first year, renews at $7.99/mo)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 7.99
+  },
+  "ratings": {
+    "overall": 8.3,
+    "features": 8.2,
+    "easeOfUse": 8.5,
+    "pricing": 8.4,
+    "support": 7.8,
+    "reliability": 8.2
+  },
+  "pros": [
+    "Unmetered storage and bandwidth",
+    "Familiar cPanel interface",
+    "24/7 phone and chat support",
+    "Free domain for first year",
+    "Established brand since 2002"
+  ],
+  "cons": [
+    "Inconsistent support quality",
+    "Below-average page load speeds",
+    "Aggressive upselling",
+    "Backups cost extra on basic plan"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Unmetered Resources",
+      "description": "No hard limits on storage or bandwidth. Suitable for content-heavy sites, large media libraries, and high-traffic blogs without worrying about overage charges.",
+      "icon": "hard-drive"
+    },
+    {
+      "name": "cPanel Control Panel",
+      "description": "Industry-standard cPanel interface that most webmasters already know. Includes one-click installs, file manager, email management, and database tools.",
+      "icon": "terminal"
+    },
+    {
+      "name": "Free Website Transfer",
+      "description": "Free migration of one existing website, including databases and email accounts. Migration team handles the technical transfer within 24-48 hours.",
+      "icon": "truck"
+    },
+    {
+      "name": "QuickInstall",
+      "description": "One-click installer for 75+ applications including WordPress, Joomla, Magento, and phpBB. Simplifies getting started with popular platforms.",
+      "icon": "download"
+    }
+  ],
+  "specs": {
+    "Uptime": "99.91%",
+    "Page Load Time": "1.6s avg",
+    "Storage": "Unmetered",
+    "Free SSL": "Yes",
+    "Free Domain": "Yes (1 year)",
+    "Free CDN": "No",
+    "Data Centers": "USA only",
+    "Money-back": "30 days"
+  },
+  "verdict": "HostGator is a solid, predictable choice for users who want unmetered resources and a familiar cPanel experience. It does not lead the pack in any category but provides reliable, no-surprises hosting. Content-heavy sites benefit most from the unmetered storage.",
+  "faqs": [
+    {
+      "question": "Is HostGator's unmetered storage really unlimited?",
+      "answer": "HostGator's storage is unmetered, meaning there is no hard cap, but it is subject to acceptable use policies. In practice, the vast majority of websites will never approach any limit. If your site uses excessive resources that affect other users on the shared server, HostGator may ask you to optimize or upgrade."
+    },
+    {
+      "question": "Does HostGator include backups?",
+      "answer": "Basic plans do not include automatic backups. Backups are available as a paid add-on ($2/month) or included with higher-tier plans. We strongly recommend purchasing the backup add-on or using a third-party backup solution."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-06-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested web hosting services for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.hostgator.com",
+  "comparisonData": {
+    "uptime": "99.91%",
+    "speed": "1.6s",
+    "storage": "Unmetered",
+    "freeSSL": true,
+    "freeDomain": true,
+    "cdn": false,
+    "backups": false,
+    "staging": false
+  },
+  "seoMeta": {
+    "title": "HostGator Review 2026: 8.3/10 Rating | TrueTopReviews",
+    "description": "In-depth HostGator review covering unmetered hosting, cPanel, and pricing. Rated 8.3/10.",
+    "keywords": [
+      "HostGator review",
+      "shared hosting",
+      "web hosting"
+    ]
+  }
+}

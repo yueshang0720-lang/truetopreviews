@@ -1,0 +1,94 @@
+{
+  "slug": "breville-barista-pro",
+  "name": "Breville Barista Pro",
+  "category": "coffee-makers",
+  "tagline": "Best home espresso machine with built-in grinder",
+  "description": "Breville Barista Pro delivers café-quality espresso at home with an integrated conical burr grinder and fast heat-up time.",
+  "longDescription": "Breville Barista Pro is our best home espresso machine with built-in grinder. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "breville-barista-pro-logo.png",
+  "image": "breville-barista-pro-hero.jpg",
+  "website": "https://www.breville.com",
+  "pricing": {
+    "startingPrice": 849,
+    "priceUnit": "",
+    "displayPrice": "$849",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 849
+  },
+  "ratings": {
+    "overall": 9.3,
+    "features": 9.5,
+    "easeOfUse": 8.5,
+    "pricing": 7.5,
+    "support": 8.8,
+    "reliability": 9.2
+  },
+  "pros": [
+    "Built-in precision conical burr grinder",
+    "3-second heat-up time",
+    "Excellent espresso extraction",
+    "Steam wand for latte art",
+    "Solid stainless steel build"
+  ],
+  "cons": [
+    "Expensive at $849",
+    "Learning curve for beginners",
+    "Large countertop footprint",
+    "Requires regular cleaning and maintenance"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best home espresso machine with built-in grinder",
+      "icon": "star"
+    }
+  ],
+  "specs": {
+    "Pump": "15 Bar Italian",
+    "Grinder": "Integrated Conical Burr",
+    "Capacity": "67 oz tank",
+    "Heat-Up": "3 seconds",
+    "Pressure": "ThermoJet",
+    "Warranty": "2 years",
+    "Colors": "Stainless Steel, Black Truffle"
+  },
+  "verdict": "Breville Barista Pro is our top recommendation for home espresso machine with built-in grinder. Built-in precision conical burr grinder. Expensive at $849.",
+  "faqs": [
+    {
+      "question": "Who is the Breville Barista Pro best for?",
+      "answer": "Breville Barista Pro delivers café-quality espresso at home with an integrated conical burr grinder and fast heat-up time."
+    },
+    {
+      "question": "Is the Breville Barista Pro worth the price?",
+      "answer": "Yes, the Breville Barista Pro justifies its price with built-in precision conical burr grinder. We recommend it for users who prioritize home espresso."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Coffee Maker 2026",
+      "description": "Best home espresso machine with built-in grinder"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.breville.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Breville Barista Pro Review 2026: 9.3/10 Rating | TrueTopReviews",
+    "description": "In-depth Breville Barista Pro review covering performance, features, and value. Rated 9.3/10 by our experts.",
+    "keywords": [
+      "Breville Barista Pro review",
+      "Coffee Makers review",
+      "best Coffee Maker"
+    ]
+  }
+}

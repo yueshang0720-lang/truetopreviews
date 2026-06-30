@@ -1,0 +1,80 @@
+{
+  "slug": "keurig-k-supreme",
+  "name": "Keurig K-Supreme Plus",
+  "category": "coffee-makers",
+  "tagline": "Best single-serve pod coffee maker",
+  "description": "Keurig K-Supreme Plus offers the fastest, most convenient single-cup brewing with BrewID technology for optimal extraction.",
+  "longDescription": "Keurig K-Supreme Plus is our best single-serve pod coffee maker. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "keurig-k-supreme-logo.png",
+  "image": "keurig-k-supreme-hero.jpg",
+  "website": "https://www.keurig.com",
+  "pricing": {
+    "startingPrice": 189,
+    "priceUnit": "",
+    "displayPrice": "$189",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 189
+  },
+  "ratings": {
+    "overall": 8,
+    "features": 8,
+    "easeOfUse": 9.2,
+    "pricing": 8.5,
+    "support": 7.5,
+    "reliability": 8
+  },
+  "pros": [
+    "Extremely fast and convenient",
+    "BrewID optimizes each pod",
+    "Brews 4-12 oz sizes",
+    "Large 78 oz reservoir",
+    "Affordable and widely available"
+  ],
+  "cons": [
+    "Pod costs add up quickly",
+    "Environmental waste from pods",
+    "Coffee quality lower than drip/espresso",
+    "Limited to Keurig ecosystem"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best single-serve pod coffee maker",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Keurig K-Supreme Plus is a solid choice for single-serve pod coffee maker. Extremely fast and convenient. Pod costs add up quickly.",
+  "faqs": [
+    {
+      "question": "Who is the Keurig K-Supreme Plus best for?",
+      "answer": "Keurig K-Supreme Plus offers the fastest, most convenient single-cup brewing with BrewID technology for optimal extraction."
+    },
+    {
+      "question": "Is the Keurig K-Supreme Plus worth the price?",
+      "answer": "The Keurig K-Supreme Plus offers decent value, but pod costs add up quickly. Consider whether these trade-offs are acceptable before purchasing."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.keurig.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Keurig K-Supreme Plus Review 2026: 8/10 Rating | TrueTopReviews",
+    "description": "In-depth Keurig K-Supreme Plus review covering performance, features, and value. Rated 8/10 by our experts.",
+    "keywords": [
+      "Keurig K-Supreme Plus review",
+      "Coffee Makers review",
+      "best Coffee Maker"
+    ]
+  }
+}

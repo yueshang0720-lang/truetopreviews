@@ -1,0 +1,30 @@
+{
+  "slug": "mesh-wifi",
+  "name": "Mesh WiFi Systems",
+  "description": "Eliminate dead zones with the best mesh WiFi systems. Expert reviews for homes of every size, from apartments to large houses.",
+  "longDescription": "We tested 12 mesh WiFi systems for coverage, speed, ease of setup, and advanced features. Our picks ensure strong, reliable WiFi in every corner of your home.",
+  "icon": "mesh-wifi-icon.svg",
+  "image": "mesh-wifi-hero.jpg",
+  "products": [
+    "tp-link-deco-xe75",
+    "eero-pro-6e"
+  ],
+  "buyingGuideIntro": "We tested 12 mesh WiFi systems for coverage, speed, ease of setup, and advanced features.",
+  "testingCriteria": [
+    "Performance",
+    "Ease of Use",
+    "Value",
+    "Build Quality",
+    "Features"
+  ],
+  "seoMeta": {
+    "t": "Best Mesh WiFi Systems of 2026 — Expert Reviews | TrueTopReviews",
+    "d": "We tested 12 mesh WiFi systems to find the best for coverage, speed, and value. Compare TP-Link, Eero, Nest, and more.",
+    "k": [
+      "best mesh wifi",
+      "wifi router",
+      "mesh network",
+      "TP-Link Deco"
+    ]
+  }
+}

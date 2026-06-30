@@ -1,0 +1,86 @@
+{
+  "slug": "samsung-s25-ultra",
+  "name": "Samsung Galaxy S25 Ultra",
+  "category": "smartphones",
+  "tagline": "Best Android phone with S Pen and zoom camera",
+  "description": "Samsung's flagship delivers the most versatile camera system, built-in S Pen, and stunning display.",
+  "longDescription": "Samsung Galaxy S25 Ultra is our best android phone with s pen and zoom camera. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "samsung-s25-ultra-logo.png",
+  "image": "samsung-s25-ultra-hero.jpg",
+  "website": "https://www.samsung.com",
+  "pricing": {
+    "startingPrice": 1299,
+    "priceUnit": "",
+    "displayPrice": "$1,299",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 15,
+    "regularPrice": 1299
+  },
+  "ratings": {
+    "overall": 9.4,
+    "features": 9.5,
+    "easeOfUse": 9,
+    "pricing": 7.5,
+    "support": 8.8,
+    "reliability": 9.3
+  },
+  "pros": [
+    "200MP camera with 10x optical zoom",
+    "Built-in S Pen",
+    "Gorgeous 6.8-inch AMOLED display",
+    "7 years of software updates",
+    "Excellent multitasking with DeX"
+  ],
+  "cons": [
+    "Very expensive at $1,299",
+    "Large and heavy",
+    "Charging speeds behind Chinese rivals",
+    "Bloatware on some carrier models"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best Android phone with S Pen and zoom camera",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Samsung Galaxy S25 Ultra is our top recommendation for android phone with s pen and zoom camera. 200MP camera with 10x optical zoom. Very expensive at $1,299.",
+  "faqs": [
+    {
+      "question": "Who is the Samsung Galaxy S25 Ultra best for?",
+      "answer": "Samsung's flagship delivers the most versatile camera system, built-in S Pen, and stunning display."
+    },
+    {
+      "question": "Is the Samsung Galaxy S25 Ultra worth the price?",
+      "answer": "Yes, the Samsung Galaxy S25 Ultra justifies its price with 200mp camera with 10x optical zoom. We recommend it for users who prioritize android phone."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Smartphone 2026",
+      "description": "Best Android phone with S Pen and zoom camera"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.samsung.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Samsung Galaxy S25 Ultra Review 2026: 9.4/10 Rating | TrueTopReviews",
+    "description": "In-depth Samsung Galaxy S25 Ultra review covering performance, features, and value. Rated 9.4/10 by our experts.",
+    "keywords": [
+      "Samsung Galaxy S25 Ultra review",
+      "Smartphones review",
+      "best Smartphone"
+    ]
+  }
+}

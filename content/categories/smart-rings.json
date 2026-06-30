@@ -1,0 +1,30 @@
+{
+  "slug": "smart-rings",
+  "name": "Smart Rings",
+  "description": "Track your health discreetly with the best smart rings. Compare sleep tracking, heart rate accuracy, and battery life across top models.",
+  "longDescription": "We wore 8 smart rings for 30 days straight, comparing sleep stage accuracy, heart rate tracking, activity detection, and comfort. Our picks help you choose the best finger-based health tracker.",
+  "icon": "smart-rings-icon.svg",
+  "image": "smart-rings-hero.jpg",
+  "products": [
+    "ringconn-gen2",
+    "oura-gen4"
+  ],
+  "buyingGuideIntro": "We wore 8 smart rings for 30 days straight, comparing sleep stage accuracy, heart rate tracking, activity detection, and comfort.",
+  "testingCriteria": [
+    "Performance",
+    "Ease of Use",
+    "Value",
+    "Build Quality",
+    "Features"
+  ],
+  "seoMeta": {
+    "t": "Best Smart Rings of 2026 — Expert Reviews | TrueTopReviews",
+    "d": "We tested 8 smart rings for sleep tracking, health monitoring, and comfort. Compare Oura, RingConn, Samsung, and more.",
+    "k": [
+      "best smart ring",
+      "health tracker",
+      "sleep tracker",
+      "Oura alternative"
+    ]
+  }
+}

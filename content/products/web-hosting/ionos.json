@@ -1,0 +1,113 @@
+{
+  "slug": "ionos",
+  "name": "IONOS",
+  "category": "web-hosting",
+  "tagline": "Affordable European hosting with scalable infrastructure",
+  "description": "IONOS (formerly 1&1) offers competitively priced hosting with strong European data center coverage and scalable cloud infrastructure.",
+  "longDescription": "IONOS (formerly 1&1 IONOS) is one of the largest hosting providers in Europe, with a strong presence in the US market as well. The company offers extremely competitive introductory pricing — plans start at just $1/month for the first year. Performance is solid with 99.92% uptime and 1.5-second average loads in our testing. The custom control panel is functional but different from cPanel, requiring a learning period. IONOS's strength is its European data center coverage, making it the best choice for sites targeting European audiences. The main drawback is that the introductory pricing rises dramatically at renewal, so you need to commit to a long-term plan for the best value.",
+  "logo": "ionos-logo.png",
+  "image": "ionos-hero.jpg",
+  "website": "https://www.ionos.com",
+  "pricing": {
+    "startingPrice": 1,
+    "priceUnit": "/mo",
+    "displayPrice": "$1/mo (first year, renews at $8/mo)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 8
+  },
+  "ratings": {
+    "overall": 7.5,
+    "features": 7.8,
+    "easeOfUse": 7,
+    "pricing": 8,
+    "support": 7.3,
+    "reliability": 7.6
+  },
+  "pros": [
+    "Extremely low introductory pricing",
+    "Strong European data center coverage",
+    "Scalable cloud infrastructure",
+    "Free domain for first year",
+    "Good performance metrics"
+  ],
+  "cons": [
+    "Dramatic price increase at renewal",
+    "Custom control panel (no cPanel)",
+    "Complex initial configuration",
+    "Aggressive contract terms"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Scalable Infrastructure",
+      "description": "Cloud-based infrastructure that can scale from shared hosting to dedicated servers. Easy upgrades without migration as your site grows.",
+      "icon": "server"
+    },
+    {
+      "name": "European Data Centers",
+      "description": "Data centers in Germany, UK, Spain, and USA. Best choice for sites primarily serving European audiences. GDPR-compliant infrastructure.",
+      "icon": "map-pin"
+    },
+    {
+      "name": "Wildcard SSL Included",
+      "description": "Wildcard SSL certificate covering all subdomains included free. Secures your main domain plus unlimited subdomains at no extra cost.",
+      "icon": "lock"
+    },
+    {
+      "name": "Dedicated Consultant",
+      "description": "Personal consultant assigned to new customers for onboarding support. Helps with initial setup and configuration at no additional charge.",
+      "icon": "user"
+    }
+  ],
+  "specs": {
+    "Uptime": "99.92%",
+    "Page Load Time": "1.5s avg",
+    "Storage": "10GB - Unlimited",
+    "Free SSL": "Yes (Wildcard)",
+    "Free Domain": "Yes (1 year)",
+    "Free CDN": "No",
+    "Data Centers": "4 countries (EU + USA)",
+    "Money-back": "30 days"
+  },
+  "verdict": "IONOS is the best choice for sites targeting European audiences, offering good performance at aggressive introductory prices. The $1/month first-year price is unbeatable, but be prepared for the significant renewal increase. We recommend it for European-focused projects where the data center proximity provides a genuine performance advantage.",
+  "faqs": [
+    {
+      "question": "Why is IONOS so cheap for the first year?",
+      "answer": "IONOS uses aggressive introductory pricing to acquire customers, with the expectation that many will renew at the standard rate ($8/month). The $1/month price is a legitimate deal — just budget for the renewal increase or plan to migrate after the first year if the standard rate exceeds your budget."
+    },
+    {
+      "question": "Is IONOS good for US-based websites?",
+      "answer": "IONOS has data centers in the US (Las Vegas) as well as Europe. US performance is adequate but not best-in-class. For sites primarily serving US audiences, we recommend SiteGround or Hostinger for better US-focused performance."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-28T00:00:00Z",
+  "reviewDate": "2025-06-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested web hosting services for 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.ionos.com",
+  "comparisonData": {
+    "uptime": "99.92%",
+    "speed": "1.5s",
+    "storage": "10GB",
+    "freeSSL": true,
+    "freeDomain": true,
+    "cdn": false,
+    "backups": false,
+    "staging": false
+  },
+  "seoMeta": {
+    "title": "IONOS Review 2026: 7.5/10 Rating | TrueTopReviews",
+    "description": "In-depth IONOS review covering European hosting, infrastructure, and pricing. Rated 7.5/10.",
+    "keywords": [
+      "IONOS review",
+      "European hosting",
+      "web hosting"
+    ]
+  }
+}

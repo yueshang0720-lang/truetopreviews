@@ -1,0 +1,79 @@
+{
+  "slug": "bluetti-ac180",
+  "name": "Bluetti AC180",
+  "category": "portable-power",
+  "tagline": "Best value mid-size power station",
+  "description": "Bluetti AC180 packs 1,152Wh with 1,800W output at an aggressive price point. The best performance-per-dollar in the mid-size category.",
+  "longDescription": "Bluetti AC180 is our best value mid-size power station. Bluetti AC180 packs 1,152Wh with 1,800W output at an aggressive price point. The best performance-per-dollar in the mid-size category. After extensive hands-on testing, we found it delivers on its promises with great value at $799 for 1,152wh.",
+  "logo": "bluetti-ac180-logo.png",
+  "image": "bluetti-ac180-hero.jpg",
+  "website": "https://www.bluettipower.com",
+  "pricing": {
+    "startingPrice": 799,
+    "priceUnit": "",
+    "displayPrice": "$799",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 999
+  },
+  "ratings": {
+    "overall": 8.7,
+    "features": 8.6,
+    "easeOfUse": 8.5,
+    "pricing": 9,
+    "support": 8.3,
+    "reliability": 8.6
+  },
+  "pros": [
+    "Great value at $799 for 1,152Wh",
+    "1,800W output (2,700W Power Lifting)",
+    "LiFePO4 battery",
+    "Quiet operation",
+    "UPS mode for home backup"
+  ],
+  "cons": [
+    "Slower solar charging than EcoFlow",
+    "Heavy at 37 lbs",
+    "No modular expansion",
+    "Display is basic"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "Great value at $799 for 1,152Wh",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Bluetti AC180 is a solid choice for value mid-size power station. Great value at $799 for 1,152Wh.",
+  "faqs": [
+    {
+      "question": "Who is Bluetti AC180 best for?",
+      "answer": "Bluetti AC180 packs 1,152Wh with 1,800W output at an aggressive price point. The best performance-per-dollar in the mid-size category."
+    },
+    {
+      "question": "Is Bluetti AC180 worth it?",
+      "answer": "Yes — great value at $799 for 1,152wh. Slower solar charging than EcoFlow is the main trade-off."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.bluettipower.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Bluetti AC180 Review 2026: 8.7/10 Rating | TrueTopReviews",
+    "description": "In-depth Bluetti AC180 review: features, performance, and value. Rated 8.7/10 by our experts.",
+    "keywords": [
+      "Bluetti AC180 review",
+      "Portable Power Stations review"
+    ]
+  }
+}

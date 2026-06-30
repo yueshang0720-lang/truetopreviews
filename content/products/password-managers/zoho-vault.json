@@ -1,0 +1,112 @@
+{
+  "slug": "zoho-vault",
+  "name": "Zoho Vault",
+  "category": "password-managers",
+  "tagline": "Best free business password manager with team features",
+  "description": "Zoho Vault offers a surprisingly capable free plan for teams, making it the best choice for small businesses needing centralized password management.",
+  "longDescription": "Zoho Vault is Zoho's entry into the password management space, and it leverages the company's extensive business software ecosystem. The standout feature is the free plan: it supports unlimited users with basic password management and sharing — making it the best free option for small teams and businesses. For individual users, the free plan supports unlimited password storage. The interface is functional if not beautiful, and integration with other Zoho products (CRM, Desk, Mail) adds value for Zoho ecosystem users. While it lacks the polish and consumer features of dedicated password managers, Zoho Vault is a compelling option for business use, especially at the free tier.",
+  "logo": "zoho-vault-logo.png",
+  "image": "zoho-vault-hero.jpg",
+  "website": "https://www.zoho.com/vault",
+  "pricing": {
+    "startingPrice": 0,
+    "priceUnit": "/mo",
+    "displayPrice": "Free (Premium from $0.90/user/mo)",
+    "hasFreeTrial": false,
+    "hasFreeVersion": true,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 0.9
+  },
+  "ratings": {
+    "overall": 7.6,
+    "features": 8,
+    "easeOfUse": 7.2,
+    "pricing": 9.2,
+    "support": 7.8,
+    "reliability": 7.8
+  },
+  "pros": [
+    "Free unlimited users for teams",
+    "Good business and admin features",
+    "Zoho ecosystem integration",
+    "Enterprise-grade security",
+    "Activity tracking and audit trails"
+  ],
+  "cons": [
+    "Basic consumer features",
+    "Dated interface design",
+    "No browser extension auto-fill (limited)",
+    "Dependent on Zoho ecosystem for best value"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Team Management",
+      "description": "Centralized admin console for managing team passwords. Granular access controls, user groups, and role-based permissions with activity audit trails.",
+      "icon": "users"
+    },
+    {
+      "name": "Password Sharing",
+      "description": "Securely share passwords with team members without revealing the actual password. Granular permissions control what recipients can do.",
+      "icon": "share"
+    },
+    {
+      "name": "Zoho Integration",
+      "description": "Seamless integration with Zoho CRM, Zoho Desk, Zoho Mail, and other Zoho products. Auto-fill credentials in Zoho apps.",
+      "icon": "link"
+    },
+    {
+      "name": "Activity Reports",
+      "description": "Detailed audit logs tracking who accessed which passwords, when, and from where. Essential for compliance and security reviews.",
+      "icon": "clipboard"
+    }
+  ],
+  "specs": {
+    "Encryption": "AES-256",
+    "Free Users": "Unlimited",
+    "Platforms": "Web, iOS, Android",
+    "Browser Extensions": "Chrome, Firefox",
+    "2FA Support": "TOTP, biometrics",
+    "Customer Support": "Email (phone on enterprise)",
+    "Free Plan": "Yes (unlimited users)"
+  },
+  "verdict": "Zoho Vault is the best choice for small businesses and teams that need centralized password management without the per-user costs of competitors. The free plan is genuinely useful for teams. Individual consumers will find better options in Bitwarden or 1Password, but for business use, Zoho Vault's pricing is unbeatable.",
+  "faqs": [
+    {
+      "question": "Is Zoho Vault really free for teams?",
+      "answer": "Yes, the free plan supports unlimited users with password management, sharing, and basic admin controls. The enterprise plan ($0.90/user/month) adds advanced features like application passwords, user provisioning, and priority support. For most small teams, the free plan is sufficient."
+    },
+    {
+      "question": "Can individuals use Zoho Vault?",
+      "answer": "Yes, Zoho Vault offers a free individual plan with unlimited password storage. However, the interface is designed with business use in mind, and consumer-focused features like advanced autofill are less developed. Individual users may prefer Bitwarden or 1Password for a better consumer experience."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-25T00:00:00Z",
+  "reviewDate": "2025-05-01T00:00:00Z",
+  "author": {
+    "name": "Alex Chen",
+    "title": "Senior Cybersecurity Analyst",
+    "bio": "Alex has tested over 30 password managers across 5 years.",
+    "avatar": "alex-chen.jpg"
+  },
+  "affiliateUrl": "https://www.zoho.com/vault",
+  "comparisonData": {
+    "encryption": "AES-256",
+    "secretKey": false,
+    "audited": false,
+    "freePlan": true,
+    "passkeySupport": false,
+    "travelMode": false,
+    "familyPlan": false,
+    "emergencyAccess": false
+  },
+  "seoMeta": {
+    "title": "Zoho Vault Review 2026: 7.6/10 Rating | TrueTopReviews",
+    "description": "In-depth Zoho Vault review covering team features, free plan, and integrations. Rated 7.6/10. Best for small business.",
+    "keywords": [
+      "Zoho Vault review",
+      "password manager",
+      "team password management"
+    ]
+  }
+}

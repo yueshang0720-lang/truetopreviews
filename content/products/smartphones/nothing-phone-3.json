@@ -1,0 +1,80 @@
+{
+  "slug": "nothing-phone-3",
+  "name": "Nothing Phone 3",
+  "category": "smartphones",
+  "tagline": "Best design with unique Glyph interface",
+  "description": "Nothing Phone 3 stands out with its unique transparent design and customizable LED Glyph lighting system.",
+  "longDescription": "Nothing Phone 3 is our best design with unique glyph interface. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "nothing-phone-3-logo.png",
+  "image": "nothing-phone-3-hero.jpg",
+  "website": "https://www.nothing.tech",
+  "pricing": {
+    "startingPrice": 599,
+    "priceUnit": "",
+    "displayPrice": "$599",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 15,
+    "regularPrice": 599
+  },
+  "ratings": {
+    "overall": 8.4,
+    "features": 8.2,
+    "easeOfUse": 8.6,
+    "pricing": 9,
+    "support": 7.5,
+    "reliability": 8
+  },
+  "pros": [
+    "Unique transparent design with Glyph LEDs",
+    "Clean near-stock Android",
+    "Competitive mid-range pricing",
+    "Good main camera",
+    "Strong battery life"
+  ],
+  "cons": [
+    "No telephoto camera",
+    "Limited US availability",
+    "Glyph lights more novelty than utility",
+    "Average water resistance"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best design with unique Glyph interface",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Nothing Phone 3 is a solid choice for design with unique glyph interface. Unique transparent design with Glyph LEDs. No telephoto camera.",
+  "faqs": [
+    {
+      "question": "Who is the Nothing Phone 3 best for?",
+      "answer": "Nothing Phone 3 stands out with its unique transparent design and customizable LED Glyph lighting system."
+    },
+    {
+      "question": "Is the Nothing Phone 3 worth the price?",
+      "answer": "The Nothing Phone 3 offers decent value, but no telephoto camera. Consider whether these trade-offs are acceptable before purchasing."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.nothing.tech",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Nothing Phone 3 Review 2026: 8.4/10 Rating | TrueTopReviews",
+    "description": "In-depth Nothing Phone 3 review covering performance, features, and value. Rated 8.4/10 by our experts.",
+    "keywords": [
+      "Nothing Phone 3 review",
+      "Smartphones review",
+      "best Smartphone"
+    ]
+  }
+}

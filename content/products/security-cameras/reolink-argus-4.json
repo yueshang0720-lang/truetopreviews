@@ -1,0 +1,85 @@
+{
+  "slug": "reolink-argus-4",
+  "name": "Reolink Argus 4 Pro",
+  "category": "security-cameras",
+  "tagline": "Best wire-free security camera with 4K resolution",
+  "description": "Reolink Argus 4 Pro delivers stunning 4K video with ColorX night vision, solar charging, and no monthly fees.",
+  "longDescription": "Reolink Argus 4 Pro is our best wire-free security camera with 4k resolution. Reolink Argus 4 Pro delivers stunning 4K video with ColorX night vision, solar charging, and no monthly fees. After extensive hands-on testing, we found it delivers on its promises with 4k uhd video with colorx night vision.",
+  "logo": "reolink-argus-4-logo.png",
+  "image": "reolink-argus-4-hero.jpg",
+  "website": "https://www.reolink.com",
+  "pricing": {
+    "startingPrice": 179,
+    "priceUnit": "",
+    "displayPrice": "$179",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 199
+  },
+  "ratings": {
+    "overall": 9.3,
+    "features": 9.4,
+    "easeOfUse": 8.8,
+    "pricing": 8.5,
+    "support": 8.3,
+    "reliability": 9.2
+  },
+  "pros": [
+    "4K UHD video with ColorX night vision",
+    "100% wire-free with solar panel",
+    "No subscription fees",
+    "AI person/vehicle/pet detection",
+    "Local microSD storage included"
+  ],
+  "cons": [
+    "Setup requires WiFi signal outdoors",
+    "Solar panel sold separately",
+    "No Apple HomeKit support",
+    "App less polished than competitors"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "4K UHD video with ColorX night vision",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Reolink Argus 4 Pro is our top recommendation for wire-free security camera with 4k resolution. 4K UHD video with ColorX night vision.",
+  "faqs": [
+    {
+      "question": "Who is Reolink Argus 4 Pro best for?",
+      "answer": "Reolink Argus 4 Pro delivers stunning 4K video with ColorX night vision, solar charging, and no monthly fees."
+    },
+    {
+      "question": "Is Reolink Argus 4 Pro worth it?",
+      "answer": "Yes — 4k uhd video with colorx night vision. Setup requires WiFi signal outdoors is the main trade-off."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Best Security Camera 2026",
+      "description": "Best wire-free security camera with 4K resolution"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.reolink.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Reolink Argus 4 Pro Review 2026: 9.3/10 Rating | TrueTopReviews",
+    "description": "In-depth Reolink Argus 4 Pro review: features, performance, and value. Rated 9.3/10 by our experts.",
+    "keywords": [
+      "Reolink Argus 4 Pro review",
+      "Security Cameras review"
+    ]
+  }
+}

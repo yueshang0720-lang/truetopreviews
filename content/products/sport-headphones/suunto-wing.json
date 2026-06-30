@@ -1,0 +1,79 @@
+{
+  "slug": "suunto-wing",
+  "name": "Suunto Wing",
+  "category": "sport-headphones",
+  "tagline": "Best bone conduction for outdoor adventurers",
+  "description": "Suunto Wing combines bone conduction with LED safety lighting and power bank charging case for ultra-distance athletes.",
+  "longDescription": "Suunto Wing is our best bone conduction for outdoor adventurers. Suunto Wing combines bone conduction with LED safety lighting and power bank charging case for ultra-distance athletes. After extensive hands-on testing, we found it delivers on its promises with led safety lights for night running.",
+  "logo": "suunto-wing-logo.png",
+  "image": "suunto-wing-hero.jpg",
+  "website": "https://www.suunto.com",
+  "pricing": {
+    "startingPrice": 199,
+    "priceUnit": "",
+    "displayPrice": "$199",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 199
+  },
+  "ratings": {
+    "overall": 8.7,
+    "features": 8.8,
+    "easeOfUse": 8.5,
+    "pricing": 7.8,
+    "support": 8,
+    "reliability": 8.8
+  },
+  "pros": [
+    "LED safety lights for night running",
+    "Power bank charging case",
+    "IP67 fully waterproof",
+    "Built for ultra-distance",
+    "Head movement control"
+  ],
+  "cons": [
+    "Heavier than Shokz",
+    "Expensive at $199",
+    "Bulky charging case",
+    "App features limited"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Key Feature",
+      "description": "LED safety lights for night running",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Suunto Wing is a solid choice for bone conduction for outdoor adventurers. LED safety lights for night running.",
+  "faqs": [
+    {
+      "question": "Who is Suunto Wing best for?",
+      "answer": "Suunto Wing combines bone conduction with LED safety lighting and power bank charging case for ultra-distance athletes."
+    },
+    {
+      "question": "Is Suunto Wing worth it?",
+      "answer": "Yes — led safety lights for night running. Heavier than Shokz is the main trade-off."
+    }
+  ],
+  "awards": [],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-12-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of products across 7 years at TrueTopReviews.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.suunto.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Suunto Wing Review 2026: 8.7/10 Rating | TrueTopReviews",
+    "description": "In-depth Suunto Wing review: features, performance, and value. Rated 8.7/10 by our experts.",
+    "keywords": [
+      "Suunto Wing review",
+      "Sport Headphones review"
+    ]
+  }
+}

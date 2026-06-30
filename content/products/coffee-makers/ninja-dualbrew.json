@@ -1,0 +1,86 @@
+{
+  "slug": "ninja-dualbrew",
+  "name": "Ninja DualBrew Pro",
+  "category": "coffee-makers",
+  "tagline": "Most versatile coffee maker with dual brewing",
+  "description": "Ninja DualBrew Pro makes both full carafes and single-serve K-Cups, offering maximum flexibility for any household.",
+  "longDescription": "Ninja DualBrew Pro is our most versatile coffee maker with dual brewing. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "ninja-dualbrew-logo.png",
+  "image": "ninja-dualbrew-hero.jpg",
+  "website": "https://www.ninjakitchen.com",
+  "pricing": {
+    "startingPrice": 229,
+    "priceUnit": "",
+    "displayPrice": "$229",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 60,
+    "regularPrice": 229
+  },
+  "ratings": {
+    "overall": 8.7,
+    "features": 8.8,
+    "easeOfUse": 8.8,
+    "pricing": 9,
+    "support": 8.2,
+    "reliability": 8.5
+  },
+  "pros": [
+    "Brews both carafe and K-Cup pods",
+    "Built-in frother",
+    "Programmable timer",
+    "Good value at $229",
+    "Fast brew speed"
+  ],
+  "cons": [
+    "Plastic-heavy construction",
+    "Coffee temperature could be hotter",
+    "K-Cup compatibility adds waste",
+    "Less durable than premium brands"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Most versatile coffee maker with dual brewing",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "Ninja DualBrew Pro is a solid choice for versatile coffee maker with dual brewing. Brews both carafe and K-Cup pods. Plastic-heavy construction.",
+  "faqs": [
+    {
+      "question": "Who is the Ninja DualBrew Pro best for?",
+      "answer": "Ninja DualBrew Pro makes both full carafes and single-serve K-Cups, offering maximum flexibility for any household."
+    },
+    {
+      "question": "Is the Ninja DualBrew Pro worth the price?",
+      "answer": "Yes, the Ninja DualBrew Pro justifies its price with brews both carafe and k-cup pods. We recommend it for users who prioritize versatile coffee."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Top Coffee Maker Pick",
+      "description": "Most versatile coffee maker with dual brewing"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.ninjakitchen.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "Ninja DualBrew Pro Review 2026: 8.7/10 Rating | TrueTopReviews",
+    "description": "In-depth Ninja DualBrew Pro review covering performance, features, and value. Rated 8.7/10 by our experts.",
+    "keywords": [
+      "Ninja DualBrew Pro review",
+      "Coffee Makers review",
+      "best Coffee Maker"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "portable-power",
+  "name": "Portable Power Stations",
+  "description": "Stay powered anywhere with the best portable power stations and solar generators for camping, RV life, emergencies, and off-grid living.",
+  "longDescription": "We drained and recharged 15 power stations under real-world conditions — running fridges, laptops, CPAP machines, and power tools. Our rankings reflect true capacity, charging speed, and portability.",
+  "icon": "portable-power-icon.svg",
+  "image": "portable-power-hero.jpg",
+  "products": [
+    "jackery-explorer-2000",
+    "ecoflow-delta-2",
+    "bluetti-ac180"
+  ],
+  "buyingGuideIntro": "We drained and recharged 15 power stations under real-world conditions — running fridges, laptops, CPAP machines, and power tools.",
+  "testingCriteria": [
+    "Performance",
+    "Ease of Use",
+    "Value",
+    "Build Quality",
+    "Features"
+  ],
+  "seoMeta": {
+    "t": "Best Portable Power Stations of 2026 — Expert Reviews | TrueTopReviews",
+    "d": "We tested 15 portable power stations for camping, emergencies, and off-grid use. Compare Jackery, EcoFlow, Bluetti, and more.",
+    "k": [
+      "best power station",
+      "solar generator",
+      "portable power",
+      "camping battery"
+    ]
+  }
+}

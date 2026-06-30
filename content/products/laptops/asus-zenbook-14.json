@@ -1,0 +1,86 @@
+{
+  "slug": "asus-zenbook-14",
+  "name": "ASUS Zenbook 14 OLED",
+  "category": "laptops",
+  "tagline": "Best value OLED laptop under $1,000",
+  "description": "ASUS Zenbook 14 packs a gorgeous OLED display and solid performance into an affordable, portable package.",
+  "longDescription": "ASUS Zenbook 14 OLED is our best value oled laptop under $1,000. After extensive testing, we found it delivers excellent performance and features that justify its position in our rankings.",
+  "logo": "asus-zenbook-14-logo.png",
+  "image": "asus-zenbook-14-hero.jpg",
+  "website": "https://www.asus.com",
+  "pricing": {
+    "startingPrice": 899,
+    "priceUnit": "",
+    "displayPrice": "$899",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 899
+  },
+  "ratings": {
+    "overall": 8.7,
+    "features": 8.5,
+    "easeOfUse": 8.6,
+    "pricing": 9,
+    "support": 8.2,
+    "reliability": 8.5
+  },
+  "pros": [
+    "Vivid OLED display at affordable price",
+    "Compact and lightweight",
+    "Good battery life",
+    "Solid Intel Core Ultra performance",
+    "USB-C and USB-A ports"
+  ],
+  "cons": [
+    "Build quality not as premium as XPS",
+    "Speakers are average",
+    "Keyboard travel is shallow",
+    "No touchscreen option"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Top Feature",
+      "description": "Best value OLED laptop under $1,000",
+      "icon": "star"
+    }
+  ],
+  "specs": {},
+  "verdict": "ASUS Zenbook 14 OLED is a solid choice for value oled laptop under $1,000. Vivid OLED display at affordable price. Build quality not as premium as XPS.",
+  "faqs": [
+    {
+      "question": "Who is the ASUS Zenbook 14 OLED best for?",
+      "answer": "ASUS Zenbook 14 packs a gorgeous OLED display and solid performance into an affordable, portable package."
+    },
+    {
+      "question": "Is the ASUS Zenbook 14 OLED worth the price?",
+      "answer": "Yes, the ASUS Zenbook 14 OLED justifies its price with vivid oled display at affordable price. We recommend it for users who prioritize value oled."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Top Laptop Pick",
+      "description": "Best value OLED laptop under $1,000"
+    }
+  ],
+  "lastUpdated": "2026-06-30T00:00:00Z",
+  "reviewDate": "2025-11-01T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Senior Tech Reviewer",
+    "bio": "Sarah has tested hundreds of consumer electronics across 7 years.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.asus.com",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "ASUS Zenbook 14 OLED Review 2026: 8.7/10 Rating | TrueTopReviews",
+    "description": "In-depth ASUS Zenbook 14 OLED review covering performance, features, and value. Rated 8.7/10 by our experts.",
+    "keywords": [
+      "ASUS Zenbook 14 OLED review",
+      "Laptops review",
+      "best Laptop"
+    ]
+  }
+}

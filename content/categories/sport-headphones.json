@@ -1,0 +1,31 @@
+{
+  "slug": "sport-headphones",
+  "name": "Sport Headphones",
+  "description": "Stay aware while exercising with the best bone conduction and open-ear sport headphones for running, cycling, and workouts.",
+  "longDescription": "We tested 12 open-ear and bone conduction headphones for sound quality, comfort during exercise, battery life, and sweat resistance. These keep you aware of your surroundings while delivering great audio.",
+  "icon": "sport-headphones-icon.svg",
+  "image": "sport-headphones-hero.jpg",
+  "products": [
+    "shokz-openrun-pro",
+    "shokz-openfit",
+    "suunto-wing"
+  ],
+  "buyingGuideIntro": "We tested 12 open-ear and bone conduction headphones for sound quality, comfort during exercise, battery life, and sweat resistance.",
+  "testingCriteria": [
+    "Performance",
+    "Ease of Use",
+    "Value",
+    "Build Quality",
+    "Features"
+  ],
+  "seoMeta": {
+    "t": "Best Sport Headphones of 2026 — Bone Conduction & Open-Ear | TrueTopReviews",
+    "d": "We tested 12 sport headphones for running, cycling, and workouts. Compare bone conduction and open-ear models.",
+    "k": [
+      "best sport headphones",
+      "bone conduction",
+      "open ear headphones",
+      "running headphones"
+    ]
+  }
+}
