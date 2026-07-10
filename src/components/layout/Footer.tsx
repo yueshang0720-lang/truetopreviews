@@ -34,10 +34,7 @@ export function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
-              <svg className="h-7 w-7 text-brand-400" fill="currentColor" viewBox="0 0 32 32">
-                <path d="M16 2l2.5 7.5H26l-6 4.5 2.5 7.5L16 17l-6.5 4.5 2.5-7.5-6-4.5h7.5L16 2z" />
-                <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" strokeWidth="1.5" />
-              </svg>
+              <img src="/images/brand/logo.png" alt="TrueTopReviews" className="h-8 w-8" />
               <span className="text-lg font-bold text-white">{SITE_NAME}</span>
             </Link>
             <p className="text-sm text-slate-400 leading-relaxed mb-4">{SITE_DESCRIPTION}</p>

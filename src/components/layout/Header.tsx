@@ -36,11 +36,8 @@ export function Header() {
       <header className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between gap-4">
-            <Link href="/" className="flex items-center gap-2 font-bold text-xl text-brand-900 shrink-0">
-              <svg className="h-8 w-8 text-brand-600" fill="currentColor" viewBox="0 0 32 32">
-                <path d="M16 2l2.5 7.5H26l-6 4.5 2.5 7.5L16 17l-6.5 4.5 2.5-7.5-6-4.5h7.5L16 2z" />
-                <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" strokeWidth="1.5" />
-              </svg>
+            <Link href="/" className="flex items-center gap-2.5 font-bold text-xl text-brand-900 shrink-0">
+              <img src="/images/brand/logo.png" alt="TrueTopReviews" className="h-9 w-9" />
               <span className="hidden sm:inline">{SITE_NAME}</span>
             </Link>
             <nav className="hidden md:flex items-center gap-1">
