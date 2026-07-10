@@ -44,6 +44,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} h-full antialiased`}>
+      <head>
+        <meta name="partnerboostverifycode" content="32dc01246faccb7f5b3cad5016dd5033" />
+      </head>
       <body className="min-h-full flex flex-col bg-white text-slate-900">
         <OrganizationSchema />
         <Header />
