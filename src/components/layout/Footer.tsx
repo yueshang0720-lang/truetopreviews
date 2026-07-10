@@ -34,7 +34,7 @@ export function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
-              <img src="/images/brand/logo.png" alt="TrueTopReviews" className="h-8 w-8" />
+              <img src="/images/brand/logo.svg" alt="TrueTopReviews" className="h-8 w-8" />
               <span className="text-lg font-bold text-white">{SITE_NAME}</span>
             </Link>
             <p className="text-sm text-slate-400 leading-relaxed mb-4">{SITE_DESCRIPTION}</p>

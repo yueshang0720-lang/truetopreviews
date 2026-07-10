@@ -37,7 +37,7 @@ export function Header() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between gap-4">
             <Link href="/" className="flex items-center gap-2.5 font-bold text-xl text-brand-900 shrink-0">
-              <img src="/images/brand/logo.png" alt="TrueTopReviews" className="h-9 w-9" />
+              <img src="/images/brand/logo.svg" alt="TrueTopReviews" className="h-9 w-9" />
               <span className="hidden sm:inline">{SITE_NAME}</span>
             </Link>
             <nav className="hidden md:flex items-center gap-1">

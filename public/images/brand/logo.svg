@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
   <defs>
-    <linearGradient id="bg" x1="3" y1="3" x2="45" y2="45" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#f97316"/>
-      <stop offset="100%" stop-color="#c2410c"/>
+    <linearGradient id="grad" x1="8" y1="8" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
     </linearGradient>
   </defs>
-  <!-- Rounded box -->
-  <rect x="2" y="2" width="44" height="44" rx="10" fill="url(#bg)" stroke="white" stroke-width="2.5"/>
-  <!-- 5-pointed star centered -->
-  <path d="M24 11l2.058 6.335h6.661l-5.389 3.915 2.058 6.335L24 23.67l-5.388 3.915 2.058-6.335-5.389-3.915h6.661L24 11z" fill="white"/>
+  <!-- Rounded square box -->
+  <rect x="8" y="8" width="184" height="184" rx="40" fill="url(#grad)" stroke="white" stroke-width="10"/>
+  <!-- White star centered -->
+  <path d="M100 40l10.5 32.5h34.5l-27.5 20 10.5 32.5L100 135l-27.5 22.5 10.5-32.5-27.5-20h34L100 40z" fill="white"/>
 </svg>
