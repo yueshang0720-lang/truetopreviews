@@ -1,0 +1,107 @@
+{
+  "slug": "tp-link-archer-mr600",
+  "name": "TP-Link Archer MR600",
+  "category": "router-4g-lte",
+  "tagline": "Il miglior router 4G LTE in assoluto",
+  "description": "L'Archer MR600 combina velocità 4G+ Cat 6 fino a 300 Mbps, Wi-Fi AC1200 dual-band e porte Gigabit: il router 4G più completo per la casa.",
+  "longDescription": "Il TP-Link Archer MR600 è il miglior router 4G LTE in assoluto per la maggior parte delle case.\n\nSupporta la tecnologia LTE Cat 6 con aggregazione di portante (4G+), che permette di raggiungere fino a 300 Mbps in download combinando due bande di frequenza: se il tuo operatore offre il 4G+, questo router lo sfrutta al massimo.\n\nIl Wi-Fi AC1200 dual-band garantisce una rete veloce e stabile per streaming in 4K, smart TV e decine di dispositivi, mentre le 4 porte Gigabit Ethernet evitano colli di bottiglia per PC, console e NAS. La configurazione tramite app Tether è immediata e le antenne LTE esterne rimovibili permettono di migliorare la ricezione nelle zone con segnale debole.",
+  "logo": "tp-link-archer-mr600-logo.png",
+  "image": "tp-link-archer-mr600-hero.jpg",
+  "website": "https://www.tp-link.com",
+  "pricing": {
+    "startingPrice": 99,
+    "priceUnit": "€",
+    "displayPrice": "A partire da 99 €",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 119
+  },
+  "ratings": {
+    "overall": 9.3,
+    "features": 9.4,
+    "easeOfUse": 9.0,
+    "pricing": 8.8,
+    "support": 8.7,
+    "reliability": 9.2
+  },
+  "pros": [
+    "Velocità 4G+ fino a 300 Mbps (Cat 6)",
+    "Wi-Fi AC1200 dual-band",
+    "4 porte Gigabit Ethernet",
+    "Antenne LTE esterne rimovibili",
+    "Configurazione semplice con app Tether",
+    "Supporto OneMesh per estendere la rete"
+  ],
+  "cons": [
+    "Prezzo superiore ai modelli Cat 4",
+    "Manca una porta USB",
+    "Design funzionale ma non elegante"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Velocità 4G+ Cat 6",
+      "description": "Fino a 300 Mbps in download grazie all'aggregazione di portante.",
+      "icon": "zap"
+    },
+    {
+      "name": "Wi-Fi AC1200 dual-band",
+      "description": "Rete stabile e veloce su 2,4 GHz e 5 GHz per tutti i tuoi dispositivi.",
+      "icon": "network"
+    },
+    {
+      "name": "4 porte Gigabit",
+      "description": "Collega PC, console e NAS via cavo senza colli di bottiglia.",
+      "icon": "server"
+    }
+  ],
+  "specs": {
+    "Categoria LTE": "Cat 6 (4G+)",
+    "Velocità download": "Fino a 300 Mbps",
+    "Wi-Fi": "AC1200 dual-band",
+    "Porte Ethernet": "4× Gigabit",
+    "Antenne": "2 esterne rimovibili",
+    "Slot SIM": "1"
+  },
+  "verdict": "Il TP-Link Archer MR600 è la nostra scelta top per un router 4G LTE domestico completo: velocità 4G+, Wi-Fi dual-band e porte Gigabit lo rendono il miglior compromesso tra prestazioni e prezzo.",
+  "faqs": [
+    {
+      "question": "A chi è adatto il TP-Link Archer MR600?",
+      "answer": "È ideale per chi vuole un router 4G definitivo per la casa, con velocità elevate e porte Gigabit, senza compromessi."
+    },
+    {
+      "question": "L'Archer MR600 funziona con qualsiasi operatore italiano?",
+      "answer": "Sì, è un router unlocked: basta inserire una SIM dati di TIM, Vodafone, WindTre, Iliad o un altro operatore."
+    },
+    {
+      "question": "Che velocità posso aspettarmi davvero?",
+      "answer": "Dipende dal segnale e dall'operatore, ma in buone condizioni il 4G+ Cat 6 può superare i 150 Mbps reali."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "gold",
+      "label": "Miglior Router 4G LTE 2026",
+      "description": "Il miglior router 4G LTE in assoluto"
+    }
+  ],
+  "lastUpdated": "2026-04-29T00:00:00Z",
+  "reviewDate": "2026-04-29T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Redattrice Senior di Tecnologia",
+    "bio": "Sarah testa prodotti di consumo da oltre 7 anni per TrueTopReviews, con un focus su reti e connettività.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.tp-link.com/it/home-networking/5g-4g-router/archer-mr600/",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "TP-Link Archer MR600 Recensione 2026: 9,3/10 | TrueTopReviews",
+    "description": "Recensione del TP-Link Archer MR600: prestazioni, velocità 4G+ Cat 6 e valore. Valutato 9,3/10 dai nostri esperti.",
+    "keywords": [
+      "TP-Link Archer MR600 recensione",
+      "router 4G LTE",
+      "miglior router 4G"
+    ]
+  }
+}

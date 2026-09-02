@@ -1,0 +1,107 @@
+{
+  "slug": "tp-link-deco-x50-4g",
+  "name": "TP-Link Deco X50-4G",
+  "category": "router-4g-lte",
+  "tagline": "Il miglior router mesh 4G con Wi-Fi 6",
+  "description": "Il Deco X50-4G unisce un modem 4G+ Cat 6 al Wi-Fi 6 AX3000 e al sistema mesh TP-Link, per coprire ogni angolo della casa.",
+  "longDescription": "Il TP-Link Deco X50-4G è la scelta migliore per chi vuole coprire ogni angolo della casa.\n\nCombina un modem 4G+ Cat 6 (fino a 300 Mbps) con il Wi-Fi 6 AX3000 e il sistema mesh Deco: puoi aggiungere altre unità per estendere la rete senza perdere velocità, con roaming automatico tra i nodi.\n\nIl Wi-Fi 6 porta OFDMA e MU-MIMO per una connessione stabile anche con molti dispositivi collegati contemporaneamente. La funzione di failover passa automaticamente alla connessione di riserva se il 4G cade, e la suite HomeShield protegge la tua rete.",
+  "logo": "tp-link-deco-x50-4g-logo.png",
+  "image": "tp-link-deco-x50-4g-hero.jpg",
+  "website": "https://www.tp-link.com",
+  "pricing": {
+    "startingPrice": 139,
+    "priceUnit": "€",
+    "displayPrice": "A partire da 139 €",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 159
+  },
+  "ratings": {
+    "overall": 9.0,
+    "features": 9.3,
+    "easeOfUse": 9.0,
+    "pricing": 8.2,
+    "support": 8.5,
+    "reliability": 9.0
+  },
+  "pros": [
+    "Wi-Fi 6 AX3000 ultraveloce",
+    "Copertura estendibile con sistema mesh",
+    "4G+ Cat 6 fino a 300 Mbps",
+    "Failover 3G/4G automatico",
+    "Sicurezza HomeShield integrata",
+    "3 porte Gigabit"
+  ],
+  "cons": [
+    "Il più costoso della selezione",
+    "Antenne LTE non rimovibili",
+    "Richiede l'app Deco per la gestione"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Wi-Fi 6 AX3000",
+      "description": "Velocità fino a 2402 Mbps su 5 GHz con tecnologia OFDMA e MU-MIMO.",
+      "icon": "zap"
+    },
+    {
+      "name": "Sistema mesh estendibile",
+      "description": "Aggiungi altre unità per coprire ogni stanza senza perdere segnale.",
+      "icon": "network"
+    },
+    {
+      "name": "Failover automatico",
+      "description": "Passa alla connessione di riserva se il segnale 4G si interrompe.",
+      "icon": "refresh"
+    }
+  ],
+  "specs": {
+    "Categoria LTE": "Cat 6 (4G+)",
+    "Velocità download": "Fino a 300 Mbps",
+    "Wi-Fi": "Wi-Fi 6 AX3000",
+    "Porte Ethernet": "3× Gigabit",
+    "Copertura": "Mesh estendibile",
+    "Slot SIM": "Nano SIM"
+  },
+  "verdict": "Se hai una casa grande, molti dispositivi connessi e vuoi il massimo della tecnologia, il Deco X50-4G è la scelta più avanzata: Wi-Fi 6, mesh e 4G+ giustificano l'investimento.",
+  "faqs": [
+    {
+      "question": "A chi è adatto il TP-Link Deco X50-4G?",
+      "answer": "È perfetto per case grandi con molti dispositivi, dove serve copertura estendibile e il massimo delle prestazioni Wi-Fi 6."
+    },
+    {
+      "question": "Posso aggiungere altre unità Deco in seguito?",
+      "answer": "Sì, il sistema mesh Deco è modulare: puoi aggiungere ulteriori nodi per estendere la copertura in qualsiasi momento."
+    },
+    {
+      "question": "Il Deco X50-4G funziona come router principale?",
+      "answer": "Sì, può essere usato come gateway principale con la SIM 4G oppure collegato a una linea cablata esistente."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "silver",
+      "label": "Miglior Router Mesh 4G 2026",
+      "description": "Il miglior router mesh 4G con Wi-Fi 6"
+    }
+  ],
+  "lastUpdated": "2026-04-29T00:00:00Z",
+  "reviewDate": "2026-04-29T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Redattrice Senior di Tecnologia",
+    "bio": "Sarah testa prodotti di consumo da oltre 7 anni per TrueTopReviews, con un focus su reti e connettività.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.tp-link.com/it/home-networking/deco/deco-x50-4g/",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "TP-Link Deco X50-4G Recensione 2026: 9,0/10 | TrueTopReviews",
+    "description": "Recensione del TP-Link Deco X50-4G: Wi-Fi 6, mesh e 4G+ Cat 6. Valutato 9,0/10 dai nostri esperti.",
+    "keywords": [
+      "TP-Link Deco X50-4G recensione",
+      "router mesh 4G",
+      "wifi 6 router 4g"
+    ]
+  }
+}

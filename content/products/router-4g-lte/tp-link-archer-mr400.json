@@ -1,0 +1,106 @@
+{
+  "slug": "tp-link-archer-mr400",
+  "name": "TP-Link Archer MR400",
+  "category": "router-4g-lte",
+  "tagline": "Il miglior rapporto qualità-prezzo",
+  "description": "L'Archer MR400 offre Wi-Fi AC1200 dual-band e velocità 4G Cat 4 a un prezzo contenuto: il compromesso perfetto per l'uso quotidiano.",
+  "longDescription": "Il TP-Link Archer MR400 rappresenta il punto d'incontro ideale tra prezzo e prestazioni.\n\nSupporta LTE Cat 4 con velocità fino a 150 Mbps in download, più che sufficienti per navigare, lavorare in smart working, fare videochiamate e guardare contenuti in streaming in Full HD per la maggior parte delle famiglie.\n\nIl Wi-Fi AC1200 dual-band garantisce una rete veloce e stabile, mentre le 4 porte Fast Ethernet permettono di collegare dispositivi via cavo. Le antenne esterne rimovibili aiutano a migliorare la ricezione, e la configurazione tramite app Tether è alla portata di tutti.",
+  "logo": "tp-link-archer-mr400-logo.png",
+  "image": "tp-link-archer-mr400-hero.jpg",
+  "website": "https://www.tp-link.com",
+  "pricing": {
+    "startingPrice": 69,
+    "priceUnit": "€",
+    "displayPrice": "A partire da 69 €",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 79
+  },
+  "ratings": {
+    "overall": 8.5,
+    "features": 8.3,
+    "easeOfUse": 9.0,
+    "pricing": 9.2,
+    "support": 8.2,
+    "reliability": 8.6
+  },
+  "pros": [
+    "Ottimo rapporto qualità-prezzo",
+    "Wi-Fi AC1200 dual-band",
+    "Antenne esterne rimovibili",
+    "Configurazione semplicissima",
+    "Affidabilità TP-Link"
+  ],
+  "cons": [
+    "Porte Fast Ethernet (non Gigabit)",
+    "Velocità Cat 4 limitata a 150 Mbps",
+    "Nessuna porta USB"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Wi-Fi AC1200 dual-band",
+      "description": "Rete veloce e stabile su 2,4 GHz e 5 GHz per l'uso quotidiano.",
+      "icon": "network"
+    },
+    {
+      "name": "Configurazione immediata",
+      "description": "Inserisci la SIM, apri l'app Tether e sei online in pochi minuti.",
+      "icon": "refresh"
+    },
+    {
+      "name": "Antenne rimovibili",
+      "description": "Migliora la ricezione collegando antenne esterne più potenti.",
+      "icon": "zap"
+    }
+  ],
+  "specs": {
+    "Categoria LTE": "Cat 4",
+    "Velocità download": "Fino a 150 Mbps",
+    "Wi-Fi": "AC1200 dual-band",
+    "Porte Ethernet": "4× Fast Ethernet",
+    "Antenne": "2 esterne rimovibili",
+    "Slot SIM": "1"
+  },
+  "verdict": "Se non hai bisogno delle velocità più elevate del 4G+ ma vuoi un router completo e affidabile, l'Archer MR400 è la scelta più intelligente in termini di rapporto qualità-prezzo.",
+  "faqs": [
+    {
+      "question": "L'Archer MR400 è sufficiente per lo smart working?",
+      "answer": "Sì, i 150 Mbps del Cat 4 bastano per videochiamate, navigazione e streaming in Full HD per la maggior parte delle famiglie."
+    },
+    {
+      "question": "Qual è la differenza con l'Archer MR600?",
+      "answer": "L'MR600 offre 4G+ Cat 6 (fino a 300 Mbps) e porte Gigabit; l'MR400 è Cat 4 con porte Fast Ethernet, ma costa meno."
+    },
+    {
+      "question": "Posso collegare un telefono fisso?",
+      "answer": "No, l'Archer MR400 non supporta la telefonia VoIP: è pensato solo per la connessione dati."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "bronze",
+      "label": "Miglior Rapporto Qualità-Prezzo 2026",
+      "description": "Il miglior rapporto qualità-prezzo"
+    }
+  ],
+  "lastUpdated": "2026-04-29T00:00:00Z",
+  "reviewDate": "2026-04-29T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Redattrice Senior di Tecnologia",
+    "bio": "Sarah testa prodotti di consumo da oltre 7 anni per TrueTopReviews, con un focus su reti e connettività.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.tp-link.com/it/home-networking/5g-4g-router/archer-mr400/",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "TP-Link Archer MR400 Recensione 2026: 8,5/10 | TrueTopReviews",
+    "description": "Recensione del TP-Link Archer MR400: qualità-prezzo, Wi-Fi AC1200 e velocità 4G. Valutato 8,5/10 dai nostri esperti.",
+    "keywords": [
+      "TP-Link Archer MR400 recensione",
+      "router 4G economico",
+      "router 4g qualità prezzo"
+    ]
+  }
+}

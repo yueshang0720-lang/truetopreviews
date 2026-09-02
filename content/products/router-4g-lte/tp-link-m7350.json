@@ -1,0 +1,107 @@
+{
+  "slug": "tp-link-m7350",
+  "name": "TP-Link M7350",
+  "category": "router-4g-lte",
+  "tagline": "Il miglior hotspot 4G portatile",
+  "description": "L'M7350 è un hotspot Wi-Fi 4G portatile a batteria: condividi la connessione con fino a 10 dispositivi ovunque tu sia.",
+  "longDescription": "Il TP-Link M7350 non è un router fisso, ma un hotspot Wi-Fi portatile a batteria.\n\nÈ perfetto per chi è sempre in movimento, per il camper, le trasferte di lavoro o come connessione di emergenza: inserisci una SIM dati e condividi la connessione con fino a 10 dispositivi contemporaneamente.\n\nLa batteria offre circa 8 ore di utilizzo continuo, sufficienti per un'intera giornata di lavoro in mobilità. Il piccolo display mostra in tempo reale il consumo dati, il livello del segnale e lo stato della batteria, mentre lo slot micro SD permette di condividere file tra i dispositivi collegati.",
+  "logo": "tp-link-m7350-logo.png",
+  "image": "tp-link-m7350-hero.jpg",
+  "website": "https://www.tp-link.com",
+  "pricing": {
+    "startingPrice": 59,
+    "priceUnit": "€",
+    "displayPrice": "A partire da 59 €",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 69
+  },
+  "ratings": {
+    "overall": 8.2,
+    "features": 8.0,
+    "easeOfUse": 9.0,
+    "pricing": 8.5,
+    "support": 8.0,
+    "reliability": 8.0
+  },
+  "pros": [
+    "Estremamente compatto e portatile",
+    "Batteria da circa 8 ore",
+    "Fino a 10 dispositivi collegati",
+    "Display informativo",
+    "Slot micro SD integrato",
+    "Semplicissimo da usare"
+  ],
+  "cons": [
+    "Wi-Fi solo 2,4 GHz (non dual-band)",
+    "Velocità limitata (Cat 4, 150 Mbps)",
+    "Nessuna porta Ethernet"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Portabilità totale",
+      "description": "Tascabile e a batteria, perfetto per viaggi, camper e trasferte.",
+      "icon": "map-pin"
+    },
+    {
+      "name": "Fino a 10 dispositivi",
+      "description": "Condividi la connessione con smartphone, tablet e laptop contemporaneamente.",
+      "icon": "network"
+    },
+    {
+      "name": "Display e app tpMiFi",
+      "description": "Controlla consumo dati, segnale e batteria dal display o dall'app.",
+      "icon": "monitor"
+    }
+  ],
+  "specs": {
+    "Categoria LTE": "Cat 4",
+    "Velocità download": "Fino a 150 Mbps",
+    "Wi-Fi": "2,4 GHz (802.11n)",
+    "Batteria": "Circa 8 ore",
+    "Dispositivi": "Fino a 10",
+    "Slot micro SD": "Sì"
+  },
+  "verdict": "Se la priorità è la portabilità, l'M7350 è la scelta vincente: leggero, pratico e con una batteria che ti accompagna per tutta la giornata.",
+  "faqs": [
+    {
+      "question": "L'M7350 funziona con qualsiasi SIM?",
+      "answer": "Sì, è sbloccato e funziona con le SIM dati di qualsiasi operatore italiano."
+    },
+    {
+      "question": "Quanto dura la batteria?",
+      "answer": "Circa 8 ore di utilizzo continuo, a seconda dell'uso e della qualità del segnale."
+    },
+    {
+      "question": "Posso usarlo come router domestico principale?",
+      "answer": "È pensato per la mobilità: per un uso fisso in casa conviene un router con porte Ethernet e Wi-Fi più potente."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Miglior Hotspot Portatile 2026",
+      "description": "Il miglior hotspot 4G portatile"
+    }
+  ],
+  "lastUpdated": "2026-04-29T00:00:00Z",
+  "reviewDate": "2026-04-29T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Redattrice Senior di Tecnologia",
+    "bio": "Sarah testa prodotti di consumo da oltre 7 anni per TrueTopReviews, con un focus su reti e connettività.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.tp-link.com/it/home-networking/mifi/m7350/",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "TP-Link M7350 Recensione 2026: 8,2/10 | TrueTopReviews",
+    "description": "Recensione del TP-Link M7350: hotspot 4G portatile, batteria e condivisione. Valutato 8,2/10 dai nostri esperti.",
+    "keywords": [
+      "TP-Link M7350 recensione",
+      "hotspot 4g portatile",
+      "mifi 4g"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "router-4g-lte",
+  "name": "Router 4G LTE",
+  "description": "Trova il miglior router 4G LTE TP-Link per la tua casa: recensioni, confronti e consigli per trasformare una SIM dati in una rete Wi-Fi veloce e stabile.",
+  "longDescription": "Abbiamo testato i migliori router 4G LTE TP-Link per velocità, copertura Wi-Fi, facilità di configurazione e rapporto qualità-prezzo. Dalla casa alla mobilità, qui trovi il modello giusto per dire addio ai problemi di connessione.",
+  "icon": "router-4g-lte-icon.svg",
+  "image": "router-4g-lte-hero.jpg",
+  "products": [
+    "tp-link-archer-mr600",
+    "tp-link-deco-x50-4g",
+    "tp-link-archer-mr400",
+    "tp-link-m7350",
+    "tp-link-tl-mr6400"
+  ],
+  "buyingGuideIntro": "Abbiamo testato 5 router 4G LTE TP-Link per velocità, copertura e facilità d'uso.",
+  "testingCriteria": [
+    "Velocità 4G",
+    "Copertura Wi-Fi",
+    "Facilità d'uso",
+    "Qualità costruttiva",
+    "Rapporto qualità-prezzo"
+  ],
+  "seoMeta": {
+    "title": "Migliori Router 4G LTE del 2026 — Recensioni | TrueTopReviews",
+    "description": "Abbiamo testato i migliori router 4G LTE TP-Link per velocità, copertura e valore. Confronta Archer MR600, Deco X50-4G, MR400 e altri modelli.",
+    "keywords": [
+      "miglior router 4g lte",
+      "router 4g tplink",
+      "router 4g lte recensioni",
+      "tp-link archer mr600"
+    ]
+  }
+}

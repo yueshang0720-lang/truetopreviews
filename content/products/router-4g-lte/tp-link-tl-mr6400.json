@@ -1,0 +1,106 @@
+{
+  "slug": "tp-link-tl-mr6400",
+  "name": "TP-Link TL-MR6400",
+  "category": "router-4g-lte",
+  "tagline": "Il router 4G più economico",
+  "description": "Il TL-MR6400 trasforma una SIM in una rete Wi-Fi stabile al prezzo più basso: la scelta perfetta per un budget ridotto.",
+  "longDescription": "Il TP-Link TL-MR6400 è il router 4G LTE entry-level di TP-Link, pensato per chi ha esigenze essenziali e un budget ridotto.\n\nSupporta LTE Cat 4 con velocità fino a 150 Mbps in download e un Wi-Fi N300 a banda singola 2,4 GHz, sufficiente per navigare, leggere la posta e guardare contenuti in streaming in alta definizione su un numero limitato di dispositivi.\n\nLe 4 porte Fast Ethernet permettono di collegare un PC o una console via cavo, mentre le antenne esterne rimovibili aiutano a migliorare il segnale. Non ha fronzoli, ma fa esattamente quello che promette: trasformare una SIM in una rete Wi-Fi stabile a un prezzo molto contenuto.",
+  "logo": "tp-link-tl-mr6400-logo.png",
+  "image": "tp-link-tl-mr6400-hero.jpg",
+  "website": "https://www.tp-link.com",
+  "pricing": {
+    "startingPrice": 45,
+    "priceUnit": "€",
+    "displayPrice": "A partire da 45 €",
+    "hasFreeTrial": false,
+    "hasFreeVersion": false,
+    "moneyBackGuaranteeDays": 30,
+    "regularPrice": 55
+  },
+  "ratings": {
+    "overall": 7.8,
+    "features": 7.0,
+    "easeOfUse": 8.8,
+    "pricing": 9.5,
+    "support": 7.8,
+    "reliability": 8.0
+  },
+  "pros": [
+    "Prezzo molto basso",
+    "Configurazione immediata",
+    "Antenne esterne rimovibili",
+    "4 porte Ethernet",
+    "Affidabilità TP-Link"
+  ],
+  "cons": [
+    "Wi-Fi solo 2,4 GHz (N300)",
+    "Porte Fast Ethernet (non Gigabit)",
+    "Prestazioni limitate con molti dispositivi"
+  ],
+  "keyFeatures": [
+    {
+      "name": "Prezzo imbattibile",
+      "description": "Il modo più economico per trasformare una SIM dati in una rete Wi-Fi.",
+      "icon": "zap"
+    },
+    {
+      "name": "Configurazione immediata",
+      "description": "Inserisci la SIM e sei online in pochi minuti, senza competenze tecniche.",
+      "icon": "refresh"
+    },
+    {
+      "name": "4 porte Ethernet",
+      "description": "Collega PC e console via cavo per una connessione più stabile.",
+      "icon": "server"
+    }
+  ],
+  "specs": {
+    "Categoria LTE": "Cat 4",
+    "Velocità download": "Fino a 150 Mbps",
+    "Wi-Fi": "N300 (2,4 GHz)",
+    "Porte Ethernet": "4× Fast Ethernet",
+    "Antenne": "2 esterne rimovibili",
+    "Slot SIM": "1"
+  },
+  "verdict": "Se ti serve un router 4G essenziale e vuoi spendere il minimo indispensabile, il TL-MR6400 è la scelta perfetta: semplice, affidabile e davvero economico.",
+  "faqs": [
+    {
+      "question": "Il TL-MR6400 basta per lo streaming?",
+      "answer": "Sì, per lo streaming in Full HD su uno o due dispositivi è sufficiente. Con molti dispositivi contemporanei conviene un modello dual-band."
+    },
+    {
+      "question": "È adatto come connessione principale?",
+      "answer": "Può funzionare come connessione principale per esigenze leggere, ma per un uso intensivo è meglio un modello più potente."
+    },
+    {
+      "question": "Qual è la differenza con l'Archer MR400?",
+      "answer": "Il TL-MR6400 ha Wi-Fi N300 solo 2,4 GHz, mentre l'MR400 offre il dual-band AC1200: più veloce ma leggermente più costoso."
+    }
+  ],
+  "awards": [
+    {
+      "tier": "excellence",
+      "label": "Miglior Router Economico 2026",
+      "description": "Il router 4G più economico"
+    }
+  ],
+  "lastUpdated": "2026-04-29T00:00:00Z",
+  "reviewDate": "2026-04-29T00:00:00Z",
+  "author": {
+    "name": "Sarah Mitchell",
+    "title": "Redattrice Senior di Tecnologia",
+    "bio": "Sarah testa prodotti di consumo da oltre 7 anni per TrueTopReviews, con un focus su reti e connettività.",
+    "avatar": "sarah-mitchell.jpg"
+  },
+  "affiliateUrl": "https://www.tp-link.com/it/home-networking/5g-4g-router/tl-mr6400/",
+  "comparisonData": {},
+  "seoMeta": {
+    "title": "TP-Link TL-MR6400 Recensione 2026: 7,8/10 | TrueTopReviews",
+    "description": "Recensione del TP-Link TL-MR6400: il router 4G più economico di TP-Link. Valutato 7,8/10 dai nostri esperti.",
+    "keywords": [
+      "TP-Link TL-MR6400 recensione",
+      "router 4g economico",
+      "router 4g lte tplink"
+    ]
+  }
+}
