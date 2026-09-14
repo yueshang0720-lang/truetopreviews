@@ -28,6 +28,31 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
+function renderInline(text: string) {
+  const parts = text
+    .split(/(\*\*[^*]+\*\*|\[[^\]]*\]\([^)]*\))/g)
+    .filter(Boolean);
+  return parts.map((part, i) => {
+    if (part.startsWith("**") && part.endsWith("**") && part.length > 4) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    const link = part.match(/^\[([^\]]*)\]\(([^)]*)\)$/);
+    if (link) {
+      return (
+        <a
+          key={i}
+          href={link[2]}
+          target="_blank"
+          rel="nofollow sponsored noopener"
+        >
+          {link[1]}
+        </a>
+      );
+    }
+    return part;
+  });
+}
+
 export default async function BlogPostPage({ params }: PageProps) {
   const { slug } = await params;
   const post = await loadBlogPost(slug);
@@ -66,14 +91,39 @@ export default async function BlogPostPage({ params }: PageProps) {
           </div>
         </div>
         <div className="prose max-w-none">
-          {post.content.split("\n\n").map((para, i) => {
-            if (para.startsWith("## ")) {
-              return <h2 key={i} className="text-2xl font-bold mt-8 mb-4 text-slate-900">{para.slice(3)}</h2>;
+          {post.content.split("\n\n").map((block, i) => {
+            if (block.startsWith("## ")) {
+              return <h2 key={i}>{block.slice(3)}</h2>;
             }
-            if (para.startsWith("### ")) {
-              return <h3 key={i} className="text-xl font-semibold mt-6 mb-3 text-slate-800">{para.slice(4)}</h3>;
+            if (block.startsWith("### ")) {
+              return <h3 key={i}>{block.slice(4)}</h3>;
             }
-            return <p key={i} className="text-slate-700 leading-relaxed mb-4">{para}</p>;
+            const img = block.match(/^!\[([^\]]*)\]\(([^)]*)\)$/);
+            if (img) {
+              return (
+                <img
+                  key={i}
+                  src={img[2]}
+                  alt={img[1]}
+                  loading="lazy"
+                  className="w-full rounded-xl my-6"
+                />
+              );
+            }
+            const lines = block.split("\n");
+            if (
+              lines.length > 1 &&
+              lines.every((l) => l.trimStart().startsWith("- "))
+            ) {
+              return (
+                <ul key={i}>
+                  {lines.map((l, j) => (
+                    <li key={j}>{renderInline(l.trimStart().slice(2))}</li>
+                  ))}
+                </ul>
+              );
+            }
+            return <p key={i}>{renderInline(block)}</p>;
           })}
         </div>
         <div className="mt-12 pt-8 border-t border-gray-200">
